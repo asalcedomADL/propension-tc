@@ -1,0 +1,1561 @@
+,index,Porcentaje_Missing,Percentil10,Percentil90,variabilidad,0,1,PSI_max,decision_final
+0,id_cliente,0.0,1.886552661881482e+17,9.126562870460262e+17,Variable,,,,Incluir
+1,fecha_tx_pav,0.0,201902.0,201910.0,Variable,,,,Incluir
+2,fecha_tx_act,0.0,201902.0,201910.0,Variable,,,,Incluir
+3,fecha_pasivo,0.0,201901.0,201909.0,Variable,,,,Incluir
+4,fecha_lib,0.0,201902.0,201910.0,Variable,,,,Incluir
+5,fecha_activo,0.0,201901.0,201909.0,Variable,,,,Incluir
+6,fecha_buro,0.0,201812.0,201909.0,Variable,,,,Incluir
+7,data_camp,0.0,201903.0,201911.0,Variable,,,,Incluir
+8,mes_campaña,0.0,,,,,,,Incluir
+9,venta,0.0,0.0,0.0,No variable,,,,Excluir
+10,30first_use,0.0,0.0,0.0,No variable,,,,Excluir
+11,var_final,0.0,0.0,0.0,No variable,,,,Excluir
+12,tipo_campana,0.0,,,,,,,Incluir
+13,periodo,0.0,,,,,,,Incluir
+14,acep_oferta_prev,0.9667880711117522,0.0,0.0,No variable,acep_oferta_prev,0.0,0.0,Excluir
+15,num_act_utl_meses,0.9667880711117522,0.0,0.0,No variable,num_act_utl_meses,0.0,0.0,Excluir
+16,num_camp_ult_meses,0.9667880711117522,1.0,1.0,No variable,num_camp_ult_meses,0.0,0.0,Excluir
+17,num_meses_ult_actv,0.999963939273737,-0.8,-0.8,No variable,num_meses_ult_actv,,,Excluir
+18,num_meses_ult_camp,0.9667880711117522,3.066666666666667,9.1,Variable,num_meses_ult_camp,inf,inf,Excluir
+19,num_no_aceptado,0.9667880711117522,1.0,1.0,No variable,num_no_aceptado,inf,inf,Excluir
+20,prom_cupo_aprob,0.9998557570949479,2330000.0,2740000.0,Variable,prom_cupo_aprob,inf,inf,Excluir
+21,acierta_a_financiero,0.9926436118423425,669.5999999999999,921.0,Variable,acierta_a_financiero,inf,inf,Excluir
+22,cancel_mal_manejo_cartera_hist,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+23,cancel_mal_manejo_ctas_banca,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+24,cartera_banca_alt_max_de_mora,0.9926436118423425,0.0,0.0,No variable,cartera_banca_alt_max_de_mora,0.0,0.0,Excluir
+25,cartera_castig_cartera_actual,0.9926436118423425,0.0,0.0,No variable,cartera_castig_cartera_actual,0.0,0.0,Excluir
+26,cartera_coope_alt_max_de_mora,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+27,cartera_hipote_alt_max_de_mora,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+28,cartera_recupe_cartera_hist,0.9926436118423425,0.0,0.0,No variable,cartera_recupe_cartera_hist,0.0,0.0,Excluir
+29,cedulaenc,1.0,,,,,,,Excluir
+30,ciudad_de_expedicion,0.9926436118423425,,,,ciudad_de_expedicion,0.9760325781549276,0.9760325781549276,Excluir
+31,ctas_ctes_act_cta_banca,0.9926436118423425,0.0,1.0,Variable,ctas_ctes_act_cta_banca,0.0,0.0,Excluir
+32,ctas_de_ahorro_act_ctas_banca,0.9926436118423425,0.0,3.0,Variable,ctas_de_ahorro_act_ctas_banca,inf,inf,Excluir
+33,ctas_embargadas_ctas_bancarias,0.9926436118423425,0.0,0.0,No variable,ctas_embargadas_ctas_bancarias,0.0,0.0,Excluir
+34,ctas_en_cobrador_cartera_act,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+35,ctas_saldadas_ctas_banca,0.9926436118423425,0.0,4.0,Variable,ctas_saldadas_ctas_banca,inf,inf,Excluir
+36,cuotas_calculadas_créditos,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+37,cuotas_calculadas_hipotecarias,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+38,cuotas_calculadas_tdc,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+39,cupo_ajustadi,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+40,cupo_exp_fin,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+41,cupo_final,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+42,cupo_segun_mercado,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+43,cupo_sugerido_1,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+44,cupo_sugerido_2,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+45,cupo_sugerido_3,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+46,dudoso_recaudo_cartera_actual,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+47,endeudamiento,0.9926436118423425,0.0,0.6,Variable,endeudamiento,inf,inf,Excluir
+48,estado_consulta,0.9926436118423425,1.0,1.0,No variable,estado_consulta,,,Excluir
+49,experiencia_financiera,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+50,fecantiapersectorbancasinpopu,0.9926436118423425,0.0,201905.0,Variable,fecantiapersectorbancasinpopu,inf,inf,Excluir
+51,fecha_data,0.9926436118423425,,,,,,,Excluir
+52,fecha_envio,0.9926436118423425,,,,,,,Excluir
+53,fecha_mas_antigua_apertura,0.9926436118423425,0.0,201708.0,Variable,fecha_mas_antigua_apertura,inf,inf,Excluir
+54,fec_masantapersectorhipsin_pop,0.9926436118423425,0.0,201308.69999999998,Variable,fec_masantapersectorhipsin_pop,0.0,0.0,Excluir
+55,fec_mas_anti_aper_tdc_sin_popu,0.9926436118423425,0.0,201706.69999999998,Variable,fec_mas_anti_aper_tdc_sin_popu,inf,inf,Excluir
+56,genero,0.993292704915077,,,,genero,0.4742845146327767,0.4742845146327767,Excluir
+57,no_creditos_codeudores,1.0,,,No variable,,,,Excluir
+58,numero_celulares_telcos,0.9926436118423425,0.0,2.0,Variable,numero_celulares_telcos,inf,inf,Excluir
+59,numero_creditos_cb,0.9926436118423425,0.0,2.0,Variable,numero_creditos_cb,inf,inf,Excluir
+60,numero_creditos_cf,0.9926436118423425,0.0,1.0,Variable,numero_creditos_cf,inf,inf,Excluir
+61,numero_creditos_codeudores,0.9926436118423425,0.0,1.0,Variable,numero_creditos_codeudores,0.0,0.0,Excluir
+62,numero_creditos_cooperativas,0.9926436118423425,0.0,0.0,No variable,numero_creditos_cooperativas,0.0,0.0,Excluir
+63,numero_creditos_cv,0.9926436118423425,0.0,1.0,Variable,numero_creditos_cv,0.0,0.0,Excluir
+64,numero_creditos_sr,0.9926436118423425,0.0,2.0,Variable,numero_creditos_sr,inf,inf,Excluir
+65,numero_obligaciones_activas,0.9926436118423425,3.3000000000000007,13.0,Variable,numero_obligaciones_activas,inf,inf,Excluir
+66,numero_tdc,0.9926436118423425,0.0,6.0,Variable,numero_tdc,inf,inf,Excluir
+67,numoblvigensectorbancasin_popu,0.9926436118423425,0.0,2.0,Variable,numoblvigensectorbancasin_popu,inf,inf,Excluir
+68,numoblvigensector_hip_sin_popu,0.9926436118423425,0.0,1.0,Variable,numoblvigensector_hip_sin_popu,0.0,0.0,Excluir
+69,num_tdc_vigentes_sin_popular,0.9926436118423425,0.0,5.0,Variable,num_tdc_vigentes_sin_popular,inf,inf,Excluir
+70,obliga_al_dia_cartera_actual,0.9926436118423425,3.0,13.0,Variable,obliga_al_dia_cartera_actual,inf,inf,Excluir
+71,obliga_mora_120_cartera_actual,0.9926436118423425,0.0,0.0,No variable,obliga_mora_120_cartera_actual,0.0,0.0,Excluir
+72,obliga_mora_30_cartera_actual,0.9926436118423425,0.0,0.0,No variable,obliga_mora_30_cartera_actual,0.0,0.0,Excluir
+73,obliga_mora_60_cartera_actual,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+74,obliga_mora_90_cartera_actual,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+75,peor_califi_trim_1_endeud,0.9929681583787098,,,,peor_califi_trim_1_endeud,0.11908735143395588,0.11908735143395588,Excluir
+76,peor_calif_trim_2_endeud,0.9930042191049728,,,,peor_calif_trim_2_endeud,0.0854862948845895,0.0854862948845895,Excluir
+77,plazo_credito,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+78,plazo_hipotecario,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+79,plazo_tdc,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+80,porcentaje_utilizacion,0.9930763405574988,0.0,0.9390000000000001,Variable,porcentaje_utilizacion,inf,inf,Excluir
+81,porcen_de_cuotas_vs_ingreso,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+82,quanto,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+83,quanto_mod,0.9926436118423425,2842400.0,9329400.0,Variable,quanto_mod,inf,inf,Excluir
+84,rango_0,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+85,rango_1,0.9926436118423425,0.0,1.0,Variable,rango_1,0.0,0.0,Excluir
+86,rango_2,0.9926436118423425,0.0,1.0,Variable,rango_2,inf,inf,Excluir
+87,rango_3,0.9926436118423425,0.0,2.0,Variable,rango_3,inf,inf,Excluir
+88,rango_4,0.9926436118423425,0.0,2.0,Variable,rango_4,inf,inf,Excluir
+89,rango_5,0.9926436118423425,0.0,1.0,Variable,rango_5,inf,inf,Excluir
+90,rango_6,0.9926436118423425,0.0,1.0,Variable,rango_6,0.0,0.0,Excluir
+91,rango_aproximado_edad,0.9926796725686056,,,,rango_aproximado_edad,5.287032550573601,5.287032550573601,Excluir
+92,respuesta,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+93,tasa_creditos,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+94,tasa_hipotecario,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+95,tdc_altura_maxima_de_mora,0.9926436118423425,0.0,0.0,No variable,tdc_altura_maxima_de_mora,0.0,0.0,Excluir
+96,tipo_cliente,0.9966102917312755,,,,,,,Excluir
+97,tipo_id,0.9926436118423425,,,,,,,Excluir
+98,total_consultas_ult_6_meses,0.9926436118423425,0.0,5.0,Variable,total_consultas_ult_6_meses,inf,inf,Excluir
+99,ult_año_moras_120_cartera_hist,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_120_cartera_hist,0.0,0.0,Excluir
+100,ult_año_moras_30_cartera_hist,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_30_cartera_hist,0.0,0.0,Excluir
+101,ult_año_moras_60_cartera_hist,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_60_cartera_hist,0.0,0.0,Excluir
+102,ult_año_moras_90_cartera_hist,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+103,utilizacion_sin_popular,0.9931124012837619,0.0,0.9,Variable,utilizacion_sin_popular,inf,inf,Excluir
+104,util_sector_banca_sin_popular,0.9956366521221738,0.0,0.9,Variable,util_sector_banca_sin_popular,inf,inf,Excluir
+105,util_sector_hip_sin_popular,0.9944466481554939,0.0,1.0,Variable,util_sector_hip_sin_popular,inf,inf,Excluir
+106,val_cuo_sector_banca_sin_popu,0.9926436118423425,0.0,929800.0000000007,Variable,val_cuo_sector_banca_sin_popu,inf,inf,Excluir
+107,val_morasectorbancasin_popular,0.9926436118423425,0.0,0.0,No variable,val_morasectorbancasin_popular,0.0,0.0,Excluir
+108,val_mora_sector_hip_sin_popu,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+109,val_util_sector_hip_sin_pop,0.9926436118423425,0.0,39216700.000000015,Variable,val_util_sector_hip_sin_pop,0.0,0.0,Excluir
+110,fecha_real,0.9926436118423425,201812.0,201909.0,Variable,,,,Excluir
+111,derogatorio,0.999891817821211,,,,derogatorio,0.0,0.0,Excluir
+112,marca_derogatorio,0.9926436118423425,,,,marca_derogatorio,0.09738599568803029,0.09738599568803029,Excluir
+113,moramax_mercado,0.9926436118423425,0.0,0.0,No variable,moramax_mercado,0.0,0.0,Excluir
+114,tiene_carbancos,0.9926436118423425,0.0,1.0,Variable,tiene_carbancos,0.0,0.0,Excluir
+115,tiene_hipotecario,0.9926436118423425,0.0,1.0,Variable,tiene_hipotecario,0.0,0.0,Excluir
+116,tiene_cartfinanciera,0.9926436118423425,0.0,1.0,Variable,tiene_cartfinanciera,0.0,0.0,Excluir
+117,tiene_sectorreal,0.9926436118423425,0.0,1.0,Variable,tiene_sectorreal,0.0,0.0,Excluir
+118,tiene_sectorcoop,0.9926436118423425,0.0,0.0,No variable,tiene_sectorcoop,0.0,0.0,Excluir
+119,tiene_codeudor,0.9926436118423425,0.0,1.0,Variable,tiene_codeudor,0.0,0.0,Excluir
+120,llave_lag,0.9926436118423425,0.0,1.0,Variable,,,,Excluir
+121,porcentaje_utilizaciondif,0.9926436118423425,-0.43622884770346493,1.0,Variable,porcentaje_utilizaciondif,inf,inf,Excluir
+122,numero_obligaciones_activasdif,0.9926436118423425,-0.15054945054945054,1.0,Variable,numero_obligaciones_activasdif,inf,inf,Excluir
+123,numero_creditos_cbdif,0.9926436118423425,-1.0,1.0,Variable,numero_creditos_cbdif,inf,inf,Excluir
+124,valor_inicial_cbdif,0.9926436118423425,-1.0,1.0,Variable,valor_inicial_cbdif,inf,inf,Excluir
+125,valor_saldo_cbdif,0.9926436118423425,-1.0,1.0,Variable,valor_saldo_cbdif,inf,inf,Excluir
+126,valor_cuotas_cbdif,0.9926436118423425,-1.0,1.0,Variable,valor_cuotas_cbdif,inf,inf,Excluir
+127,valor_mora_cbdif,0.9926436118423425,0.0,0.0,No variable,valor_mora_cbdif,0.0,0.0,Excluir
+128,numero_creditos_cvdif,0.9926436118423425,0.0,0.0,No variable,numero_creditos_cvdif,inf,inf,Excluir
+129,valor_inicial_cvdif,0.9926436118423425,0.0,0.0,No variable,valor_inicial_cvdif,inf,inf,Excluir
+130,valor_saldo_cvdif,0.9926436118423425,0.0,0.0,No variable,valor_saldo_cvdif,inf,inf,Excluir
+131,valor_cuotas_cvdif,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_cvdif,inf,inf,Excluir
+132,valor_mora_cvdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+133,numero_creditos_cfdif,0.9926436118423425,0.0,0.0,No variable,numero_creditos_cfdif,inf,inf,Excluir
+134,valor_inicial_cfdif,0.9926436118423425,0.0,0.0,No variable,valor_inicial_cfdif,inf,inf,Excluir
+135,valor_saldo_cfdif,0.9926436118423425,-0.055731741559830274,0.0,Variable,valor_saldo_cfdif,inf,inf,Excluir
+136,valor_cuotas_cfdif,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_cfdif,inf,inf,Excluir
+137,valor_mora_cfdif,0.9926436118423425,0.0,0.0,No variable,valor_mora_cfdif,0.0,0.0,Excluir
+138,numero_tdcdif,0.9926436118423425,0.0,1.0,Variable,numero_tdcdif,inf,inf,Excluir
+139,valor_cuposdif,0.9926436118423425,0.0,1.0,Variable,valor_cuposdif,inf,inf,Excluir
+140,valor_utilizadodif,0.9926436118423425,-0.5041850868227107,1.0,Variable,valor_utilizadodif,inf,inf,Excluir
+141,valor_cuotasdif,0.9926436118423425,-0.8079564658618281,1.0,Variable,valor_cuotasdif,inf,inf,Excluir
+142,valor_moradif,0.9926436118423425,0.0,0.0,No variable,valor_moradif,inf,inf,Excluir
+143,numero_creditos_srdif,0.9926436118423425,0.0,1.0,Variable,numero_creditos_srdif,inf,inf,Excluir
+144,valor_inicial_srdif,0.9926436118423425,0.0,1.0,Variable,valor_inicial_srdif,inf,inf,Excluir
+145,valor_saldo_srdif,0.9926436118423425,-0.19690468465789995,1.0,Variable,valor_saldo_srdif,inf,inf,Excluir
+146,valor_cuotas_srdif,0.9926436118423425,0.0,1.0,Variable,valor_cuotas_srdif,inf,inf,Excluir
+147,valor_mora_srdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+148,numero_celulares_telcosdif,0.9926436118423425,0.0,1.0,Variable,numero_celulares_telcosdif,inf,inf,Excluir
+149,valor_cuotas_celulares_telcosdif,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_celulares_telcosdif,inf,inf,Excluir
+150,valor_mora_telcosdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+151,numero_creditos_cooperativasdif,0.9926436118423425,0.0,0.0,No variable,numero_creditos_cooperativasdif,inf,inf,Excluir
+152,valor_inicial_cooperativasdif,0.9926436118423425,0.0,0.0,No variable,valor_inicial_cooperativasdif,inf,inf,Excluir
+153,valor_saldo_cooperativasdif,0.9926436118423425,0.0,0.0,No variable,valor_saldo_cooperativasdif,inf,inf,Excluir
+154,valor_cuotas_cooperativasdif,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_cooperativasdif,inf,inf,Excluir
+155,valor_mora_cooperativasdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+156,numero_creditos_codeudoresdif,0.9926436118423425,0.0,1.0,Variable,numero_creditos_codeudoresdif,inf,inf,Excluir
+157,valor_saldo_codeudoresdif,0.9926436118423425,0.0,0.0,No variable,valor_saldo_codeudoresdif,inf,inf,Excluir
+158,valor_cuotas_codeudoresdif,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_codeudoresdif,inf,inf,Excluir
+159,valor_mora_codeudoresdif,0.9926436118423425,0.0,0.0,No variable,valor_mora_codeudoresdif,inf,inf,Excluir
+160,obliga_al_dia_cartera_actualdif,0.9926436118423425,-0.15054945054945054,1.0,Variable,obliga_al_dia_cartera_actualdif,inf,inf,Excluir
+161,obliga_mora_30_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,obliga_mora_30_cartera_actualdif,inf,inf,Excluir
+162,obliga_mora_60_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+163,obliga_mora_90_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+164,obliga_mora_120_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,obliga_mora_120_cartera_actualdif,0.0,0.0,Excluir
+165,cartera_castig_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,cartera_castig_cartera_actualdif,inf,inf,Excluir
+166,dudoso_recaudo_cartera_actualdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+167,ctas_en_cobrador_cartera_actdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+168,ult_año_moras_30_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_30_cartera_histdif,inf,inf,Excluir
+169,ult_año_moras_60_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_60_cartera_histdif,inf,inf,Excluir
+170,ult_año_moras_90_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+171,ult_año_moras_120_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,ult_año_moras_120_cartera_histdif,0.0,0.0,Excluir
+172,cancel_mal_manejo_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+173,cartera_recupe_cartera_histdif,0.9926436118423425,0.0,0.0,No variable,cartera_recupe_cartera_histdif,0.0,0.0,Excluir
+174,ctas_de_ahorro_act_ctas_bancadif,0.9926436118423425,0.0,1.0,Variable,ctas_de_ahorro_act_ctas_bancadif,inf,inf,Excluir
+175,ctas_ctes_act_cta_bancadif,0.9926436118423425,0.0,0.0,No variable,ctas_ctes_act_cta_bancadif,inf,inf,Excluir
+176,ctas_embargadas_ctas_bancariasdif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+177,cancel_mal_manejo_ctas_bancadif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+178,ctas_saldadas_ctas_bancadif,0.9926436118423425,0.0,1.0,Variable,ctas_saldadas_ctas_bancadif,inf,inf,Excluir
+179,total_consultas_ult_6_mesesdif,0.9926436118423425,-0.3333333333333333,1.0,Variable,total_consultas_ult_6_mesesdif,inf,inf,Excluir
+180,num_tdc_vigentes_sin_populardif,0.9926436118423425,0.0,1.0,Variable,num_tdc_vigentes_sin_populardif,inf,inf,Excluir
+181,cupo_sin_populardif,0.9926436118423425,0.0,1.0,Variable,cupo_sin_populardif,inf,inf,Excluir
+182,max_cupo_tdc_sin_populardif,0.9926436118423425,0.0,1.0,Variable,max_cupo_tdc_sin_populardif,inf,inf,Excluir
+183,promedio_cupo_tdc_sin_populardif,0.9926436118423425,0.0,1.0,Variable,promedio_cupo_tdc_sin_populardif,inf,inf,Excluir
+184,valor_utilizado_sin_populardif,0.9926436118423425,-0.4872929667105884,1.0,Variable,valor_utilizado_sin_populardif,inf,inf,Excluir
+185,utilizacion_sin_populardif,0.9926436118423425,-0.2222222222222223,1.0,Variable,utilizacion_sin_populardif,inf,inf,Excluir
+186,valor_cuotas_sin_populardif,0.9926436118423425,-0.8141146549288016,1.0,Variable,valor_cuotas_sin_populardif,inf,inf,Excluir
+187,valor_en_mora_sin_populardif,0.9926436118423425,0.0,0.0,No variable,valor_en_mora_sin_populardif,inf,inf,Excluir
+188,numoblvigensectorbancasin_popudif,0.9926436118423425,0.0,1.0,Variable,numoblvigensectorbancasin_popudif,inf,inf,Excluir
+189,cuposectorbancario_sin_populardif,0.9926436118423425,0.0,1.0,Variable,cuposectorbancario_sin_populardif,inf,inf,Excluir
+190,maxcuposectorbancasin_populardif,0.9926436118423425,0.0,1.0,Variable,maxcuposectorbancasin_populardif,inf,inf,Excluir
+191,promcuposectorbancasin_populardif,0.9926436118423425,0.0,1.0,Variable,promcuposectorbancasin_populardif,inf,inf,Excluir
+192,valor_utilisectorbancasin_popudif,0.9926436118423425,-0.054617833767288876,1.0,Variable,valor_utilisectorbancasin_popudif,inf,inf,Excluir
+193,util_sector_banca_sin_populardif,0.9926436118423425,0.0,0.0,No variable,util_sector_banca_sin_populardif,inf,inf,Excluir
+194,val_cuo_sector_banca_sin_popudif,0.9926436118423425,0.0,1.0,Variable,val_cuo_sector_banca_sin_popudif,inf,inf,Excluir
+195,val_morasectorbancasin_populardif,0.9926436118423425,0.0,0.0,No variable,val_morasectorbancasin_populardif,0.0,0.0,Excluir
+196,numoblvigensector_hip_sin_popudif,0.9926436118423425,0.0,0.0,No variable,numoblvigensector_hip_sin_popudif,0.0,0.0,Excluir
+197,cupo_sector_hip_sin_populardif,0.9926436118423425,0.0,0.0,No variable,cupo_sector_hip_sin_populardif,0.0,0.0,Excluir
+198,max_cupo_sector_hip_sin_popudif,0.9926436118423425,0.0,0.0,No variable,max_cupo_sector_hip_sin_popudif,0.0,0.0,Excluir
+199,prom_cupo_sector_hip_sin_popudif,0.9926436118423425,0.0,0.0,No variable,prom_cupo_sector_hip_sin_popudif,0.0,0.0,Excluir
+200,val_util_sector_hip_sin_popdif,0.9926436118423425,0.0,0.0,No variable,val_util_sector_hip_sin_popdif,inf,inf,Excluir
+201,util_sector_hip_sin_populardif,0.9926436118423425,0.0,1.0,Variable,util_sector_hip_sin_populardif,inf,inf,Excluir
+202,val_cuotas_sector_hip_sin_popudif,0.9926436118423425,0.0,0.0,No variable,val_cuotas_sector_hip_sin_popudif,inf,inf,Excluir
+203,val_mora_sector_hip_sin_popudif,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+204,saldo_mercadodif,0.9926436118423425,-0.5063715798426514,1.0,Variable,saldo_mercadodif,inf,inf,Excluir
+205,cuota_mercadodif,0.9926436118423425,-0.6638488182613606,1.0,Variable,cuota_mercadodif,inf,inf,Excluir
+206,cupo_mercadodif,0.9926436118423425,-0.46777925374344387,1.0,Variable,cupo_mercadodif,inf,inf,Excluir
+207,tdc_altura_maxima_de_mora_was_is,0.9926436118423425,,,,tdc_altura_maxima_de_mora_was_is,1.3428560601651243,1.3428560601651243,Excluir
+208,cartera_banca_alt_max_de_mora_was_is,0.9926436118423425,,,,cartera_banca_alt_max_de_mora_was_is,1.3609045458348197,1.3609045458348197,Excluir
+209,cartera_coope_alt_max_de_mora_was_is,0.9926436118423425,,,,cartera_coope_alt_max_de_mora_was_is,1.3609045458348197,1.3609045458348197,Excluir
+210,cartera_hipote_alt_max_de_mora_was_is,0.9926436118423425,,,,cartera_hipote_alt_max_de_mora_was_is,1.3609045458348197,1.3609045458348197,Excluir
+211,moramax_mercado_was_is,0.9926436118423425,,,,moramax_mercado_was_is,1.3428560601651243,1.3428560601651243,Excluir
+212,ano_po,0.9926436118423425,2018.0,2019.0,Variable,,,,Excluir
+213,valor_saldo_cb_smlv,0.9926436118423425,0.0,64.85828839436533,Variable,valor_saldo_cb_smlv,inf,inf,Excluir
+214,valor_saldo_cv_smlv,0.9926436118423425,0.0,49.05575312449165,Variable,valor_saldo_cv_smlv,0.0,0.0,Excluir
+215,valor_saldo_cf_smlv,0.9926436118423425,0.0,6.860358250068485,Variable,valor_saldo_cf_smlv,inf,inf,Excluir
+216,valor_saldo_sr_smlv,0.9926436118423425,0.0,45.40897652019767,Variable,valor_saldo_sr_smlv,inf,inf,Excluir
+217,valor_saldo_cooperativas_smlv,0.9926436118423425,0.0,0.0,No variable,valor_saldo_cooperativas_smlv,0.0,0.0,Excluir
+218,valor_saldo_codeudores_smlv,0.9926436118423425,0.0,6.2428799270905015,Variable,valor_saldo_codeudores_smlv,0.0,0.0,Excluir
+219,saldo_mercado_smlv,0.9926436118423425,0.0,141.18828348849686,Variable,saldo_mercado_smlv,inf,inf,Excluir
+220,valor_cupos_smlv,0.9926436118423425,0.0,57.978807720776096,Variable,valor_cupos_smlv,inf,inf,Excluir
+221,cupo_sin_popular_smlv,0.9926436118423425,0.0,52.85104056948707,Variable,cupo_sin_popular_smlv,inf,inf,Excluir
+222,max_cupo_tdc_sin_popular_smlv,0.9926436118423425,0.0,19.65774957236029,Variable,max_cupo_tdc_sin_popular_smlv,inf,inf,Excluir
+223,promedio_cupo_tdc_sin_popular_smlv,0.9926436118423425,0.0,12.763906675818713,Variable,promedio_cupo_tdc_sin_popular_smlv,inf,inf,Excluir
+224,cuposectorbancario_sin_popular_smlv,0.9926436118423425,0.0,52.529332610285806,Variable,cuposectorbancario_sin_popular_smlv,inf,inf,Excluir
+225,maxcuposectorbancasin_popular_smlv,0.9926436118423425,0.0,42.119703036772634,Variable,maxcuposectorbancasin_popular_smlv,inf,inf,Excluir
+226,promcuposectorbancasin_popular_smlv,0.9926436118423425,0.0,38.27966130348891,Variable,promcuposectorbancasin_popular_smlv,inf,inf,Excluir
+227,cupo_sector_hip_sin_popular_smlv,0.9926436118423425,0.0,54.70168309284142,Variable,cupo_sector_hip_sin_popular_smlv,0.0,0.0,Excluir
+228,max_cupo_sector_hip_sin_popu_smlv,0.9926436118423425,0.0,54.70168309284142,Variable,max_cupo_sector_hip_sin_popu_smlv,0.0,0.0,Excluir
+229,prom_cupo_sector_hip_sin_popu_smlv,0.9926436118423425,0.0,54.70168309284142,Variable,prom_cupo_sector_hip_sin_popu_smlv,0.0,0.0,Excluir
+230,cupo_mercado_smlv,0.9926436118423425,0.0,174.54487052538553,Variable,cupo_mercado_smlv,inf,inf,Excluir
+231,valor_inicial_cb_smlv,0.9926436118423425,0.0,83.20716800602372,Variable,valor_inicial_cb_smlv,inf,inf,Excluir
+232,valor_inicial_cv_smlv,0.9926436118423425,0.0,65.20209729071784,Variable,valor_inicial_cv_smlv,0.0,0.0,Excluir
+233,valor_inicial_cf_smlv,0.9926436118423425,0.0,13.15853474339578,Variable,valor_inicial_cf_smlv,inf,inf,Excluir
+234,valor_inicial_sr_smlv,0.9926436118423425,0.0,45.52502306440162,Variable,valor_inicial_sr_smlv,inf,inf,Excluir
+235,valor_inicial_cooperativas_smlv,0.9926436118423425,0.0,0.0,No variable,valor_inicial_cooperativas_smlv,0.0,0.0,Excluir
+236,valor_cuotas_cb_smlv,0.9926436118423425,0.0,1.6766891692970942,Variable,valor_cuotas_cb_smlv,inf,inf,Excluir
+237,valor_cuotas_cv_smlv,0.9926436118423425,0.0,0.4740831226799022,Variable,valor_cuotas_cv_smlv,0.0,0.0,Excluir
+238,valor_cuotas_cf_smlv,0.9926436118423425,0.0,0.2429466002984862,Variable,valor_cuotas_cf_smlv,0.0,0.0,Excluir
+239,valor_cuotas_smlv,0.9926436118423425,0.0,2.1364698774515456,Variable,valor_cuotas_smlv,inf,inf,Excluir
+240,valor_cuotas_sr_smlv,0.9926436118423425,0.0,0.9744623398543639,Variable,valor_cuotas_sr_smlv,inf,inf,Excluir
+241,valor_cuotas_celulares_telcos_smlv,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_celulares_telcos_smlv,0.0,0.0,Excluir
+242,valor_cuotas_cooperativas_smlv,0.9926436118423425,0.0,0.0,No variable,valor_cuotas_cooperativas_smlv,0.0,0.0,Excluir
+243,valor_cuotas_codeudores_smlv,0.9926436118423425,0.0,0.2952990238620046,Variable,valor_cuotas_codeudores_smlv,0.0,0.0,Excluir
+244,valor_cuotas_sin_popular_smlv,0.9926436118423425,0.0,2.0738772365029035,Variable,valor_cuotas_sin_popular_smlv,inf,inf,Excluir
+245,val_cuotas_sector_hip_sin_popu_smlv,0.9926436118423425,0.0,0.4025280807145718,Variable,val_cuotas_sector_hip_sin_popu_smlv,0.0,0.0,Excluir
+246,cuota_mercado_smlv,0.9926436118423425,0.0,2.6269424053314987,Variable,cuota_mercado_smlv,inf,inf,Excluir
+247,valor_mora_cb_smlv,0.9926436118423425,0.0,0.0,No variable,valor_mora_cb_smlv,0.0,0.0,Excluir
+248,valor_mora_cv_smlv,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+249,valor_mora_cf_smlv,0.9926436118423425,0.0,0.0,No variable,valor_mora_cf_smlv,0.0,0.0,Excluir
+250,valor_utilizado_smlv,0.9926436118423425,0.0,21.815118440626552,Variable,valor_utilizado_smlv,inf,inf,Excluir
+251,valor_mora_smlv,0.9926436118423425,0.0,0.0,No variable,valor_mora_smlv,0.0,0.0,Excluir
+252,valor_mora_sr_smlv,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+253,valor_mora_telcos_smlv,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+254,valor_mora_cooperativas_smlv,0.9926436118423425,0.0,0.0,No variable,,,,Excluir
+255,valor_mora_codeudores_smlv,0.9926436118423425,0.0,0.0,No variable,valor_mora_codeudores_smlv,0.0,0.0,Excluir
+256,valor_utilizado_sin_popular_smlv,0.9926436118423425,0.0,21.462363774605063,Variable,valor_utilizado_sin_popular_smlv,inf,inf,Excluir
+257,valor_en_mora_sin_popular_smlv,0.9926436118423425,0.0,0.0,No variable,valor_en_mora_sin_popular_smlv,0.0,0.0,Excluir
+258,valor_utilisectorbancasin_popu_smlv,0.9926436118423425,0.0,47.28102903583655,Variable,valor_utilisectorbancasin_popu_smlv,inf,inf,Excluir
+259,moramax_mercado_2,0.9926436118423425,0.0,0.0,No variable,moramax_mercado_2,0.0,0.0,Excluir
+260,tdc_altura_maxima_de_mora_lag1,0.9941221016191266,0.0,0.0,No variable,tdc_altura_maxima_de_mora_lag1,0.0,0.0,Excluir
+261,cartera_banca_alt_max_de_mora_lag1,0.9941221016191266,0.0,0.0,No variable,,,,Excluir
+262,cartera_coope_alt_max_de_mora_lag1,0.9941221016191266,0.0,0.0,No variable,,,,Excluir
+263,cartera_hipote_alt_max_de_mora_lag1,0.9941221016191266,0.0,0.0,No variable,,,,Excluir
+264,moramax_mercado_lag1,0.9941221016191266,0.0,0.0,No variable,moramax_mercado_lag1,0.0,0.0,Excluir
+265,moramax_mercado_2_was_is_mantiene,0.9926436118423425,0.0,1.0,Variable,moramax_mercado_2_was_is_mantiene,0.0,0.0,Excluir
+266,num_aper_ultim_1meses_LB,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_1meses_LB,0.0,0.0,Excluir
+267,num_aper_ultim_1meses_TC,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_1meses_TC,0.0,0.0,Excluir
+268,num_aper_ultim_1meses_NV,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_1meses_NV,0.0,0.0,Excluir
+269,num_aper_ultim_1meses_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+270,num_aper_ultim_1meses_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+271,num_aper_ultim_1meses_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+272,num_aper_ultim_1meses_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+273,num_aper_ultim_1meses_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+274,num_aper_ultim_1meses_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+275,num_aper_ultim_3meses_LB,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_LB,0.0,0.0,Excluir
+276,num_aper_ultim_3meses_TC,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_TC,0.0,0.0,Excluir
+277,num_aper_ultim_3meses_NV,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_NV,0.0,0.0,Excluir
+278,num_aper_ultim_3meses_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+279,num_aper_ultim_3meses_CE,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_CE,0.0,0.0,Excluir
+280,num_aper_ultim_3meses_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+281,num_aper_ultim_3meses_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+282,num_aper_ultim_3meses_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+283,num_aper_ultim_3meses_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+284,num_aper_ultim_6meses_LB,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_6meses_LB,0.0,0.0,Excluir
+285,num_aper_ultim_6meses_TC,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_6meses_TC,0.0,0.0,Excluir
+286,num_aper_ultim_6meses_NV,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_6meses_NV,0.0,0.0,Excluir
+287,num_aper_ultim_6meses_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+288,num_aper_ultim_6meses_CE,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_6meses_CE,0.0,0.0,Excluir
+289,num_aper_ultim_6meses_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+290,num_aper_ultim_6meses_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+291,num_aper_ultim_6meses_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+292,num_aper_ultim_6meses_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+293,num_aper_ultim_12meses_LB,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_12meses_LB,0.0,0.0,Excluir
+294,num_aper_ultim_12meses_TC,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_12meses_TC,0.0,0.0,Excluir
+295,num_aper_ultim_12meses_NV,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_12meses_NV,inf,inf,Excluir
+296,num_aper_ultim_12meses_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+297,num_aper_ultim_12meses_CE,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_12meses_CE,0.0,0.0,Excluir
+298,num_aper_ultim_12meses_LE,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_12meses_LE,0.0,0.0,Excluir
+299,num_aper_ultim_12meses_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+300,num_aper_ultim_12meses_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+301,num_aper_ultim_12meses_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+302,num_aper_ultim_1meses_TC_X,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_1meses_TC_X,0.0,0.0,Excluir
+303,num_aper_ultim_1meses_TC_T,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_1meses_TC_T,0.0,0.0,Excluir
+304,num_aper_ultim_3meses_TC_X,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_TC_X,0.0,0.0,Excluir
+305,num_aper_ultim_3meses_TC_T,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_3meses_TC_T,0.0,0.0,Excluir
+306,num_aper_ultim_6meses_TC_X,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_6meses_TC_X,0.0,0.0,Excluir
+307,num_aper_ultim_6meses_TC_T,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_6meses_TC_T,0.0,0.0,Excluir
+308,num_aper_ultim_12meses_TC_X,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_12meses_TC_X,0.0,0.0,Excluir
+309,num_aper_ultim_12meses_TC_T,0.9943745267029678,0.0,0.0,No variable,num_aper_ultim_12meses_TC_T,0.0,0.0,Excluir
+310,num_aper_ultim_1meses_tot,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_1meses_tot,0.0,0.0,Excluir
+311,num_aper_ultim_3meses_tot,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_3meses_tot,0.0,0.0,Excluir
+312,num_aper_ultim_6meses_tot,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_6meses_tot,inf,inf,Excluir
+313,num_aper_ultim_12meses_tot,0.9943745267029678,0.0,1.0,Variable,num_aper_ultim_12meses_tot,inf,inf,Excluir
+314,meses_ultim_aper_LB,0.9995312105585806,12.0,23.0,Variable,meses_ultim_aper_LB,inf,inf,Excluir
+315,meses_ultim_aper_TC,0.9987378745807941,13.0,34.2,Variable,meses_ultim_aper_TC,inf,inf,Excluir
+316,meses_ultim_aper_NV,0.9966463524575385,12.200000000000001,67.6,Variable,meses_ultim_aper_NV,inf,inf,Excluir
+317,meses_ultim_aper_CH,1.0,,,No variable,,,,Excluir
+318,meses_ultim_aper_CE,0.9997836356424218,8.5,46.5,Variable,meses_ultim_aper_CE,inf,inf,Excluir
+319,meses_ultim_aper_LE,0.9996393927373697,21.6,44.59999999999998,Variable,meses_ultim_aper_LE,inf,inf,Excluir
+320,meses_ultim_aper_ME,1.0,,,No variable,,,,Excluir
+321,meses_ultim_aper_SO,0.999891817821211,2.8000000000000003,6.0,Variable,meses_ultim_aper_SO,inf,inf,Excluir
+322,meses_ultim_aper_CC,1.0,,,No variable,,,,Excluir
+323,meses_ultim_aper_TC_X,0.9989542389383722,12.000000000000002,33.4,Variable,meses_ultim_aper_TC_X,inf,inf,Excluir
+324,meses_ultim_aper_TC_T,0.9997836356424218,22.5,73.0,Variable,meses_ultim_aper_TC_T,inf,inf,Excluir
+325,meses_ultim_aper_tot,0.9943745267029678,10.0,55.0,Variable,meses_ultim_aper_tot,inf,inf,Excluir
+326,antiguedad_tot_conlibranza,0.9943745267029678,12.0,55.5,Variable,antiguedad_tot_conlibranza,inf,inf,Excluir
+327,antiguedad_tot_sinlibranza,0.9948072554181241,13.0,57.400000000000034,Variable,antiguedad_tot_sinlibranza,inf,inf,Excluir
+328,antiguedad_TDC_T,0.9997836356424218,22.5,73.0,Variable,antiguedad_TDC_T,inf,inf,Excluir
+329,antiguedad_TDC_X,0.9989542389383722,12.000000000000002,33.4,Variable,antiguedad_TDC_X,inf,inf,Excluir
+330,num_obl_vig_LB,0.9943745267029678,0.0,0.0,No variable,num_obl_vig_LB,0.0,0.0,Excluir
+331,num_obl_vig_TC,0.9943745267029678,0.0,1.0,Variable,num_obl_vig_TC,inf,inf,Excluir
+332,num_obl_vig_NV,0.9943745267029678,0.0,1.0,Variable,num_obl_vig_NV,inf,inf,Excluir
+333,num_obl_vig_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+334,num_obl_vig_CE,0.9943745267029678,0.0,0.0,No variable,num_obl_vig_CE,0.0,0.0,Excluir
+335,num_obl_vig_LE,0.9943745267029678,0.0,0.0,No variable,num_obl_vig_LE,0.0,0.0,Excluir
+336,num_obl_vig_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+337,num_obl_vig_SO,0.9943745267029678,0.0,0.0,No variable,num_obl_vig_SO,0.0,0.0,Excluir
+338,num_obl_vig_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+339,num_obl_vig_TC_X,0.9943745267029678,0.0,1.0,Variable,num_obl_vig_TC_X,0.0,0.0,Excluir
+340,num_obl_vig_TC_T,0.9943745267029678,0.0,0.0,No variable,num_obl_vig_TC_T,0.0,0.0,Excluir
+341,num_obl_vig_tot,0.9943745267029678,1.0,1.0,No variable,num_obl_vig_tot,0.0,0.0,Excluir
+342,num_obl_aldia_LB,0.9943745267029678,0.0,0.0,No variable,num_obl_aldia_LB,0.0,0.0,Excluir
+343,porc_obl_aldia_LB,0.9995312105585806,1.0,1.0,No variable,porc_obl_aldia_LB,,,Excluir
+344,num_obl_mora1_30_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+345,porc_obl_mora1_30_LB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+346,num_obl_mora31_60_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+347,porc_obl_mora31_60_LB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+348,num_obl_mora61_90_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+349,porc_obl_mora61_90_LB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+350,num_obl_mora91_120_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+351,porc_obl_mora91_120_LB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+352,num_obl_mora121_mas_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+353,porc_obl_mora121_mas_LB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+354,num_obl_aldia_TC,0.9943745267029678,0.0,1.0,Variable,num_obl_aldia_TC,inf,inf,Excluir
+355,porc_obl_aldia_TC,0.9987378745807941,1.0,1.0,No variable,porc_obl_aldia_TC,0.0,0.0,Excluir
+356,num_obl_mora1_30_TC,0.9943745267029678,0.0,0.0,No variable,num_obl_mora1_30_TC,0.0,0.0,Excluir
+357,porc_obl_mora1_30_TC,0.9987378745807941,0.0,0.0,No variable,porc_obl_mora1_30_TC,0.0,0.0,Excluir
+358,num_obl_mora31_60_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+359,porc_obl_mora31_60_TC,0.9987378745807941,0.0,0.0,No variable,,,,Excluir
+360,num_obl_mora61_90_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+361,porc_obl_mora61_90_TC,0.9987378745807941,0.0,0.0,No variable,,,,Excluir
+362,num_obl_mora91_120_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+363,porc_obl_mora91_120_TC,0.9987378745807941,0.0,0.0,No variable,,,,Excluir
+364,num_obl_mora121_mas_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+365,porc_obl_mora121_mas_TC,0.9987378745807941,0.0,0.0,No variable,,,,Excluir
+366,num_obl_aldia_NV,0.9943745267029678,0.0,1.0,Variable,num_obl_aldia_NV,inf,inf,Excluir
+367,porc_obl_aldia_NV,0.9966463524575385,0.20000000000000107,1.0,Variable,porc_obl_aldia_NV,0.0,0.0,Excluir
+368,num_obl_mora1_30_NV,0.9943745267029678,0.0,0.0,No variable,num_obl_mora1_30_NV,0.0,0.0,Excluir
+369,porc_obl_mora1_30_NV,0.9966463524575385,0.0,0.0,No variable,porc_obl_mora1_30_NV,0.0,0.0,Excluir
+370,num_obl_mora31_60_NV,0.9943745267029678,0.0,0.0,No variable,num_obl_mora31_60_NV,0.0,0.0,Excluir
+371,porc_obl_mora31_60_NV,0.9966463524575385,0.0,0.0,No variable,porc_obl_mora31_60_NV,0.0,0.0,Excluir
+372,num_obl_mora61_90_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+373,porc_obl_mora61_90_NV,0.9966463524575385,0.0,0.0,No variable,,,,Excluir
+374,num_obl_mora91_120_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+375,porc_obl_mora91_120_NV,0.9966463524575385,0.0,0.0,No variable,,,,Excluir
+376,num_obl_mora121_mas_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+377,porc_obl_mora121_mas_NV,0.9966463524575385,0.0,0.0,No variable,,,,Excluir
+378,num_obl_aldia_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+379,porc_obl_aldia_CH,1.0,,,No variable,,,,Excluir
+380,num_obl_mora1_30_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+381,porc_obl_mora1_30_CH,1.0,,,No variable,,,,Excluir
+382,num_obl_mora31_60_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+383,porc_obl_mora31_60_CH,1.0,,,No variable,,,,Excluir
+384,num_obl_mora61_90_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+385,porc_obl_mora61_90_CH,1.0,,,No variable,,,,Excluir
+386,num_obl_mora91_120_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+387,porc_obl_mora91_120_CH,1.0,,,No variable,,,,Excluir
+388,num_obl_mora121_mas_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+389,porc_obl_mora121_mas_CH,1.0,,,No variable,,,,Excluir
+390,num_obl_aldia_CE,0.9943745267029678,0.0,0.0,No variable,num_obl_aldia_CE,0.0,0.0,Excluir
+391,porc_obl_aldia_CE,0.9997836356424218,1.0,1.0,No variable,porc_obl_aldia_CE,,,Excluir
+392,num_obl_mora1_30_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+393,porc_obl_mora1_30_CE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+394,num_obl_mora31_60_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+395,porc_obl_mora31_60_CE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+396,num_obl_mora61_90_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+397,porc_obl_mora61_90_CE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+398,num_obl_mora91_120_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+399,porc_obl_mora91_120_CE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+400,num_obl_mora121_mas_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+401,porc_obl_mora121_mas_CE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+402,num_obl_aldia_LE,0.9943745267029678,0.0,0.0,No variable,num_obl_aldia_LE,0.0,0.0,Excluir
+403,porc_obl_aldia_LE,0.9996393927373697,0.9,1.0,Variable,porc_obl_aldia_LE,0.0,0.0,Excluir
+404,num_obl_mora1_30_LE,0.9943745267029678,0.0,0.0,No variable,num_obl_mora1_30_LE,0.0,0.0,Excluir
+405,porc_obl_mora1_30_LE,0.9996393927373697,0.0,0.09999999999999964,Variable,porc_obl_mora1_30_LE,0.0,0.0,Excluir
+406,num_obl_mora31_60_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+407,porc_obl_mora31_60_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+408,num_obl_mora61_90_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+409,porc_obl_mora61_90_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+410,num_obl_mora91_120_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+411,porc_obl_mora91_120_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+412,num_obl_mora121_mas_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+413,porc_obl_mora121_mas_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+414,num_obl_aldia_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+415,porc_obl_aldia_ME,1.0,,,No variable,,,,Excluir
+416,num_obl_mora1_30_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+417,porc_obl_mora1_30_ME,1.0,,,No variable,,,,Excluir
+418,num_obl_mora31_60_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+419,porc_obl_mora31_60_ME,1.0,,,No variable,,,,Excluir
+420,num_obl_mora61_90_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+421,porc_obl_mora61_90_ME,1.0,,,No variable,,,,Excluir
+422,num_obl_mora91_120_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+423,porc_obl_mora91_120_ME,1.0,,,No variable,,,,Excluir
+424,num_obl_mora121_mas_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+425,porc_obl_mora121_mas_ME,1.0,,,No variable,,,,Excluir
+426,num_obl_aldia_SO,0.9943745267029678,0.0,0.0,No variable,num_obl_aldia_SO,0.0,0.0,Excluir
+427,porc_obl_aldia_SO,0.999891817821211,1.0,1.0,No variable,porc_obl_aldia_SO,,,Excluir
+428,num_obl_mora1_30_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+429,porc_obl_mora1_30_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+430,num_obl_mora31_60_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+431,porc_obl_mora31_60_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+432,num_obl_mora61_90_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+433,porc_obl_mora61_90_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+434,num_obl_mora91_120_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+435,porc_obl_mora91_120_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+436,num_obl_mora121_mas_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+437,porc_obl_mora121_mas_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+438,num_obl_aldia_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+439,porc_obl_aldia_CC,1.0,,,No variable,,,,Excluir
+440,num_obl_mora1_30_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+441,porc_obl_mora1_30_CC,1.0,,,No variable,,,,Excluir
+442,num_obl_mora31_60_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+443,porc_obl_mora31_60_CC,1.0,,,No variable,,,,Excluir
+444,num_obl_mora61_90_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+445,porc_obl_mora61_90_CC,1.0,,,No variable,,,,Excluir
+446,num_obl_mora91_120_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+447,porc_obl_mora91_120_CC,1.0,,,No variable,,,,Excluir
+448,num_obl_mora121_mas_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+449,porc_obl_mora121_mas_CC,1.0,,,No variable,,,,Excluir
+450,num_obl_aldia_TC_X,0.9943745267029678,0.0,1.0,Variable,num_obl_aldia_TC_X,0.0,0.0,Excluir
+451,porc_obl_aldia_TC_X,0.9989542389383722,1.0,1.0,No variable,porc_obl_aldia_TC_X,0.0,0.0,Excluir
+452,num_obl_mora1_30_TC_X,0.9943745267029678,0.0,0.0,No variable,num_obl_mora1_30_TC_X,0.0,0.0,Excluir
+453,porc_obl_mora1_30_TC_X,0.9989542389383722,0.0,0.0,No variable,porc_obl_mora1_30_TC_X,0.0,0.0,Excluir
+454,num_obl_mora31_60_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+455,porc_obl_mora31_60_TC_X,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+456,num_obl_mora61_90_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+457,porc_obl_mora61_90_TC_X,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+458,num_obl_mora91_120_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+459,porc_obl_mora91_120_TC_X,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+460,num_obl_mora121_mas_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+461,porc_obl_mora121_mas_TC_X,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+462,num_obl_aldia_TC_T,0.9943745267029678,0.0,0.0,No variable,num_obl_aldia_TC_T,0.0,0.0,Excluir
+463,porc_obl_aldia_TC_T,0.9997836356424218,1.0,1.0,No variable,porc_obl_aldia_TC_T,,,Excluir
+464,num_obl_mora1_30_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+465,porc_obl_mora1_30_TC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+466,num_obl_mora31_60_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+467,porc_obl_mora31_60_TC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+468,num_obl_mora61_90_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+469,porc_obl_mora61_90_TC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+470,num_obl_mora91_120_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+471,porc_obl_mora91_120_TC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+472,num_obl_mora121_mas_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+473,porc_obl_mora121_mas_TC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+474,num_obl_aldia_tot,0.9943745267029678,1.0,1.0,No variable,num_obl_aldia_tot,inf,inf,Excluir
+475,porc_obl_aldia_tot,0.9943745267029678,1.0,1.0,No variable,porc_obl_aldia_tot,0.0,0.0,Excluir
+476,num_obl_mora1_30_tot,0.9943745267029678,0.0,0.0,No variable,num_obl_mora1_30_tot,0.0,0.0,Excluir
+477,porc_obl_mora1_30_tot,0.9943745267029678,0.0,0.0,No variable,porc_obl_mora1_30_tot,0.0,0.0,Excluir
+478,num_obl_mora31_60_tot,0.9943745267029678,0.0,0.0,No variable,num_obl_mora31_60_tot,0.0,0.0,Excluir
+479,porc_obl_mora31_60_tot,0.9943745267029678,0.0,0.0,No variable,porc_obl_mora31_60_tot,0.0,0.0,Excluir
+480,num_obl_mora61_90_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+481,porc_obl_mora61_90_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+482,num_obl_mora91_120_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+483,porc_obl_mora91_120_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+484,num_obl_mora121_mas_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+485,porc_obl_mora121_mas_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+486,utilizacion_prom_TC_X,0.9989542389383722,0.917475143583277,0.9994786488276346,Variable,utilizacion_prom_TC_X,inf,inf,Excluir
+487,utilizacion_min_TC_X,0.9989542389383722,0.917475143583277,0.9994786488276346,Variable,utilizacion_min_TC_X,inf,inf,Excluir
+488,utilizacion_max_TC_X,0.9989542389383722,0.917475143583277,0.9994786488276346,Variable,utilizacion_max_TC_X,inf,inf,Excluir
+489,utilizacion_prom_TC_T,0.9997836356424218,0.9751046473264018,1.0,Variable,utilizacion_prom_TC_T,inf,inf,Excluir
+490,utilizacion_min_TC_T,0.9997836356424218,0.974060301304075,1.0,Variable,utilizacion_min_TC_T,inf,inf,Excluir
+491,utilizacion_max_TC_T,0.9997836356424218,0.9751046473264018,1.0,Variable,utilizacion_max_TC_T,inf,inf,Excluir
+492,utilizacion_prom_TC,0.9987378745807941,0.9235560650986288,1.0,Variable,utilizacion_prom_TC,inf,inf,Excluir
+493,utilizacion_min_TC,0.9987378745807941,0.9235560650986288,1.0,Variable,utilizacion_min_TC,inf,inf,Excluir
+494,utilizacion_max_TC,0.9987378745807941,0.9235560650986288,1.0,Variable,utilizacion_max_TC,inf,inf,Excluir
+495,amortizacion_prom_LB,0.9995312105585806,0.0,0.0,No variable,amortizacion_prom_LB,0.0,0.0,Excluir
+496,amortizacion_min_LB,0.9995312105585806,0.0,0.0,No variable,amortizacion_min_LB,0.0,0.0,Excluir
+497,amortizacion_max_LB,0.9995312105585806,0.0,0.0,No variable,amortizacion_max_LB,0.0,0.0,Excluir
+498,amortizacion_prom_NV,0.9966463524575385,0.020894396618450675,0.6552830599999999,Variable,amortizacion_prom_NV,inf,inf,Excluir
+499,amortizacion_min_NV,0.9966463524575385,0.020894396618450675,0.6552830599999999,Variable,amortizacion_min_NV,inf,inf,Excluir
+500,amortizacion_max_NV,0.9966463524575385,0.030174602417135085,0.6727803450000001,Variable,amortizacion_max_NV,inf,inf,Excluir
+501,amortizacion_prom_CH,1.0,,,No variable,,,,Excluir
+502,amortizacion_min_CH,1.0,,,No variable,,,,Excluir
+503,amortizacion_max_CH,1.0,,,No variable,,,,Excluir
+504,amortizacion_prom_CE,0.999891817821211,0.03978204617508093,0.07615036498373169,Variable,amortizacion_prom_CE,inf,inf,Excluir
+505,amortizacion_min_CE,0.999891817821211,0.03978204617508093,0.07615036498373169,Variable,amortizacion_min_CE,inf,inf,Excluir
+506,amortizacion_max_CE,0.999891817821211,0.03978204617508093,0.07615036498373169,Variable,amortizacion_max_CE,inf,inf,Excluir
+507,amortizacion_prom_LE,0.9996393927373697,0.0028872190201526785,0.1326872114646462,Variable,amortizacion_prom_LE,inf,inf,Excluir
+508,amortizacion_min_LE,0.9996393927373697,0.0028872190201526785,0.1326872114646462,Variable,amortizacion_min_LE,inf,inf,Excluir
+509,amortizacion_max_LE,0.9996393927373697,0.0028872190201526785,0.1326872114646462,Variable,amortizacion_max_LE,inf,inf,Excluir
+510,amortizacion_prom_ME,1.0,,,No variable,,,,Excluir
+511,amortizacion_min_ME,1.0,,,No variable,,,,Excluir
+512,amortizacion_max_ME,1.0,,,No variable,,,,Excluir
+513,amortizacion_prom_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+514,amortizacion_min_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+515,amortizacion_max_SO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+516,amortizacion_prom_CC,1.0,,,No variable,,,,Excluir
+517,amortizacion_min_CC,1.0,,,No variable,,,,Excluir
+518,amortizacion_max_CC,1.0,,,No variable,,,,Excluir
+519,amortizacion_prom_tot,0.9956366521221738,0.0,0.6443895,Variable,amortizacion_prom_tot,inf,inf,Excluir
+520,amortizacion_min_tot,0.9956366521221738,0.0,0.6443895,Variable,amortizacion_min_tot,inf,inf,Excluir
+521,amortizacion_max_tot,0.9956366521221738,0.0,0.6497388,Variable,amortizacion_max_tot,inf,inf,Excluir
+522,mora_maxLB,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+523,mora_maxTC,0.9987378745807941,0.0,0.0,No variable,mora_maxTC,0.0,0.0,Excluir
+524,mora_maxNV,0.9966463524575385,0.0,0.7999999999999972,Variable,mora_maxNV,0.0,0.0,Excluir
+525,mora_maxCH,1.0,,,No variable,,,,Excluir
+526,mora_maxCE,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+527,mora_maxLE,0.9996393927373697,0.0,1.7999999999999936,Variable,mora_maxLE,0.0,0.0,Excluir
+528,mora_maxME,1.0,,,No variable,,,,Excluir
+529,mora_maxSO,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+530,mora_maxCC,1.0,,,No variable,,,,Excluir
+531,mora_maxTC_X,0.9989542389383722,0.0,0.0,No variable,mora_maxTC_X,0.0,0.0,Excluir
+532,mora_maxTC_T,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+533,mora_max_tot,0.9943745267029678,0.0,0.0,No variable,mora_max_tot,0.0,0.0,Excluir
+534,saldo_tot_LB_SMLV,0.9995312105585806,18.65824803025819,65.53667109551202,Variable,saldo_tot_LB_SMLV,inf,inf,Excluir
+535,saldo_max_LB_SMLV,0.9995312105585806,18.65824803025819,62.910362770103916,Variable,saldo_max_LB_SMLV,inf,inf,Excluir
+536,saldo_prom_LB_SMLV,0.9995312105585806,18.65824803025819,62.910362770103916,Variable,saldo_prom_LB_SMLV,inf,inf,Excluir
+537,saldo_tot_TC_SMLV,0.9987378745807941,0.057624198412788236,5.798813235847536,Variable,saldo_tot_TC_SMLV,inf,inf,Excluir
+538,saldo_max_TC_SMLV,0.9987378745807941,0.057624198412788236,5.798813235847536,Variable,saldo_max_TC_SMLV,inf,inf,Excluir
+539,saldo_prom_TC_SMLV,0.9987378745807941,0.057624198412788236,5.798813235847536,Variable,saldo_prom_TC_SMLV,inf,inf,Excluir
+540,saldo_tot_NV_SMLV,0.9966463524575385,3.499316520873888,83.6476293176318,Variable,saldo_tot_NV_SMLV,inf,inf,Excluir
+541,saldo_max_NV_SMLV,0.9966463524575385,3.499316520873888,83.6476293176318,Variable,saldo_max_NV_SMLV,inf,inf,Excluir
+542,saldo_prom_NV_SMLV,0.9966463524575385,3.499316520873888,83.6476293176318,Variable,saldo_prom_NV_SMLV,inf,inf,Excluir
+543,saldo_tot_CH_SMLV,1.0,,,No variable,,,,Excluir
+544,saldo_max_CH_SMLV,1.0,,,No variable,,,,Excluir
+545,saldo_prom_CH_SMLV,1.0,,,No variable,,,,Excluir
+546,saldo_tot_CE_SMLV,0.9997836356424218,0.0,12.213573339966866,Variable,saldo_tot_CE_SMLV,inf,inf,Excluir
+547,saldo_max_CE_SMLV,0.9997836356424218,0.0,12.213573339966866,Variable,saldo_max_CE_SMLV,inf,inf,Excluir
+548,saldo_prom_CE_SMLV,0.9997836356424218,0.0,10.940025008573679,Variable,saldo_prom_CE_SMLV,inf,inf,Excluir
+549,saldo_tot_LE_SMLV,0.9996393927373697,154.19653695859034,774.0068535474762,Variable,saldo_tot_LE_SMLV,inf,inf,Excluir
+550,saldo_max_LE_SMLV,0.9996393927373697,154.19653695859034,774.0068535474762,Variable,saldo_max_LE_SMLV,inf,inf,Excluir
+551,saldo_prom_LE_SMLV,0.9996393927373697,154.19653695859034,774.0068535474762,Variable,saldo_prom_LE_SMLV,inf,inf,Excluir
+552,saldo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+553,saldo_max_ME_SMLV,1.0,,,No variable,,,,Excluir
+554,saldo_prom_ME_SMLV,1.0,,,No variable,,,,Excluir
+555,saldo_tot_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,saldo_tot_SO_SMLV,inf,inf,Excluir
+556,saldo_max_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,saldo_max_SO_SMLV,inf,inf,Excluir
+557,saldo_prom_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,saldo_prom_SO_SMLV,inf,inf,Excluir
+558,saldo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+559,saldo_max_CC_SMLV,1.0,,,No variable,,,,Excluir
+560,saldo_prom_CC_SMLV,1.0,,,No variable,,,,Excluir
+561,saldo_tot_TC_X_SMLV,0.9989542389383722,0.07075099141214503,5.518164858008145,Variable,saldo_tot_TC_X_SMLV,inf,inf,Excluir
+562,saldo_max_TC_X_SMLV,0.9989542389383722,0.07075099141214503,5.518164858008145,Variable,saldo_max_TC_X_SMLV,inf,inf,Excluir
+563,saldo_prom_TC_X_SMLV,0.9989542389383722,0.07075099141214503,5.518164858008145,Variable,saldo_prom_TC_X_SMLV,inf,inf,Excluir
+564,saldo_tot_TC_T_SMLV,0.9997836356424218,0.18158852826652946,25.659145081772913,Variable,saldo_tot_TC_T_SMLV,inf,inf,Excluir
+565,saldo_max_TC_T_SMLV,0.9997836356424218,0.18158852826652946,16.043265881274433,Variable,saldo_max_TC_T_SMLV,inf,inf,Excluir
+566,saldo_prom_TC_T_SMLV,0.9997836356424218,0.18158852826652946,13.648286524517648,Variable,saldo_prom_TC_T_SMLV,inf,inf,Excluir
+567,saldo_tot_tot_SMLV,0.9943745267029678,0.48288441474382815,120.78323870085833,Variable,saldo_tot_tot_SMLV,inf,inf,Excluir
+568,saldo_max_tot_SMLV,0.9943745267029678,0.48288441474382815,120.78323870085833,Variable,saldo_max_tot_SMLV,inf,inf,Excluir
+569,saldo_prom_tot_SMLV,0.9943745267029678,0.48288441474382815,109.21932796854547,Variable,saldo_prom_tot_SMLV,inf,inf,Excluir
+570,cupo_tot_LB_SMLV,0.9995312105585806,18.65824803025819,65.53667109551202,Variable,cupo_tot_LB_SMLV,inf,inf,Excluir
+571,cupo_max_LB_SMLV,0.9995312105585806,18.65824803025819,62.910362770103916,Variable,cupo_max_LB_SMLV,inf,inf,Excluir
+572,cupo_prom_LB_SMLV,0.9995312105585806,18.65824803025819,62.910362770103916,Variable,cupo_prom_LB_SMLV,inf,inf,Excluir
+573,cupo_tot_TC_SMLV,0.9987378745807941,0.057624198412788236,5.956048348655091,Variable,cupo_tot_TC_SMLV,inf,inf,Excluir
+574,cupo_max_TC_SMLV,0.9987378745807941,0.057624198412788236,5.956048348655091,Variable,cupo_max_TC_SMLV,inf,inf,Excluir
+575,cupo_prom_TC_SMLV,0.9987378745807941,0.057624198412788236,5.956048348655091,Variable,cupo_prom_TC_SMLV,inf,inf,Excluir
+576,cupo_tot_NV_SMLV,0.9966463524575385,6.27931352612436,109.6464746484792,Variable,cupo_tot_NV_SMLV,inf,inf,Excluir
+577,cupo_max_NV_SMLV,0.9966463524575385,6.27931352612436,109.6464746484792,Variable,cupo_max_NV_SMLV,inf,inf,Excluir
+578,cupo_prom_NV_SMLV,0.9966463524575385,6.27931352612436,106.2653058267199,Variable,cupo_prom_NV_SMLV,inf,inf,Excluir
+579,cupo_tot_CH_SMLV,1.0,,,No variable,,,,Excluir
+580,cupo_max_CH_SMLV,1.0,,,No variable,,,,Excluir
+581,cupo_prom_CH_SMLV,1.0,,,No variable,,,,Excluir
+582,cupo_tot_CE_SMLV,0.9997836356424218,0.0,12.8734615681861,Variable,cupo_tot_CE_SMLV,inf,inf,Excluir
+583,cupo_max_CE_SMLV,0.9997836356424218,0.0,12.8734615681861,Variable,cupo_max_CE_SMLV,inf,inf,Excluir
+584,cupo_prom_CE_SMLV,0.9997836356424218,0.0,11.482096711088785,Variable,cupo_prom_CE_SMLV,inf,inf,Excluir
+585,cupo_tot_LE_SMLV,0.9996393927373697,165.0083674267856,978.9095602548421,Variable,cupo_tot_LE_SMLV,inf,inf,Excluir
+586,cupo_max_LE_SMLV,0.9996393927373697,165.0083674267856,978.9095602548421,Variable,cupo_max_LE_SMLV,inf,inf,Excluir
+587,cupo_prom_LE_SMLV,0.9996393927373697,165.0083674267856,978.9095602548421,Variable,cupo_prom_LE_SMLV,inf,inf,Excluir
+588,cupo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+589,cupo_max_ME_SMLV,1.0,,,No variable,,,,Excluir
+590,cupo_prom_ME_SMLV,1.0,,,No variable,,,,Excluir
+591,cupo_tot_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,cupo_tot_SO_SMLV,inf,inf,Excluir
+592,cupo_max_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,cupo_max_SO_SMLV,inf,inf,Excluir
+593,cupo_prom_SO_SMLV,0.999891817821211,0.007474315192557566,3.7435677803592737,Variable,cupo_prom_SO_SMLV,inf,inf,Excluir
+594,cupo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+595,cupo_max_CC_SMLV,1.0,,,No variable,,,,Excluir
+596,cupo_prom_CC_SMLV,1.0,,,No variable,,,,Excluir
+597,cupo_tot_TC_X_SMLV,0.9989542389383722,0.07076424210783215,5.751179951922707,Variable,cupo_tot_TC_X_SMLV,inf,inf,Excluir
+598,cupo_max_TC_X_SMLV,0.9989542389383722,0.07076424210783215,5.751179951922707,Variable,cupo_max_TC_X_SMLV,inf,inf,Excluir
+599,cupo_prom_TC_X_SMLV,0.9989542389383722,0.07076424210783215,5.751179951922707,Variable,cupo_prom_TC_X_SMLV,inf,inf,Excluir
+600,cupo_tot_TC_T_SMLV,0.9997836356424218,0.18158852826652946,26.170433955238135,Variable,cupo_tot_TC_T_SMLV,inf,inf,Excluir
+601,cupo_max_TC_T_SMLV,0.9997836356424218,0.18158852826652946,16.31305960188667,Variable,cupo_max_TC_T_SMLV,inf,inf,Excluir
+602,cupo_prom_TC_T_SMLV,0.9997836356424218,0.18158852826652946,13.907066993363228,Variable,cupo_prom_TC_T_SMLV,inf,inf,Excluir
+603,cupo_tot_tot_SMLV,0.9943745267029678,0.7889443387158321,138.08451956006164,Variable,cupo_tot_tot_SMLV,inf,inf,Excluir
+604,cupo_max_tot_SMLV,0.9943745267029678,0.7889443387158321,138.08451956006164,Variable,cupo_max_tot_SMLV,inf,inf,Excluir
+605,cupo_prom_tot_SMLV,0.9943745267029678,0.7889443387158321,127.21647691869256,Variable,cupo_prom_tot_SMLV,inf,inf,Excluir
+606,cuota_tot_LB_SMLV,0.9995312105585806,0.39493934017884347,1.343466701230944,Variable,cuota_tot_LB_SMLV,inf,inf,Excluir
+607,cuota_max_LB_SMLV,0.9995312105585806,0.39493934017884347,1.2238445858143767,Variable,cuota_max_LB_SMLV,inf,inf,Excluir
+608,cuota_prom_LB_SMLV,0.9995312105585806,0.39493934017884347,1.2238445858143767,Variable,cuota_prom_LB_SMLV,inf,inf,Excluir
+609,cuota_tot_TC_SMLV,0.9987378745807941,0.0,0.9720145588690836,Variable,cuota_tot_TC_SMLV,inf,inf,Excluir
+610,cuota_max_TC_SMLV,0.9987378745807941,0.0,0.9720145588690836,Variable,cuota_max_TC_SMLV,inf,inf,Excluir
+611,cuota_prom_TC_SMLV,0.9987378745807941,0.0,0.9720145588690836,Variable,cuota_prom_TC_SMLV,inf,inf,Excluir
+612,cuota_tot_NV_SMLV,0.9966463524575385,0.19200232817624585,3.440552289775828,Variable,cuota_tot_NV_SMLV,inf,inf,Excluir
+613,cuota_max_NV_SMLV,0.9966463524575385,0.19200232817624585,3.440552289775828,Variable,cuota_max_NV_SMLV,inf,inf,Excluir
+614,cuota_prom_NV_SMLV,0.9966463524575385,0.19200232817624585,3.440552289775828,Variable,cuota_prom_NV_SMLV,inf,inf,Excluir
+615,cuota_tot_CH_SMLV,1.0,,,No variable,,,,Excluir
+616,cuota_max_CH_SMLV,1.0,,,No variable,,,,Excluir
+617,cuota_prom_CH_SMLV,1.0,,,No variable,,,,Excluir
+618,cuota_tot_CE_SMLV,0.9997836356424218,0.0,0.6309744045520194,Variable,cuota_tot_CE_SMLV,inf,inf,Excluir
+619,cuota_max_CE_SMLV,0.9997836356424218,0.0,0.6309744045520194,Variable,cuota_max_CE_SMLV,inf,inf,Excluir
+620,cuota_prom_CE_SMLV,0.9997836356424218,0.0,0.508660018644731,Variable,cuota_prom_CE_SMLV,inf,inf,Excluir
+621,cuota_tot_LE_SMLV,0.9996393927373697,1.7228026025339447,8.043820171500256,Variable,cuota_tot_LE_SMLV,inf,inf,Excluir
+622,cuota_max_LE_SMLV,0.9996393927373697,1.7228026025339447,8.043820171500256,Variable,cuota_max_LE_SMLV,inf,inf,Excluir
+623,cuota_prom_LE_SMLV,0.9996393927373697,1.7228026025339447,8.043820171500256,Variable,cuota_prom_LE_SMLV,inf,inf,Excluir
+624,cuota_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+625,cuota_max_ME_SMLV,1.0,,,No variable,,,,Excluir
+626,cuota_prom_ME_SMLV,1.0,,,No variable,,,,Excluir
+627,cuota_tot_SO_SMLV,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+628,cuota_max_SO_SMLV,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+629,cuota_prom_SO_SMLV,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+630,cuota_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+631,cuota_max_CC_SMLV,1.0,,,No variable,,,,Excluir
+632,cuota_prom_CC_SMLV,1.0,,,No variable,,,,Excluir
+633,cuota_tot_TC_X_SMLV,0.9989542389383722,0.0,0.784414056079934,Variable,cuota_tot_TC_X_SMLV,inf,inf,Excluir
+634,cuota_max_TC_X_SMLV,0.9989542389383722,0.0,0.784414056079934,Variable,cuota_max_TC_X_SMLV,inf,inf,Excluir
+635,cuota_prom_TC_X_SMLV,0.9989542389383722,0.0,0.784414056079934,Variable,cuota_prom_TC_X_SMLV,inf,inf,Excluir
+636,cuota_tot_TC_T_SMLV,0.9997836356424218,0.0,2.6037439582114636,Variable,cuota_tot_TC_T_SMLV,inf,inf,Excluir
+637,cuota_max_TC_T_SMLV,0.9997836356424218,0.0,1.8521209971770194,Variable,cuota_max_TC_T_SMLV,inf,inf,Excluir
+638,cuota_prom_TC_T_SMLV,0.9997836356424218,0.0,1.3483159746922466,Variable,cuota_prom_TC_T_SMLV,inf,inf,Excluir
+639,cuota_tot_tot_SMLV,0.9943745267029678,0.0,3.11063063628767,Variable,cuota_tot_tot_SMLV,inf,inf,Excluir
+640,cuota_max_tot_SMLV,0.9943745267029678,0.0,3.11063063628767,Variable,cuota_max_tot_SMLV,inf,inf,Excluir
+641,cuota_prom_tot_SMLV,0.9943745267029678,0.0,3.047631611996387,Variable,cuota_prom_tot_SMLV,inf,inf,Excluir
+642,was_is_LB,0.9943745267029678,,,,was_is_LB,0.08225989665815904,0.08225989665815904,Excluir
+643,was_is_TC,0.9943745267029678,,,,was_is_TC,1.049012652771257,1.049012652771257,Excluir
+644,was_is_NV,0.9943745267029678,,,,was_is_NV,0.985303143898376,0.985303143898376,Excluir
+645,was_is_CH,0.9943745267029678,,,,was_is_CH,0.0,0.0,Excluir
+646,was_is_CE,0.9943745267029678,,,,was_is_CE,0.20633819390180771,0.20633819390180771,Excluir
+647,was_is_LE,0.9943745267029678,,,,was_is_LE,0.4419188402321157,0.4419188402321157,Excluir
+648,was_is_ME,0.9943745267029678,,,,was_is_ME,0.0,0.0,Excluir
+649,was_is_SO,0.9943745267029678,,,,was_is_SO,0.1611463176936789,0.1611463176936789,Excluir
+650,was_is_CC,0.9943745267029678,,,,was_is_CC,0.0,0.0,Excluir
+651,was_is_TC_X,0.9943745267029678,,,,was_is_TC_X,0.8355315216991765,0.8355315216991765,Excluir
+652,was_is_TC_T,0.9943745267029678,,,,was_is_TC_T,0.08225989665815904,0.08225989665815904,Excluir
+653,was_is_tot,0.9943745267029678,,,,was_is_tot,1.3752111052832894,1.3752111052832894,Excluir
+654,timestamp,0.9943745267029678,1543622400.0,1563278400.0,Variable,,,,Excluir
+655,mora_max_tot_ult3_meses,0.9943745267029678,0.0,7.5,Variable,mora_max_tot_ult3_meses,inf,inf,Excluir
+656,mora_max_tot_ult6_meses,0.9943745267029678,0.0,13.0,Variable,mora_max_tot_ult6_meses,inf,inf,Excluir
+657,saldo_tot_LB_SMLV_ult3_meses,0.9995312105585806,18.65824803025819,65.53667109551202,Variable,saldo_tot_LB_SMLV_ult3_meses,inf,inf,Excluir
+658,saldo_tot_LB_SMLV_ult7_meses,0.9994951498323176,11.06287289746805,65.34466912941188,Variable,saldo_tot_LB_SMLV_ult7_meses,inf,inf,Excluir
+659,saldo_tot_TC_SMLV_ult3_meses,0.9987378745807941,0.08023996638152142,5.946063174406906,Variable,saldo_tot_TC_SMLV_ult3_meses,inf,inf,Excluir
+660,saldo_tot_TC_SMLV_ult7_meses,0.998701813854531,0.07855964623313642,4.194182370827477,Variable,saldo_tot_TC_SMLV_ult7_meses,inf,inf,Excluir
+661,saldo_tot_NV_SMLV_ult3_meses,0.9966463524575385,3.9730569147317536,87.29107419733465,Variable,saldo_tot_NV_SMLV_ult3_meses,inf,inf,Excluir
+662,saldo_tot_NV_SMLV_ult7_meses,0.9966463524575385,4.659642552513924,81.46843325758333,Variable,saldo_tot_NV_SMLV_ult7_meses,inf,inf,Excluir
+663,saldo_tot_CH_SMLV_ult3_meses,0.999963939273737,71.17799307598243,71.17799307598243,No variable,saldo_tot_CH_SMLV_ult3_meses,,,Excluir
+664,saldo_tot_CH_SMLV_ult7_meses,0.999963939273737,71.7107556209947,71.7107556209947,No variable,saldo_tot_CH_SMLV_ult7_meses,,,Excluir
+665,saldo_tot_CE_SMLV_ult3_meses,0.9995312105585806,0.12391142303735236,93.07281260147616,Variable,saldo_tot_CE_SMLV_ult3_meses,inf,inf,Excluir
+666,saldo_tot_CE_SMLV_ult7_meses,0.9994230283797916,1.9348029041199604,106.79313376115638,Variable,saldo_tot_CE_SMLV_ult7_meses,inf,inf,Excluir
+667,saldo_tot_LE_SMLV_ult3_meses,0.9996393927373697,162.43520349202285,792.7867265957498,Variable,saldo_tot_LE_SMLV_ult3_meses,inf,inf,Excluir
+668,saldo_tot_LE_SMLV_ult7_meses,0.9995672712848437,35.41404675960848,314.10731674136724,Variable,saldo_tot_LE_SMLV_ult7_meses,inf,inf,Excluir
+669,saldo_tot_ME_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+670,saldo_tot_ME_SMLV_ult7_meses,1.0,,,No variable,,,,Excluir
+671,saldo_tot_SO_SMLV_ult3_meses,0.999891817821211,0.007474315192557566,4.282479010186979,Variable,saldo_tot_SO_SMLV_ult3_meses,inf,inf,Excluir
+672,saldo_tot_SO_SMLV_ult7_meses,0.999891817821211,0.007474315192557566,4.493652485709267,Variable,saldo_tot_SO_SMLV_ult7_meses,inf,inf,Excluir
+673,saldo_tot_CC_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+674,saldo_tot_CC_SMLV_ult7_meses,1.0,,,No variable,,,,Excluir
+675,saldo_tot_TC_X_SMLV_ult3_meses,0.9989542389383722,0.08078095339300291,5.760046305114163,Variable,saldo_tot_TC_X_SMLV_ult3_meses,inf,inf,Excluir
+676,saldo_tot_TC_X_SMLV_ult7_meses,0.9989181782121092,0.07947111274265925,3.934734544161733,Variable,saldo_tot_TC_X_SMLV_ult7_meses,inf,inf,Excluir
+677,saldo_tot_TC_T_SMLV_ult3_meses,0.9997836356424218,0.23965432046235524,25.627362975860507,Variable,saldo_tot_TC_T_SMLV_ult3_meses,inf,inf,Excluir
+678,saldo_tot_TC_T_SMLV_ult7_meses,0.9997836356424218,0.15919689017685998,26.078041842180284,Variable,saldo_tot_TC_T_SMLV_ult7_meses,inf,inf,Excluir
+679,saldo_tot_tot_SMLV_ult3_meses,0.9943745267029678,0.6825005794290827,116.35441064416096,Variable,saldo_tot_tot_SMLV_ult3_meses,inf,inf,Excluir
+680,saldo_tot_tot_SMLV_ult7_meses,0.9943745267029678,0.9825938339349414,117.47927176262311,Variable,saldo_tot_tot_SMLV_ult7_meses,inf,inf,Excluir
+681,cuota_tot_LB_SMLV_ult3_meses,0.9995312105585806,0.39493934017884347,1.343466701230944,Variable,cuota_tot_LB_SMLV_ult3_meses,inf,inf,Excluir
+682,cuota_tot_LB_SMLV_ult8_meses,0.9994590891060546,0.3871026845975226,1.3972284404560402,Variable,cuota_tot_LB_SMLV_ult8_meses,inf,inf,Excluir
+683,cuota_tot_TC_SMLV_ult3_meses,0.9987378745807941,0.0,0.7499608866394794,Variable,cuota_tot_TC_SMLV_ult3_meses,inf,inf,Excluir
+684,cuota_tot_TC_SMLV_ult8_meses,0.998701813854531,0.0,0.5209530842484715,Variable,cuota_tot_TC_SMLV_ult8_meses,inf,inf,Excluir
+685,cuota_tot_NV_SMLV_ult3_meses,0.9966463524575385,0.1892829023953166,3.7956510923590407,Variable,cuota_tot_NV_SMLV_ult3_meses,inf,inf,Excluir
+686,cuota_tot_NV_SMLV_ult8_meses,0.9966463524575385,0.1856163368851848,3.9405519876828388,Variable,cuota_tot_NV_SMLV_ult8_meses,inf,inf,Excluir
+687,cuota_tot_CH_SMLV_ult3_meses,0.999963939273737,0.8579112916782935,0.8579112916782935,No variable,cuota_tot_CH_SMLV_ult3_meses,,,Excluir
+688,cuota_tot_CH_SMLV_ult8_meses,0.999963939273737,0.889039663766157,0.889039663766157,No variable,cuota_tot_CH_SMLV_ult8_meses,,,Excluir
+689,cuota_tot_CE_SMLV_ult3_meses,0.9995312105585806,0.003983790918180548,0.6273712058561074,Variable,cuota_tot_CE_SMLV_ult3_meses,inf,inf,Excluir
+690,cuota_tot_CE_SMLV_ult8_meses,0.9994230283797916,0.08991179637986285,1.4805529569765652,Variable,cuota_tot_CE_SMLV_ult8_meses,inf,inf,Excluir
+691,cuota_tot_LE_SMLV_ult3_meses,0.9996393927373697,1.3551941998463983,8.679047040613312,Variable,cuota_tot_LE_SMLV_ult3_meses,inf,inf,Excluir
+692,cuota_tot_LE_SMLV_ult8_meses,0.9995672712848437,0.7378312662258498,4.425152721398402,Variable,cuota_tot_LE_SMLV_ult8_meses,inf,inf,Excluir
+693,cuota_tot_ME_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+694,cuota_tot_ME_SMLV_ult8_meses,1.0,,,No variable,,,,Excluir
+695,cuota_tot_SO_SMLV_ult3_meses,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+696,cuota_tot_SO_SMLV_ult8_meses,0.9998557570949479,0.0,0.0,No variable,,,,Excluir
+697,cuota_tot_CC_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+698,cuota_tot_CC_SMLV_ult8_meses,1.0,,,No variable,,,,Excluir
+699,cuota_tot_TC_X_SMLV_ult3_meses,0.9989542389383722,0.0,0.6876348570609361,Variable,cuota_tot_TC_X_SMLV_ult3_meses,inf,inf,Excluir
+700,cuota_tot_TC_X_SMLV_ult8_meses,0.9989181782121092,0.0,0.4838484710527881,Variable,cuota_tot_TC_X_SMLV_ult8_meses,inf,inf,Excluir
+701,cuota_tot_TC_T_SMLV_ult3_meses,0.9997836356424218,0.0,1.265491295579186,Variable,cuota_tot_TC_T_SMLV_ult3_meses,inf,inf,Excluir
+702,cuota_tot_TC_T_SMLV_ult8_meses,0.9997836356424218,0.0,1.4988462882614373,Variable,cuota_tot_TC_T_SMLV_ult8_meses,inf,inf,Excluir
+703,cuota_tot_tot_SMLV_ult3_meses,0.9943745267029678,0.02747341663819023,3.186206702925677,Variable,cuota_tot_tot_SMLV_ult3_meses,inf,inf,Excluir
+704,cuota_tot_tot_SMLV_ult8_meses,0.9943745267029678,0.0497753011861383,3.227929012624659,Variable,cuota_tot_tot_SMLV_ult8_meses,inf,inf,Excluir
+705,cupo_tot_LB_SMLV_ult3_meses,0.9995312105585806,18.65824803025819,65.53667109551202,Variable,cupo_tot_LB_SMLV_ult3_meses,inf,inf,Excluir
+706,cupo_tot_LB_SMLV_ult9_meses,0.9994230283797916,14.26580828379057,73.97617162000064,Variable,cupo_tot_LB_SMLV_ult9_meses,inf,inf,Excluir
+707,cupo_tot_TC_SMLV_ult3_meses,0.9987378745807941,0.08027394229793894,6.069683452758557,Variable,cupo_tot_TC_SMLV_ult3_meses,inf,inf,Excluir
+708,cupo_tot_TC_SMLV_ult9_meses,0.998701813854531,0.08041768302991367,3.8657465305683303,Variable,cupo_tot_TC_SMLV_ult9_meses,inf,inf,Excluir
+709,cupo_tot_NV_SMLV_ult3_meses,0.9966463524575385,6.424219153821891,110.22608912166571,Variable,cupo_tot_NV_SMLV_ult3_meses,inf,inf,Excluir
+710,cupo_tot_NV_SMLV_ult9_meses,0.9966463524575385,6.516431825993047,112.99905590624117,Variable,cupo_tot_NV_SMLV_ult9_meses,inf,inf,Excluir
+711,cupo_tot_CH_SMLV_ult3_meses,0.999963939273737,80.6408257620558,80.6408257620558,No variable,cupo_tot_CH_SMLV_ult3_meses,,,Excluir
+712,cupo_tot_CH_SMLV_ult9_meses,0.999963939273737,80.6408257620558,80.6408257620558,No variable,cupo_tot_CH_SMLV_ult9_meses,,,Excluir
+713,cupo_tot_CE_SMLV_ult3_meses,0.9995312105585806,0.3907686845804215,127.55979466138614,Variable,cupo_tot_CE_SMLV_ult3_meses,inf,inf,Excluir
+714,cupo_tot_CE_SMLV_ult9_meses,0.9994230283797916,6.150287015329617,139.02856867294383,Variable,cupo_tot_CE_SMLV_ult9_meses,inf,inf,Excluir
+715,cupo_tot_LE_SMLV_ult3_meses,0.9996393927373697,168.2423177429249,1010.6886734601081,Variable,cupo_tot_LE_SMLV_ult3_meses,inf,inf,Excluir
+716,cupo_tot_LE_SMLV_ult9_meses,0.9995312105585806,25.802504217643186,521.2758617115053,Variable,cupo_tot_LE_SMLV_ult9_meses,inf,inf,Excluir
+717,cupo_tot_ME_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+718,cupo_tot_ME_SMLV_ult9_meses,1.0,,,No variable,,,,Excluir
+719,cupo_tot_SO_SMLV_ult3_meses,0.999891817821211,0.007474315192557566,4.282479010186979,Variable,cupo_tot_SO_SMLV_ult3_meses,inf,inf,Excluir
+720,cupo_tot_SO_SMLV_ult9_meses,0.9998557570949479,0.008151478778335403,19.3998749283715,Variable,cupo_tot_SO_SMLV_ult9_meses,inf,inf,Excluir
+721,cupo_tot_CC_SMLV_ult3_meses,1.0,,,No variable,,,,Excluir
+722,cupo_tot_CC_SMLV_ult9_meses,1.0,,,No variable,,,,Excluir
+723,cupo_tot_TC_X_SMLV_ult3_meses,0.9989542389383722,0.08084890522583792,5.905077645595091,Variable,cupo_tot_TC_X_SMLV_ult3_meses,inf,inf,Excluir
+724,cupo_tot_TC_X_SMLV_ult9_meses,0.9989181782121092,0.08099264595781266,3.772830288005092,Variable,cupo_tot_TC_X_SMLV_ult9_meses,inf,inf,Excluir
+725,cupo_tot_TC_T_SMLV_ult3_meses,0.9997836356424218,0.24446765579218824,25.9438692063511,Variable,cupo_tot_TC_T_SMLV_ult3_meses,inf,inf,Excluir
+726,cupo_tot_TC_T_SMLV_ult9_meses,0.9997836356424218,0.2156566397114113,26.550912873467976,Variable,cupo_tot_TC_T_SMLV_ult9_meses,inf,inf,Excluir
+727,cupo_tot_tot_SMLV_ult3_meses,0.9943745267029678,1.048321695380265,129.98779704840783,Variable,cupo_tot_tot_SMLV_ult3_meses,inf,inf,Excluir
+728,cupo_tot_tot_SMLV_ult9_meses,0.9943745267029678,1.2200686057934325,135.4538173910867,Variable,cupo_tot_tot_SMLV_ult9_meses,inf,inf,Excluir
+729,utilizacion_prom_TC_X_ult3_meses,0.9989542389383722,0.9149385580020355,0.9995321609422229,Variable,utilizacion_prom_TC_X_ult3_meses,inf,inf,Excluir
+730,utilizacion_prom_TC_X_ult9_meses,0.9989181782121092,0.9078412092711414,0.9994736810600008,Variable,utilizacion_prom_TC_X_ult9_meses,inf,inf,Excluir
+731,utilizacion_prom_TC_T_ult3_meses,0.9997836356424218,0.9813875261610088,1.0,Variable,utilizacion_prom_TC_T_ult3_meses,inf,inf,Excluir
+732,utilizacion_prom_TC_T_ult9_meses,0.9997836356424218,0.9674779631141369,1.0,Variable,utilizacion_prom_TC_T_ult9_meses,inf,inf,Excluir
+733,utilizacion_prom_TC_ult3_meses,0.9987378745807941,0.9212895172517739,1.0,Variable,utilizacion_prom_TC_ult3_meses,inf,inf,Excluir
+734,utilizacion_prom_TC_ult9_meses,0.998701813854531,0.9188643366042413,1.0,Variable,utilizacion_prom_TC_ult9_meses,inf,inf,Excluir
+735,amortizacion_prom_LB_ult3_meses,0.9995312105585806,0.0,0.0,No variable,amortizacion_prom_LB_ult3_meses,0.0,0.0,Excluir
+736,amortizacion_prom_LB_ult9_meses,0.9994230283797916,0.0,0.6240842624999999,Variable,amortizacion_prom_LB_ult9_meses,inf,inf,Excluir
+737,amortizacion_prom_NV_ult3_meses,0.9966463524575385,0.0142291240092308,0.6117334487499999,Variable,amortizacion_prom_NV_ult3_meses,inf,inf,Excluir
+738,amortizacion_prom_NV_ult9_meses,0.9966463524575385,0.01093167426259609,0.5040008866037603,Variable,amortizacion_prom_NV_ult9_meses,inf,inf,Excluir
+739,amortizacion_prom_CH_ult3_meses,0.999963939273737,0.11734543386243386,0.11734543386243386,No variable,amortizacion_prom_CH_ult3_meses,,,Excluir
+740,amortizacion_prom_CH_ult9_meses,0.999963939273737,0.1060371,0.1060371,No variable,amortizacion_prom_CH_ult9_meses,,,Excluir
+741,amortizacion_prom_CE_ult3_meses,0.9996033320111067,0.0026852432523261993,0.462781546875,Variable,amortizacion_prom_CE_ult3_meses,inf,inf,Excluir
+742,amortizacion_prom_CE_ult9_meses,0.9994590891060546,0.02614948292814987,0.5816568761728146,Variable,amortizacion_prom_CE_ult9_meses,inf,inf,Excluir
+743,amortizacion_prom_LE_ult3_meses,0.9996393927373697,0.006177835796573786,0.11195798170202001,Variable,amortizacion_prom_LE_ult3_meses,inf,inf,Excluir
+744,amortizacion_prom_LE_ult9_meses,0.9995312105585806,0.011952616348539787,0.7304436333814336,Variable,amortizacion_prom_LE_ult9_meses,inf,inf,Excluir
+745,amortizacion_prom_ME_ult3_meses,1.0,,,No variable,,,,Excluir
+746,amortizacion_prom_ME_ult9_meses,1.0,,,No variable,,,,Excluir
+747,amortizacion_prom_SO_ult3_meses,0.999891817821211,0.0,0.0,No variable,,,,Excluir
+748,amortizacion_prom_SO_ult9_meses,0.9998557570949479,0.0,0.0,No variable,,,,Excluir
+749,amortizacion_prom_CC_ult3_meses,1.0,,,No variable,,,,Excluir
+750,amortizacion_prom_CC_ult9_meses,1.0,,,No variable,,,,Excluir
+751,amortizacion_prom_tot_ult3_meses,0.9956005913959107,0.0,0.6034152023158047,Variable,amortizacion_prom_tot_ult3_meses,inf,inf,Excluir
+752,amortizacion_prom_tot_ult9_meses,0.9955645306696477,0.0009012090395807804,0.5275970606452457,Variable,amortizacion_prom_tot_ult9_meses,inf,inf,Excluir
+753,lag_t_1_mora_maxLB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+754,lag_t_6_mora_maxLB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+755,lag_t_1_mora_maxTC,0.9990984818434243,0.0,14.0,Variable,,,,Excluir
+756,lag_t_6_mora_maxTC,0.9995312105585806,0.0,22.40000000000002,Variable,,,,Excluir
+757,lag_t_1_mora_maxNV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+758,lag_t_6_mora_maxNV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+759,lag_t_1_mora_maxCH,0.999963939273737,9.0,9.0,No variable,,,,Excluir
+760,lag_t_6_mora_maxCH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+761,lag_t_1_mora_maxCE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+762,lag_t_6_mora_maxCE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+763,lag_t_1_mora_maxLE,0.9996393927373697,0.0,0.1999999999999993,Variable,,,,Excluir
+764,lag_t_6_mora_maxLE,0.9995672712848437,0.0,0.9000000000000004,Variable,,,,Excluir
+765,lag_t_1_mora_maxME,1.0,,,No variable,,,,Excluir
+766,lag_t_6_mora_maxME,1.0,,,No variable,,,,Excluir
+767,lag_t_1_mora_maxSO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+768,lag_t_6_mora_maxSO,1.0,,,No variable,,,,Excluir
+769,lag_t_1_mora_maxCC,1.0,,,No variable,,,,Excluir
+770,lag_t_6_mora_maxCC,1.0,,,No variable,,,,Excluir
+771,lag_t_1_mora_maxTC_X,0.9992787854747395,0.0,14.0,Variable,,,,Excluir
+772,lag_t_6_mora_maxTC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+773,lag_t_1_mora_maxTC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+774,lag_t_6_mora_maxTC_T,0.9999278785474739,2.8000000000000003,25.2,Variable,,,,Excluir
+775,lag_t_1_mora_max_tot,0.9950236197757023,0.0,0.29999999999999716,Variable,,,,Excluir
+776,lag_t_6_mora_max_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+777,lag_t_1_saldo_tot_LB_SMLV,0.9997836356424218,13.214833808987173,72.67880172536765,Variable,,,,Excluir
+778,lag_t_6_saldo_tot_LB_SMLV,0.9998196963686848,0.3693577662235261,77.57324439802264,Variable,,,,Excluir
+779,lag_t_1_saldo_tot_TC_SMLV,0.9990984818434243,0.08534103389218706,5.89377235734894,Variable,,,,Excluir
+780,lag_t_6_saldo_tot_TC_SMLV,0.9995312105585806,0.03043983298388977,3.6297171939040656,Variable,,,,Excluir
+781,lag_t_1_saldo_tot_NV_SMLV,0.9967184739100645,3.6440788488569233,77.36753063580464,Variable,,,,Excluir
+782,lag_t_6_saldo_tot_NV_SMLV,0.99725938480401,5.129964850840073,74.19047811049586,Variable,,,,Excluir
+783,lag_t_1_saldo_tot_CH_SMLV,0.999963939273737,71.0858671192793,71.0858671192793,No variable,,,,Excluir
+784,lag_t_6_saldo_tot_CH_SMLV,0.999963939273737,72.17832886608758,72.17832886608758,No variable,,,,Excluir
+785,lag_t_1_saldo_tot_CE_SMLV,0.9997115141898958,0.0,69.60367496824114,Variable,,,,Excluir
+786,lag_t_6_saldo_tot_CE_SMLV,0.9994230283797916,0.7792537779586863,107.94163461513847,Variable,,,,Excluir
+787,lag_t_1_saldo_tot_LE_SMLV,0.9996393927373697,161.88809321399418,777.3209704001222,Variable,,,,Excluir
+788,lag_t_6_saldo_tot_LE_SMLV,0.9995672712848437,36.2475951134288,319.76677354776115,Variable,,,,Excluir
+789,lag_t_1_saldo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+790,lag_t_6_saldo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+791,lag_t_1_saldo_tot_SO_SMLV,0.999963939273737,6.02351489404866,6.02351489404866,No variable,,,,Excluir
+792,lag_t_6_saldo_tot_SO_SMLV,1.0,,,No variable,,,,Excluir
+793,lag_t_1_saldo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+794,lag_t_6_saldo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+795,lag_t_1_saldo_tot_TC_X_SMLV,0.9992787854747395,0.07316701739025809,5.815693964226194,Variable,,,,Excluir
+796,lag_t_6_saldo_tot_TC_X_SMLV,0.9996033320111067,0.017536179570478802,3.539263890062234,Variable,,,,Excluir
+797,lag_t_1_saldo_tot_TC_T_SMLV,0.9998196963686848,0.408208832461768,30.13213471161218,Variable,,,,Excluir
+798,lag_t_6_saldo_tot_TC_T_SMLV,0.9999278785474739,5.164321555932734,43.94825852808733,Variable,,,,Excluir
+799,lag_t_1_saldo_tot_tot_SMLV,0.9950236197757023,0.9548200976674766,146.23555238638065,Variable,,,,Excluir
+800,lag_t_6_saldo_tot_tot_SMLV,0.9957087735746998,2.1893623307502668,172.9119750510631,Variable,,,,Excluir
+801,lag_t_1_cuota_tot_LB_SMLV,0.9997836356424218,0.3228474735999576,1.5468004792369072,Variable,,,,Excluir
+802,lag_t_6_cuota_tot_LB_SMLV,0.9998196963686848,0.12908061778552612,1.4014090384285534,Variable,,,,Excluir
+803,lag_t_1_cuota_tot_TC_SMLV,0.9990984818434243,0.0,0.7302485247848938,Variable,,,,Excluir
+804,lag_t_6_cuota_tot_TC_SMLV,0.9995312105585806,0.04169436632655548,1.589519454919219,Variable,,,,Excluir
+805,lag_t_1_cuota_tot_NV_SMLV,0.9967184739100645,0.18824295147056694,3.886672881576977,Variable,,,,Excluir
+806,lag_t_6_cuota_tot_NV_SMLV,0.99725938480401,0.2233085266793132,3.907859536481653,Variable,,,,Excluir
+807,lag_t_1_cuota_tot_CH_SMLV,0.999963939273737,0.8402249239032208,0.8402249239032208,No variable,,,,Excluir
+808,lag_t_6_cuota_tot_CH_SMLV,0.999963939273737,0.9069174468346556,0.9069174468346556,No variable,,,,Excluir
+809,lag_t_1_cuota_tot_CE_SMLV,0.9997115141898958,0.0,0.22470716662882978,Variable,,,,Excluir
+810,lag_t_6_cuota_tot_CE_SMLV,0.9994230283797916,0.0,0.9711160004277856,Variable,,,,Excluir
+811,lag_t_1_cuota_tot_LE_SMLV,0.9996393927373697,1.6112566355438127,9.26175837684574,Variable,,,,Excluir
+812,lag_t_6_cuota_tot_LE_SMLV,0.9995672712848437,0.7785555061237948,4.877696155608634,Variable,,,,Excluir
+813,lag_t_1_cuota_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+814,lag_t_6_cuota_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+815,lag_t_1_cuota_tot_SO_SMLV,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+816,lag_t_6_cuota_tot_SO_SMLV,1.0,,,No variable,,,,Excluir
+817,lag_t_1_cuota_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+818,lag_t_6_cuota_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+819,lag_t_1_cuota_tot_TC_X_SMLV,0.9992787854747395,0.0,0.738427850781192,Variable,,,,Excluir
+820,lag_t_6_cuota_tot_TC_X_SMLV,0.9996033320111067,0.03679315458220829,0.5859284959077982,Variable,,,,Excluir
+821,lag_t_1_cuota_tot_TC_T_SMLV,0.9998196963686848,0.0,0.12680311062752073,Variable,,,,Excluir
+822,lag_t_6_cuota_tot_TC_T_SMLV,0.9999278785474739,0.5369421395675091,2.9812014190225304,Variable,,,,Excluir
+823,lag_t_1_cuota_tot_tot_SMLV,0.9950236197757023,0.03661958170110223,3.2845599670988603,Variable,,,,Excluir
+824,lag_t_6_cuota_tot_tot_SMLV,0.9957087735746998,0.17732798194694935,3.3755558556300476,Variable,,,,Excluir
+825,lag_t_1_cupo_tot_LB_SMLV,0.9997836356424218,15.49056450372076,80.62273667140447,Variable,,,,Excluir
+826,lag_t_6_cupo_tot_LB_SMLV,0.9998196963686848,6.118462653057567,83.1240511902842,Variable,,,,Excluir
+827,lag_t_1_cupo_tot_TC_SMLV,0.9990984818434243,0.09463599243256252,5.959131644228037,Variable,,,,Excluir
+828,lag_t_6_cupo_tot_TC_SMLV,0.9995312105585806,0.04012526464270996,3.717158191699883,Variable,,,,Excluir
+829,lag_t_1_cupo_tot_NV_SMLV,0.9967184739100645,6.037801467427268,108.68042641369084,Variable,,,,Excluir
+830,lag_t_6_cupo_tot_NV_SMLV,0.99725938480401,6.400065536671096,108.80111412340862,Variable,,,,Excluir
+831,lag_t_1_cupo_tot_CH_SMLV,0.999963939273737,80.6408257620558,80.6408257620558,No variable,,,,Excluir
+832,lag_t_6_cupo_tot_CH_SMLV,0.999963939273737,80.6408257620558,80.6408257620558,No variable,,,,Excluir
+833,lag_t_1_cupo_tot_CE_SMLV,0.9997115141898958,0.0,69.70396804312438,Variable,,,,Excluir
+834,lag_t_6_cupo_tot_CE_SMLV,0.9994230283797916,2.816028836135282,137.93542845878744,Variable,,,,Excluir
+835,lag_t_1_cupo_tot_LE_SMLV,0.9996393927373697,165.0083674267856,991.4070009515559,Variable,,,,Excluir
+836,lag_t_6_cupo_tot_LE_SMLV,0.9995672712848437,40.67061621690358,552.1976545039822,Variable,,,,Excluir
+837,lag_t_1_cupo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+838,lag_t_6_cupo_tot_ME_SMLV,1.0,,,No variable,,,,Excluir
+839,lag_t_1_cupo_tot_SO_SMLV,0.999963939273737,6.02351489404866,6.02351489404866,No variable,,,,Excluir
+840,lag_t_6_cupo_tot_SO_SMLV,1.0,,,No variable,,,,Excluir
+841,lag_t_1_cupo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+842,lag_t_6_cupo_tot_CC_SMLV,1.0,,,No variable,,,,Excluir
+843,lag_t_1_cupo_tot_TC_X_SMLV,0.9992787854747395,0.07422281316160678,5.912041536425333,Variable,,,,Excluir
+844,lag_t_6_cupo_tot_TC_X_SMLV,0.9996033320111067,0.017536179570478802,3.7048873204461614,Variable,,,,Excluir
+845,lag_t_1_cupo_tot_TC_T_SMLV,0.9998196963686848,0.4133047352927559,30.156417584268798,Variable,,,,Excluir
+846,lag_t_6_cupo_tot_TC_T_SMLV,0.9999278785474739,5.225661064049296,44.385758048082415,Variable,,,,Excluir
+847,lag_t_1_cupo_tot_tot_SMLV,0.9950236197757023,2.153604763034691,156.54893817898392,Variable,,,,Excluir
+848,lag_t_6_cupo_tot_tot_SMLV,0.9957087735746998,2.808425138433418,176.88340928445913,Variable,,,,Excluir
+849,lag_t_1_utilizacion_prom_TC_X,0.9992787854747395,0.9237050597438281,1.0,Variable,,,,Excluir
+850,lag_t_6_utilizacion_prom_TC_X,0.9996033320111067,0.9069790093358724,1.0,Variable,,,,Excluir
+851,lag_t_1_utilizacion_prom_TC_T,0.9998196963686848,0.9841099890643308,1.0,Variable,,,,Excluir
+852,lag_t_6_utilizacion_prom_TC_T,0.9999278785474739,0.9602193874050328,0.9884327353603218,Variable,,,,Excluir
+853,lag_t_1_utilizacion_prom_TC,0.9990984818434243,0.9270447994800488,1.0,Variable,,,,Excluir
+854,lag_t_6_utilizacion_prom_TC,0.9995312105585806,0.9082163618457912,0.9983918807709466,Variable,,,,Excluir
+855,lag_t_1_amortizacion_prom_LB,0.9997836356424218,0.0,0.25286986183206106,Variable,,,,Excluir
+856,lag_t_6_amortizacion_prom_LB,0.9998196963686848,0.06230205511530022,0.8118694586538462,Variable,,,,Excluir
+857,lag_t_1_amortizacion_prom_NV,0.9967184739100645,0.030029201874997878,0.6443895,Variable,,,,Excluir
+858,lag_t_6_amortizacion_prom_NV,0.99725938480401,0.010934736666666667,0.5,Variable,,,,Excluir
+859,lag_t_1_amortizacion_prom_CH,0.999963939273737,0.11848785714285714,0.11848785714285714,No variable,,,,Excluir
+860,lag_t_6_amortizacion_prom_CH,0.999963939273737,0.10494060317460317,0.10494060317460317,No variable,,,,Excluir
+861,lag_t_1_amortizacion_prom_CE,0.9997836356424218,0.0019116698916398693,0.06336049471701366,Variable,,,,Excluir
+862,lag_t_6_amortizacion_prom_CE,0.9994951498323176,0.10770196399474988,0.7001003658673219,Variable,,,,Excluir
+863,lag_t_1_amortizacion_prom_LE,0.9996393927373697,0.0036077637149024098,0.11398728135858563,Variable,,,,Excluir
+864,lag_t_6_amortizacion_prom_LE,0.9995672712848437,0.011800355226648353,0.48483616300000015,Variable,,,,Excluir
+865,lag_t_1_amortizacion_prom_ME,1.0,,,No variable,,,,Excluir
+866,lag_t_6_amortizacion_prom_ME,1.0,,,No variable,,,,Excluir
+867,lag_t_1_amortizacion_prom_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+868,lag_t_6_amortizacion_prom_SO,1.0,,,No variable,,,,Excluir
+869,lag_t_1_amortizacion_prom_CC,1.0,,,No variable,,,,Excluir
+870,lag_t_6_amortizacion_prom_CC,1.0,,,No variable,,,,Excluir
+871,lag_t_1_amortizacion_prom_tot,0.995925137932278,0.007625781577177677,0.62448076,Variable,,,,Excluir
+872,lag_t_6_amortizacion_prom_tot,0.9961775630161191,0.01349202852287269,0.5308400395347643,Variable,,,,Excluir
+873,lag_t_1_porc_obl_mora1_30_LB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+874,lag_t_6_porc_obl_mora1_30_LB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+875,lag_t_1_porc_obl_mora31_60_LB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+876,lag_t_6_porc_obl_mora31_60_LB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+877,lag_t_1_porc_obl_mora61_90_LB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+878,lag_t_6_porc_obl_mora61_90_LB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+879,lag_t_1_porc_obl_mora91_120_LB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+880,lag_t_6_porc_obl_mora91_120_LB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+881,lag_t_1_porc_obl_mora121_mas_LB,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+882,lag_t_6_porc_obl_mora121_mas_LB,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+883,lag_t_1_porc_obl_mora1_30_TC,0.9990984818434243,0.0,1.0,Variable,,,,Excluir
+884,lag_t_6_porc_obl_mora1_30_TC,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+885,lag_t_1_porc_obl_mora31_60_TC,0.9990984818434243,0.0,0.0,No variable,,,,Excluir
+886,lag_t_6_porc_obl_mora31_60_TC,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+887,lag_t_1_porc_obl_mora61_90_TC,0.9990984818434243,0.0,0.0,No variable,,,,Excluir
+888,lag_t_6_porc_obl_mora61_90_TC,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+889,lag_t_1_porc_obl_mora91_120_TC,0.9990984818434243,0.0,0.0,No variable,,,,Excluir
+890,lag_t_6_porc_obl_mora91_120_TC,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+891,lag_t_1_porc_obl_mora121_mas_TC,0.9990984818434243,0.0,0.0,No variable,,,,Excluir
+892,lag_t_6_porc_obl_mora121_mas_TC,0.9995312105585806,0.0,0.0,No variable,,,,Excluir
+893,lag_t_1_porc_obl_mora1_30_NV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+894,lag_t_6_porc_obl_mora1_30_NV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+895,lag_t_1_porc_obl_mora31_60_NV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+896,lag_t_6_porc_obl_mora31_60_NV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+897,lag_t_1_porc_obl_mora61_90_NV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+898,lag_t_6_porc_obl_mora61_90_NV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+899,lag_t_1_porc_obl_mora91_120_NV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+900,lag_t_6_porc_obl_mora91_120_NV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+901,lag_t_1_porc_obl_mora121_mas_NV,0.9967184739100645,0.0,0.0,No variable,,,,Excluir
+902,lag_t_6_porc_obl_mora121_mas_NV,0.99725938480401,0.0,0.0,No variable,,,,Excluir
+903,lag_t_1_porc_obl_mora1_30_CH,0.999963939273737,1.0,1.0,No variable,,,,Excluir
+904,lag_t_6_porc_obl_mora1_30_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+905,lag_t_1_porc_obl_mora31_60_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+906,lag_t_6_porc_obl_mora31_60_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+907,lag_t_1_porc_obl_mora61_90_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+908,lag_t_6_porc_obl_mora61_90_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+909,lag_t_1_porc_obl_mora91_120_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+910,lag_t_6_porc_obl_mora91_120_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+911,lag_t_1_porc_obl_mora121_mas_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+912,lag_t_6_porc_obl_mora121_mas_CH,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+913,lag_t_1_porc_obl_mora1_30_CE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+914,lag_t_6_porc_obl_mora1_30_CE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+915,lag_t_1_porc_obl_mora31_60_CE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+916,lag_t_6_porc_obl_mora31_60_CE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+917,lag_t_1_porc_obl_mora61_90_CE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+918,lag_t_6_porc_obl_mora61_90_CE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+919,lag_t_1_porc_obl_mora91_120_CE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+920,lag_t_6_porc_obl_mora91_120_CE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+921,lag_t_1_porc_obl_mora121_mas_CE,0.9997115141898958,0.0,0.0,No variable,,,,Excluir
+922,lag_t_6_porc_obl_mora121_mas_CE,0.9994230283797916,0.0,0.0,No variable,,,,Excluir
+923,lag_t_1_porc_obl_mora1_30_LE,0.9996393927373697,0.0,0.09999999999999964,Variable,,,,Excluir
+924,lag_t_6_porc_obl_mora1_30_LE,0.9995672712848437,0.0,0.9000000000000004,Variable,,,,Excluir
+925,lag_t_1_porc_obl_mora31_60_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+926,lag_t_6_porc_obl_mora31_60_LE,0.9995672712848437,0.0,0.0,No variable,,,,Excluir
+927,lag_t_1_porc_obl_mora61_90_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+928,lag_t_6_porc_obl_mora61_90_LE,0.9995672712848437,0.0,0.0,No variable,,,,Excluir
+929,lag_t_1_porc_obl_mora91_120_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+930,lag_t_6_porc_obl_mora91_120_LE,0.9995672712848437,0.0,0.0,No variable,,,,Excluir
+931,lag_t_1_porc_obl_mora121_mas_LE,0.9996393927373697,0.0,0.0,No variable,,,,Excluir
+932,lag_t_6_porc_obl_mora121_mas_LE,0.9995672712848437,0.0,0.0,No variable,,,,Excluir
+933,lag_t_1_porc_obl_mora1_30_ME,1.0,,,No variable,,,,Excluir
+934,lag_t_6_porc_obl_mora1_30_ME,1.0,,,No variable,,,,Excluir
+935,lag_t_1_porc_obl_mora31_60_ME,1.0,,,No variable,,,,Excluir
+936,lag_t_6_porc_obl_mora31_60_ME,1.0,,,No variable,,,,Excluir
+937,lag_t_1_porc_obl_mora61_90_ME,1.0,,,No variable,,,,Excluir
+938,lag_t_6_porc_obl_mora61_90_ME,1.0,,,No variable,,,,Excluir
+939,lag_t_1_porc_obl_mora91_120_ME,1.0,,,No variable,,,,Excluir
+940,lag_t_6_porc_obl_mora91_120_ME,1.0,,,No variable,,,,Excluir
+941,lag_t_1_porc_obl_mora121_mas_ME,1.0,,,No variable,,,,Excluir
+942,lag_t_6_porc_obl_mora121_mas_ME,1.0,,,No variable,,,,Excluir
+943,lag_t_1_porc_obl_mora1_30_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+944,lag_t_6_porc_obl_mora1_30_SO,1.0,,,No variable,,,,Excluir
+945,lag_t_1_porc_obl_mora31_60_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+946,lag_t_6_porc_obl_mora31_60_SO,1.0,,,No variable,,,,Excluir
+947,lag_t_1_porc_obl_mora61_90_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+948,lag_t_6_porc_obl_mora61_90_SO,1.0,,,No variable,,,,Excluir
+949,lag_t_1_porc_obl_mora91_120_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+950,lag_t_6_porc_obl_mora91_120_SO,1.0,,,No variable,,,,Excluir
+951,lag_t_1_porc_obl_mora121_mas_SO,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+952,lag_t_6_porc_obl_mora121_mas_SO,1.0,,,No variable,,,,Excluir
+953,lag_t_1_porc_obl_mora1_30_CC,1.0,,,No variable,,,,Excluir
+954,lag_t_6_porc_obl_mora1_30_CC,1.0,,,No variable,,,,Excluir
+955,lag_t_1_porc_obl_mora31_60_CC,1.0,,,No variable,,,,Excluir
+956,lag_t_6_porc_obl_mora31_60_CC,1.0,,,No variable,,,,Excluir
+957,lag_t_1_porc_obl_mora61_90_CC,1.0,,,No variable,,,,Excluir
+958,lag_t_6_porc_obl_mora61_90_CC,1.0,,,No variable,,,,Excluir
+959,lag_t_1_porc_obl_mora91_120_CC,1.0,,,No variable,,,,Excluir
+960,lag_t_6_porc_obl_mora91_120_CC,1.0,,,No variable,,,,Excluir
+961,lag_t_1_porc_obl_mora121_mas_CC,1.0,,,No variable,,,,Excluir
+962,lag_t_6_porc_obl_mora121_mas_CC,1.0,,,No variable,,,,Excluir
+963,lag_t_1_porc_obl_mora1_30_TC_X,0.9992787854747395,0.0,1.0,Variable,,,,Excluir
+964,lag_t_6_porc_obl_mora1_30_TC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+965,lag_t_1_porc_obl_mora31_60_TC_X,0.9992787854747395,0.0,0.0,No variable,,,,Excluir
+966,lag_t_6_porc_obl_mora31_60_TC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+967,lag_t_1_porc_obl_mora61_90_TC_X,0.9992787854747395,0.0,0.0,No variable,,,,Excluir
+968,lag_t_6_porc_obl_mora61_90_TC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+969,lag_t_1_porc_obl_mora91_120_TC_X,0.9992787854747395,0.0,0.0,No variable,,,,Excluir
+970,lag_t_6_porc_obl_mora91_120_TC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+971,lag_t_1_porc_obl_mora121_mas_TC_X,0.9992787854747395,0.0,0.0,No variable,,,,Excluir
+972,lag_t_6_porc_obl_mora121_mas_TC_X,0.9996033320111067,0.0,0.0,No variable,,,,Excluir
+973,lag_t_1_porc_obl_mora1_30_TC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+974,lag_t_6_porc_obl_mora1_30_TC_T,0.9999278785474739,0.05,0.45,Variable,,,,Excluir
+975,lag_t_1_porc_obl_mora31_60_TC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+976,lag_t_6_porc_obl_mora31_60_TC_T,0.9999278785474739,0.0,0.0,No variable,,,,Excluir
+977,lag_t_1_porc_obl_mora61_90_TC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+978,lag_t_6_porc_obl_mora61_90_TC_T,0.9999278785474739,0.0,0.0,No variable,,,,Excluir
+979,lag_t_1_porc_obl_mora91_120_TC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+980,lag_t_6_porc_obl_mora91_120_TC_T,0.9999278785474739,0.0,0.0,No variable,,,,Excluir
+981,lag_t_1_porc_obl_mora121_mas_TC_T,0.9998196963686848,0.0,0.0,No variable,,,,Excluir
+982,lag_t_6_porc_obl_mora121_mas_TC_T,0.9999278785474739,0.0,0.0,No variable,,,,Excluir
+983,lag_t_1_porc_obl_mora1_30_tot,0.9950236197757023,0.0,0.14999999999999858,Variable,,,,Excluir
+984,lag_t_6_porc_obl_mora1_30_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+985,lag_t_1_porc_obl_mora31_60_tot,0.9950236197757023,0.0,0.0,No variable,,,,Excluir
+986,lag_t_6_porc_obl_mora31_60_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+987,lag_t_1_porc_obl_mora61_90_tot,0.9950236197757023,0.0,0.0,No variable,,,,Excluir
+988,lag_t_6_porc_obl_mora61_90_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+989,lag_t_1_porc_obl_mora91_120_tot,0.9950236197757023,0.0,0.0,No variable,,,,Excluir
+990,lag_t_6_porc_obl_mora91_120_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+991,lag_t_1_porc_obl_mora121_mas_tot,0.9950236197757023,0.0,0.0,No variable,,,,Excluir
+992,lag_t_6_porc_obl_mora121_mas_tot,0.9957087735746998,0.0,0.0,No variable,,,,Excluir
+993,dif_porc_t_1_mora_maxLB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+994,dif_porc_t_6_mora_maxLB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+995,dif_porc_t_1_mora_maxTC,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_mora_maxTC,inf,inf,Excluir
+996,dif_porc_t_6_mora_maxTC,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_mora_maxTC,inf,inf,Excluir
+997,dif_porc_t_1_mora_maxNV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_mora_maxNV,inf,inf,Excluir
+998,dif_porc_t_6_mora_maxNV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_mora_maxNV,inf,inf,Excluir
+999,dif_porc_t_1_mora_maxCH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1000,dif_porc_t_6_mora_maxCH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1001,dif_porc_t_1_mora_maxCE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1002,dif_porc_t_6_mora_maxCE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1003,dif_porc_t_1_mora_maxLE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_mora_maxLE,inf,inf,Excluir
+1004,dif_porc_t_6_mora_maxLE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_mora_maxLE,inf,inf,Excluir
+1005,dif_porc_t_1_mora_maxME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1006,dif_porc_t_6_mora_maxME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1007,dif_porc_t_1_mora_maxSO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1008,dif_porc_t_6_mora_maxSO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1009,dif_porc_t_1_mora_maxCC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1010,dif_porc_t_6_mora_maxCC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1011,dif_porc_t_1_mora_maxTC_X,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_mora_maxTC_X,inf,inf,Excluir
+1012,dif_porc_t_6_mora_maxTC_X,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_mora_maxTC_X,inf,inf,Excluir
+1013,dif_porc_t_1_mora_maxTC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1014,dif_porc_t_6_mora_maxTC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1015,dif_porc_t_1_mora_max_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_mora_max_tot,inf,inf,Excluir
+1016,dif_porc_t_6_mora_max_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_mora_max_tot,inf,inf,Excluir
+1017,dif_porc_t_1_saldo_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_saldo_tot_LB_SMLV,inf,inf,Excluir
+1018,dif_porc_t_6_saldo_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_saldo_tot_LB_SMLV,inf,inf,Excluir
+1019,dif_porc_t_1_saldo_tot_TC_SMLV,0.9943745267029678,0.0,0.3125258958149484,Variable,dif_porc_t_1_saldo_tot_TC_SMLV,inf,inf,Excluir
+1020,dif_porc_t_6_saldo_tot_TC_SMLV,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_saldo_tot_TC_SMLV,inf,inf,Excluir
+1021,dif_porc_t_1_saldo_tot_NV_SMLV,0.9943745267029678,-0.08410850766057859,0.0,Variable,dif_porc_t_1_saldo_tot_NV_SMLV,inf,inf,Excluir
+1022,dif_porc_t_6_saldo_tot_NV_SMLV,0.9943745267029678,-0.29431552840975705,1.0,Variable,dif_porc_t_6_saldo_tot_NV_SMLV,inf,inf,Excluir
+1023,dif_porc_t_1_saldo_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1024,dif_porc_t_6_saldo_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1025,dif_porc_t_1_saldo_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1026,dif_porc_t_6_saldo_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1027,dif_porc_t_1_saldo_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1028,dif_porc_t_6_saldo_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1029,dif_porc_t_1_saldo_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1030,dif_porc_t_6_saldo_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1031,dif_porc_t_1_saldo_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_saldo_tot_SO_SMLV,inf,inf,Excluir
+1032,dif_porc_t_6_saldo_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_saldo_tot_SO_SMLV,0.0,0.0,Excluir
+1033,dif_porc_t_1_saldo_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1034,dif_porc_t_6_saldo_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1035,dif_porc_t_1_saldo_tot_TC_X_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_saldo_tot_TC_X_SMLV,inf,inf,Excluir
+1036,dif_porc_t_6_saldo_tot_TC_X_SMLV,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_saldo_tot_TC_X_SMLV,inf,inf,Excluir
+1037,dif_porc_t_1_saldo_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_saldo_tot_TC_T_SMLV,inf,inf,Excluir
+1038,dif_porc_t_6_saldo_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_saldo_tot_TC_T_SMLV,inf,inf,Excluir
+1039,dif_porc_t_1_saldo_tot_tot_SMLV,0.9943745267029678,-0.17146126793387384,1.0,Variable,dif_porc_t_1_saldo_tot_tot_SMLV,inf,inf,Excluir
+1040,dif_porc_t_6_saldo_tot_tot_SMLV,0.9943745267029678,-0.4607711755367878,1.0,Variable,dif_porc_t_6_saldo_tot_tot_SMLV,inf,inf,Excluir
+1041,dif_porc_t_1_cuota_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_LB_SMLV,inf,inf,Excluir
+1042,dif_porc_t_6_cuota_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cuota_tot_LB_SMLV,inf,inf,Excluir
+1043,dif_porc_t_1_cuota_tot_TC_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_TC_SMLV,inf,inf,Excluir
+1044,dif_porc_t_6_cuota_tot_TC_SMLV,0.9943745267029678,0.0,0.2782833804024291,Variable,dif_porc_t_6_cuota_tot_TC_SMLV,inf,inf,Excluir
+1045,dif_porc_t_1_cuota_tot_NV_SMLV,0.9943745267029678,-0.05660318119683713,0.00015350114033249815,Variable,dif_porc_t_1_cuota_tot_NV_SMLV,inf,inf,Excluir
+1046,dif_porc_t_6_cuota_tot_NV_SMLV,0.9943745267029678,-0.09740719237261672,1.0,Variable,dif_porc_t_6_cuota_tot_NV_SMLV,inf,inf,Excluir
+1047,dif_porc_t_1_cuota_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1048,dif_porc_t_6_cuota_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1049,dif_porc_t_1_cuota_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_CE_SMLV,inf,inf,Excluir
+1050,dif_porc_t_6_cuota_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cuota_tot_CE_SMLV,inf,inf,Excluir
+1051,dif_porc_t_1_cuota_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_LE_SMLV,inf,inf,Excluir
+1052,dif_porc_t_6_cuota_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cuota_tot_LE_SMLV,inf,inf,Excluir
+1053,dif_porc_t_1_cuota_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1054,dif_porc_t_6_cuota_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1055,dif_porc_t_1_cuota_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1056,dif_porc_t_6_cuota_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1057,dif_porc_t_1_cuota_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1058,dif_porc_t_6_cuota_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1059,dif_porc_t_1_cuota_tot_TC_X_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_TC_X_SMLV,inf,inf,Excluir
+1060,dif_porc_t_6_cuota_tot_TC_X_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cuota_tot_TC_X_SMLV,inf,inf,Excluir
+1061,dif_porc_t_1_cuota_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cuota_tot_TC_T_SMLV,inf,inf,Excluir
+1062,dif_porc_t_6_cuota_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cuota_tot_TC_T_SMLV,inf,inf,Excluir
+1063,dif_porc_t_1_cuota_tot_tot_SMLV,0.9943745267029678,-0.12600490008901133,1.0,Variable,dif_porc_t_1_cuota_tot_tot_SMLV,inf,inf,Excluir
+1064,dif_porc_t_6_cuota_tot_tot_SMLV,0.9943745267029678,-0.323394035798557,1.0,Variable,dif_porc_t_6_cuota_tot_tot_SMLV,inf,inf,Excluir
+1065,dif_porc_t_1_cupo_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cupo_tot_LB_SMLV,inf,inf,Excluir
+1066,dif_porc_t_6_cupo_tot_LB_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cupo_tot_LB_SMLV,inf,inf,Excluir
+1067,dif_porc_t_1_cupo_tot_TC_SMLV,0.9943745267029678,0.0,0.3217834053991372,Variable,dif_porc_t_1_cupo_tot_TC_SMLV,inf,inf,Excluir
+1068,dif_porc_t_6_cupo_tot_TC_SMLV,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_cupo_tot_TC_SMLV,inf,inf,Excluir
+1069,dif_porc_t_1_cupo_tot_NV_SMLV,0.9943745267029678,-0.05660318119683709,0.0,Variable,dif_porc_t_1_cupo_tot_NV_SMLV,inf,inf,Excluir
+1070,dif_porc_t_6_cupo_tot_NV_SMLV,0.9943745267029678,-0.056603181196837216,1.0,Variable,dif_porc_t_6_cupo_tot_NV_SMLV,inf,inf,Excluir
+1071,dif_porc_t_1_cupo_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1072,dif_porc_t_6_cupo_tot_CH_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1073,dif_porc_t_1_cupo_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1074,dif_porc_t_6_cupo_tot_CE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1075,dif_porc_t_1_cupo_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1076,dif_porc_t_6_cupo_tot_LE_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1077,dif_porc_t_1_cupo_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1078,dif_porc_t_6_cupo_tot_ME_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1079,dif_porc_t_1_cupo_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cupo_tot_SO_SMLV,inf,inf,Excluir
+1080,dif_porc_t_6_cupo_tot_SO_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cupo_tot_SO_SMLV,0.0,0.0,Excluir
+1081,dif_porc_t_1_cupo_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1082,dif_porc_t_6_cupo_tot_CC_SMLV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1083,dif_porc_t_1_cupo_tot_TC_X_SMLV,0.9943745267029678,0.0,0.020617254421915438,Variable,dif_porc_t_1_cupo_tot_TC_X_SMLV,inf,inf,Excluir
+1084,dif_porc_t_6_cupo_tot_TC_X_SMLV,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_cupo_tot_TC_X_SMLV,inf,inf,Excluir
+1085,dif_porc_t_1_cupo_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_cupo_tot_TC_T_SMLV,inf,inf,Excluir
+1086,dif_porc_t_6_cupo_tot_TC_T_SMLV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_cupo_tot_TC_T_SMLV,inf,inf,Excluir
+1087,dif_porc_t_1_cupo_tot_tot_SMLV,0.9943745267029678,-0.05660318119683723,1.0,Variable,dif_porc_t_1_cupo_tot_tot_SMLV,inf,inf,Excluir
+1088,dif_porc_t_6_cupo_tot_tot_SMLV,0.9943745267029678,-0.4657910332038693,1.0,Variable,dif_porc_t_6_cupo_tot_tot_SMLV,inf,inf,Excluir
+1089,dif_porc_t_1_utilizacion_prom_TC_X,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_utilizacion_prom_TC_X,inf,inf,Excluir
+1090,dif_porc_t_6_utilizacion_prom_TC_X,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_utilizacion_prom_TC_X,inf,inf,Excluir
+1091,dif_porc_t_1_utilizacion_prom_TC_T,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_utilizacion_prom_TC_T,inf,inf,Excluir
+1092,dif_porc_t_6_utilizacion_prom_TC_T,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_utilizacion_prom_TC_T,inf,inf,Excluir
+1093,dif_porc_t_1_utilizacion_prom_TC,0.9943745267029678,0.0,0.0011325309360906925,Variable,dif_porc_t_1_utilizacion_prom_TC,inf,inf,Excluir
+1094,dif_porc_t_6_utilizacion_prom_TC,0.9943745267029678,0.0,1.0,Variable,dif_porc_t_6_utilizacion_prom_TC,inf,inf,Excluir
+1095,dif_porc_t_1_amortizacion_prom_LB,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_amortizacion_prom_LB,inf,inf,Excluir
+1096,dif_porc_t_6_amortizacion_prom_LB,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_amortizacion_prom_LB,inf,inf,Excluir
+1097,dif_porc_t_1_amortizacion_prom_NV,0.9943745267029678,0.0,0.2449261756837113,Variable,dif_porc_t_1_amortizacion_prom_NV,inf,inf,Excluir
+1098,dif_porc_t_6_amortizacion_prom_NV,0.9943745267029678,0.0,1.1965152637924836,Variable,dif_porc_t_6_amortizacion_prom_NV,inf,inf,Excluir
+1099,dif_porc_t_1_amortizacion_prom_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1100,dif_porc_t_6_amortizacion_prom_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1101,dif_porc_t_1_amortizacion_prom_CE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_amortizacion_prom_CE,inf,inf,Excluir
+1102,dif_porc_t_6_amortizacion_prom_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1103,dif_porc_t_1_amortizacion_prom_LE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_amortizacion_prom_LE,inf,inf,Excluir
+1104,dif_porc_t_6_amortizacion_prom_LE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_amortizacion_prom_LE,inf,inf,Excluir
+1105,dif_porc_t_1_amortizacion_prom_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1106,dif_porc_t_6_amortizacion_prom_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1107,dif_porc_t_1_amortizacion_prom_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1108,dif_porc_t_6_amortizacion_prom_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1109,dif_porc_t_1_amortizacion_prom_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1110,dif_porc_t_6_amortizacion_prom_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1111,dif_porc_t_1_amortizacion_prom_tot,0.9943745267029678,0.0,0.32835036901945497,Variable,dif_porc_t_1_amortizacion_prom_tot,inf,inf,Excluir
+1112,dif_porc_t_6_amortizacion_prom_tot,0.9943745267029678,-0.8575572385908468,1.1206952045379688,Variable,dif_porc_t_6_amortizacion_prom_tot,inf,inf,Excluir
+1113,dif_porc_t_1_porc_obl_mora1_30_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1114,dif_porc_t_6_porc_obl_mora1_30_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1115,dif_porc_t_1_porc_obl_mora31_60_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1116,dif_porc_t_6_porc_obl_mora31_60_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1117,dif_porc_t_1_porc_obl_mora61_90_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1118,dif_porc_t_6_porc_obl_mora61_90_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1119,dif_porc_t_1_porc_obl_mora91_120_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1120,dif_porc_t_6_porc_obl_mora91_120_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1121,dif_porc_t_1_porc_obl_mora121_mas_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1122,dif_porc_t_6_porc_obl_mora121_mas_LB,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1123,dif_porc_t_1_porc_obl_mora1_30_TC,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora1_30_TC,inf,inf,Excluir
+1124,dif_porc_t_6_porc_obl_mora1_30_TC,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora1_30_TC,inf,inf,Excluir
+1125,dif_porc_t_1_porc_obl_mora31_60_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1126,dif_porc_t_6_porc_obl_mora31_60_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1127,dif_porc_t_1_porc_obl_mora61_90_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1128,dif_porc_t_6_porc_obl_mora61_90_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1129,dif_porc_t_1_porc_obl_mora91_120_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1130,dif_porc_t_6_porc_obl_mora91_120_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1131,dif_porc_t_1_porc_obl_mora121_mas_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1132,dif_porc_t_6_porc_obl_mora121_mas_TC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1133,dif_porc_t_1_porc_obl_mora1_30_NV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora1_30_NV,inf,inf,Excluir
+1134,dif_porc_t_6_porc_obl_mora1_30_NV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora1_30_NV,inf,inf,Excluir
+1135,dif_porc_t_1_porc_obl_mora31_60_NV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora31_60_NV,0.0,0.0,Excluir
+1136,dif_porc_t_6_porc_obl_mora31_60_NV,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora31_60_NV,0.0,0.0,Excluir
+1137,dif_porc_t_1_porc_obl_mora61_90_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1138,dif_porc_t_6_porc_obl_mora61_90_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1139,dif_porc_t_1_porc_obl_mora91_120_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1140,dif_porc_t_6_porc_obl_mora91_120_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1141,dif_porc_t_1_porc_obl_mora121_mas_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1142,dif_porc_t_6_porc_obl_mora121_mas_NV,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1143,dif_porc_t_1_porc_obl_mora1_30_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1144,dif_porc_t_6_porc_obl_mora1_30_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1145,dif_porc_t_1_porc_obl_mora31_60_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1146,dif_porc_t_6_porc_obl_mora31_60_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1147,dif_porc_t_1_porc_obl_mora61_90_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1148,dif_porc_t_6_porc_obl_mora61_90_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1149,dif_porc_t_1_porc_obl_mora91_120_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1150,dif_porc_t_6_porc_obl_mora91_120_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1151,dif_porc_t_1_porc_obl_mora121_mas_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1152,dif_porc_t_6_porc_obl_mora121_mas_CH,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1153,dif_porc_t_1_porc_obl_mora1_30_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1154,dif_porc_t_6_porc_obl_mora1_30_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1155,dif_porc_t_1_porc_obl_mora31_60_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1156,dif_porc_t_6_porc_obl_mora31_60_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1157,dif_porc_t_1_porc_obl_mora61_90_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1158,dif_porc_t_6_porc_obl_mora61_90_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1159,dif_porc_t_1_porc_obl_mora91_120_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1160,dif_porc_t_6_porc_obl_mora91_120_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1161,dif_porc_t_1_porc_obl_mora121_mas_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1162,dif_porc_t_6_porc_obl_mora121_mas_CE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1163,dif_porc_t_1_porc_obl_mora1_30_LE,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora1_30_LE,inf,inf,Excluir
+1164,dif_porc_t_6_porc_obl_mora1_30_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1165,dif_porc_t_1_porc_obl_mora31_60_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1166,dif_porc_t_6_porc_obl_mora31_60_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1167,dif_porc_t_1_porc_obl_mora61_90_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1168,dif_porc_t_6_porc_obl_mora61_90_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1169,dif_porc_t_1_porc_obl_mora91_120_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1170,dif_porc_t_6_porc_obl_mora91_120_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1171,dif_porc_t_1_porc_obl_mora121_mas_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1172,dif_porc_t_6_porc_obl_mora121_mas_LE,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1173,dif_porc_t_1_porc_obl_mora1_30_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1174,dif_porc_t_6_porc_obl_mora1_30_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1175,dif_porc_t_1_porc_obl_mora31_60_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1176,dif_porc_t_6_porc_obl_mora31_60_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1177,dif_porc_t_1_porc_obl_mora61_90_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1178,dif_porc_t_6_porc_obl_mora61_90_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1179,dif_porc_t_1_porc_obl_mora91_120_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1180,dif_porc_t_6_porc_obl_mora91_120_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1181,dif_porc_t_1_porc_obl_mora121_mas_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1182,dif_porc_t_6_porc_obl_mora121_mas_ME,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1183,dif_porc_t_1_porc_obl_mora1_30_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1184,dif_porc_t_6_porc_obl_mora1_30_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1185,dif_porc_t_1_porc_obl_mora31_60_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1186,dif_porc_t_6_porc_obl_mora31_60_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1187,dif_porc_t_1_porc_obl_mora61_90_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1188,dif_porc_t_6_porc_obl_mora61_90_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1189,dif_porc_t_1_porc_obl_mora91_120_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1190,dif_porc_t_6_porc_obl_mora91_120_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1191,dif_porc_t_1_porc_obl_mora121_mas_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1192,dif_porc_t_6_porc_obl_mora121_mas_SO,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1193,dif_porc_t_1_porc_obl_mora1_30_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1194,dif_porc_t_6_porc_obl_mora1_30_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1195,dif_porc_t_1_porc_obl_mora31_60_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1196,dif_porc_t_6_porc_obl_mora31_60_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1197,dif_porc_t_1_porc_obl_mora61_90_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1198,dif_porc_t_6_porc_obl_mora61_90_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1199,dif_porc_t_1_porc_obl_mora91_120_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1200,dif_porc_t_6_porc_obl_mora91_120_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1201,dif_porc_t_1_porc_obl_mora121_mas_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1202,dif_porc_t_6_porc_obl_mora121_mas_CC,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1203,dif_porc_t_1_porc_obl_mora1_30_TC_X,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora1_30_TC_X,inf,inf,Excluir
+1204,dif_porc_t_6_porc_obl_mora1_30_TC_X,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora1_30_TC_X,0.0,0.0,Excluir
+1205,dif_porc_t_1_porc_obl_mora31_60_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1206,dif_porc_t_6_porc_obl_mora31_60_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1207,dif_porc_t_1_porc_obl_mora61_90_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1208,dif_porc_t_6_porc_obl_mora61_90_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1209,dif_porc_t_1_porc_obl_mora91_120_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1210,dif_porc_t_6_porc_obl_mora91_120_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1211,dif_porc_t_1_porc_obl_mora121_mas_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1212,dif_porc_t_6_porc_obl_mora121_mas_TC_X,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1213,dif_porc_t_1_porc_obl_mora1_30_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1214,dif_porc_t_6_porc_obl_mora1_30_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1215,dif_porc_t_1_porc_obl_mora31_60_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1216,dif_porc_t_6_porc_obl_mora31_60_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1217,dif_porc_t_1_porc_obl_mora61_90_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1218,dif_porc_t_6_porc_obl_mora61_90_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1219,dif_porc_t_1_porc_obl_mora91_120_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1220,dif_porc_t_6_porc_obl_mora91_120_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1221,dif_porc_t_1_porc_obl_mora121_mas_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1222,dif_porc_t_6_porc_obl_mora121_mas_TC_T,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1223,dif_porc_t_1_porc_obl_mora1_30_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora1_30_tot,inf,inf,Excluir
+1224,dif_porc_t_6_porc_obl_mora1_30_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora1_30_tot,inf,inf,Excluir
+1225,dif_porc_t_1_porc_obl_mora31_60_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_1_porc_obl_mora31_60_tot,0.0,0.0,Excluir
+1226,dif_porc_t_6_porc_obl_mora31_60_tot,0.9943745267029678,0.0,0.0,No variable,dif_porc_t_6_porc_obl_mora31_60_tot,inf,inf,Excluir
+1227,dif_porc_t_1_porc_obl_mora61_90_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1228,dif_porc_t_6_porc_obl_mora61_90_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1229,dif_porc_t_1_porc_obl_mora91_120_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1230,dif_porc_t_6_porc_obl_mora91_120_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1231,dif_porc_t_1_porc_obl_mora121_mas_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1232,dif_porc_t_6_porc_obl_mora121_mas_tot,0.9943745267029678,0.0,0.0,No variable,,,,Excluir
+1233,cupo_prom_ult3_meses_total,0.9943745267029678,0.0,3000000.0,Variable,cupo_prom_ult3_meses_total,inf,inf,Excluir
+1234,cuota_paga_prom_ult7_meses_total,0.9943745267029678,0.0,30.875,Variable,cuota_paga_prom_ult7_meses_total,inf,inf,Excluir
+1235,cupo_prom_ult7_meses_total,0.9943745267029678,0.0,3000000.0,Variable,cupo_prom_ult7_meses_total,inf,inf,Excluir
+1236,mora_max_ult3_meses_total,0.9943745267029678,0.0,7.5,Variable,mora_max_ult3_meses_total,inf,inf,Excluir
+1237,saldo_prom_ult3_meses_total,0.9943745267029678,550301.25,86624975.5,Variable,saldo_prom_ult3_meses_total,inf,inf,Excluir
+1238,saldo_prom_ult6_meses_total,0.9943745267029678,650037.1192857143,84540594.47681817,Variable,saldo_prom_ult6_meses_total,inf,inf,Excluir
+1239,util_prom_ult6_meses_total,0.9943745267029678,0.4336328928571429,0.9997076005888893,Variable,util_prom_ult6_meses_total,inf,inf,Excluir
+1240,mora_cierre_ult_mes_total,0.9943745267029678,0.0,2.0,Variable,mora_cierre_ult_mes_total,0.0,0.0,Excluir
+1241,mora_max_ult6_meses_total,0.9943745267029678,0.0,13.0,Variable,mora_max_ult6_meses_total,inf,inf,Excluir
+1242,util_prom_ult9_meses_total,0.9943745267029678,0.4706744092229385,0.9997076005888893,Variable,util_prom_ult9_meses_total,inf,inf,Excluir
+1243,saldo_prom_ult7_meses_total,0.9943745267029678,714583.5487500001,86218588.93708333,Variable,saldo_prom_ult7_meses_total,inf,inf,Excluir
+1244,util_prom_ult3_meses_total,0.9943745267029678,0.3996866550876434,1.0,Variable,util_prom_ult3_meses_total,inf,inf,Excluir
+1245,cuota_paga_prom_ult3_meses_total,0.9943745267029678,0.0,29.0,Variable,cuota_paga_prom_ult3_meses_total,inf,inf,Excluir
+1246,util_prom_ult9_meses_expr,0.9989542389383722,0.9059115130275487,0.9995321609422229,Variable,util_prom_ult9_meses_expr,inf,inf,Excluir
+1247,util_prom_ult6_meses_expr,0.9989542389383722,0.9238961589585452,0.9995321609422229,Variable,util_prom_ult6_meses_expr,inf,inf,Excluir
+1248,cuota_paga_prom_ult7_meses_expr,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+1249,mora_max_ult3_meses_expr,0.9989542389383722,0.0,15.799999999999994,Variable,mora_max_ult3_meses_expr,inf,inf,Excluir
+1250,saldo_prom_ult3_meses_expr,0.9989542389383722,66896.0,4499990.0955,Variable,saldo_prom_ult3_meses_expr,inf,inf,Excluir
+1251,mora_max_ult6_meses_expr,0.9989542389383722,0.0,23.2,Variable,mora_max_ult6_meses_expr,inf,inf,Excluir
+1252,saldo_prom_ult6_meses_expr,0.9989542389383722,66896.0,3269844.461428571,Variable,saldo_prom_ult6_meses_expr,inf,inf,Excluir
+1253,util_prom_ult3_meses_expr,0.9989542389383722,0.9149385580020355,0.9995321609422229,Variable,util_prom_ult3_meses_expr,inf,inf,Excluir
+1254,mora_cierre_ult_mes_expr,0.9989542389383722,0.0,14.0,Variable,mora_cierre_ult_mes_expr,0.0,0.0,Excluir
+1255,cupo_prom_ult7_meses_expr,0.9989542389383722,1536200.0,6116000.0,Variable,cupo_prom_ult7_meses_expr,inf,inf,Excluir
+1256,cupo_prom_ult3_meses_expr,0.9989542389383722,1582000.0,6116000.0,Variable,cupo_prom_ult3_meses_expr,inf,inf,Excluir
+1257,saldo_prom_ult7_meses_expr,0.9989542389383722,66896.0,3170007.1695,Variable,saldo_prom_ult7_meses_expr,inf,inf,Excluir
+1258,cuota_paga_prom_ult3_meses_expr,0.9989542389383722,0.0,0.0,No variable,,,,Excluir
+1259,mora_max_ult3_meses_trad,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+1260,saldo_prom_ult3_meses_trad,0.9997836356424218,197455.95,10930754.02,Variable,saldo_prom_ult3_meses_trad,inf,inf,Excluir
+1261,util_prom_ult9_meses_trad,0.9997836356424218,0.9674779631141369,1.0,Variable,util_prom_ult9_meses_trad,inf,inf,Excluir
+1262,mora_max_ult6_meses_trad,0.9997836356424218,0.0,14.0,Variable,mora_max_ult6_meses_trad,0.0,0.0,Excluir
+1263,cupo_prom_ult7_meses_trad,0.9997836356424218,1250000.0,12500000.0,Variable,cupo_prom_ult7_meses_trad,inf,inf,Excluir
+1264,util_prom_ult6_meses_trad,0.9997836356424218,0.9677192667241936,1.0,Variable,util_prom_ult6_meses_trad,inf,inf,Excluir
+1265,mora_cierre_ult_mes_trad,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+1266,cuota_paga_prom_ult3_meses_trad,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+1267,saldo_prom_ult6_meses_trad,0.9997836356424218,140461.11599999998,10941642.671428572,Variable,saldo_prom_ult6_meses_trad,inf,inf,Excluir
+1268,cuota_paga_prom_ult7_meses_trad,0.9997836356424218,0.0,0.0,No variable,,,,Excluir
+1269,util_prom_ult3_meses_trad,0.9997836356424218,0.9813875261610088,1.0,Variable,util_prom_ult3_meses_trad,inf,inf,Excluir
+1270,cupo_prom_ult3_meses_trad,0.9997836356424218,1250000.0,12500000.0,Variable,cupo_prom_ult3_meses_trad,inf,inf,Excluir
+1271,saldo_prom_ult7_meses_trad,0.9997836356424218,127780.60666666667,10966049.4034375,Variable,saldo_prom_ult7_meses_trad,inf,inf,Excluir
+1272,num_lib_solicitadas,0.6929789765965887,1.0,4.0,Variable,num_lib_solicitadas,0.7058328464105096,0.7058328464105096,Excluir
+1273,prom_monto_solicitado,0.6929789765965887,4250000.0,39493999.99999999,Variable,prom_monto_solicitado,0.10066676950027732,0.10066676950027732,Incluir
+1274,prom_monto_aprobado,0.6929789765965887,4250000.0,39443999.99999998,Variable,prom_monto_aprobado,0.10056327106830154,0.10056327106830154,Incluir
+1275,prom_monto_desembolsado,0.6929789765965887,3368625.25,32365950.299999993,Variable,prom_monto_desembolsado,0.11961580905749114,0.11961580905749114,Incluir
+1276,prom_monto_novado,0.6929789765965887,0.0,11290835.299999997,Variable,prom_monto_novado,0.63046927186137,0.63046927186137,Excluir
+1277,prom_prop_desembolso,0.6929789765965887,0.48911371685360006,0.9872350000000001,Variable,prom_prop_desembolso,0.8815304177038163,0.8815304177038163,Excluir
+1278,prom_n_cuotas,0.6929789765965887,27.0,86.66666666666667,Variable,prom_n_cuotas,0.2758000783257167,0.2758000783257167,Excluir
+1279,prom_valor_cuota,0.6929789765965887,155031.5,829380.3999999999,Variable,prom_valor_cuota,0.10066676950027732,0.10066676950027732,Incluir
+1280,prom_tasa,0.6929789765965887,12.84,21.6,Variable,prom_tasa,0.25039780259423156,0.25039780259423156,Excluir
+1281,prom_dias_procesamiento,0.6929789765965887,1.0,10.23499999999999,Variable,prom_dias_procesamiento,0.09795672525106006,0.09795672525106006,Incluir
+1282,max_dias_procesamiento,0.6929789765965887,1.0,15.0,Variable,max_dias_procesamiento,0.10796905285063849,0.10796905285063849,Incluir
+1283,n_novaciones,0.6929789765965887,0.0,3.0,Variable,n_novaciones,0.5641002985478966,0.5641002985478966,Excluir
+1284,sector_ultlibranza,0.6929789765965887,,,,sector_ultlibranza,0.3398045323733835,0.3398045323733835,Excluir
+1285,subsector_ultlibranza,0.6929789765965887,,,,subsector_ultlibranza,1.2135253943812387,1.2135253943812387,Excluir
+1286,tipo_pagaduria_ultlibranza,0.6929789765965887,,,,tipo_pagaduria_ultlibranza,0.31860126045747084,0.31860126045747084,Excluir
+1287,pasv_num_ctas_vig_tot,0.2393350402077098,1.0,1.0,No variable,pasv_num_ctas_vig_tot,0.0,0.0,Excluir
+1288,pasv_num_ctas_vig_cc,0.2393350402077098,0.0,0.0,No variable,pasv_num_ctas_vig_cc,0.0,0.0,Excluir
+1289,pasv_num_ctas_vig_ca,0.2393350402077098,1.0,1.0,No variable,pasv_num_ctas_vig_ca,0.043180270221814324,0.043180270221814324,Excluir
+1290,pasv_num_ctas_vig_cdt,0.2393350402077098,0.0,0.0,No variable,pasv_num_ctas_vig_cdt,0.0,0.0,Excluir
+1291,pasv_dias_desde_ultima_trans,0.2397677689228661,6.0,49.0,Variable,pasv_dias_desde_ultima_trans,0.7982238615540121,0.7982238615540121,Excluir
+1292,pasv_antig_total,0.2393350402077098,23.266666666666666,260.4,Variable,pasv_antig_total,0.6144309052639754,0.6144309052639754,Excluir
+1293,pasv_num_meses_ult_apertura,0.2393350402077098,15.710000000000004,257.3,Variable,pasv_num_meses_ult_apertura,0.646956437255248,0.646956437255248,Excluir
+1294,pasv_saldo_tot_fin_mes_smlv,0.2393350402077098,0.0019610537654145073,13.048375900236222,Variable,pasv_saldo_tot_fin_mes_smlv,0.19227355825821726,0.19227355825821726,Incluir
+1295,pasv_saldo_cc_fin_mes_smlv,0.9701056579279507,0.0232529138429882,41.14367458665211,Variable,pasv_saldo_cc_fin_mes_smlv,inf,inf,Excluir
+1296,pasv_saldo_ca_fin_mes_smlv,0.2662363419999279,0.0018262211757321747,9.862988743122939,Variable,pasv_saldo_ca_fin_mes_smlv,0.19265812057637843,0.19265812057637843,Incluir
+1297,pasv_saldo_cdt_fin_mes_smlv,0.9779308355270275,6.037801467427268,113.46236517589321,Variable,pasv_saldo_cdt_fin_mes_smlv,0.14044630262420701,0.14044630262420701,Excluir
+1298,pasv_saldo_min_fin_mes_smlv,0.2393350402077098,0.001581449941795594,9.40008744886741,Variable,pasv_saldo_min_fin_mes_smlv,0.17031193210207807,0.17031193210207807,Incluir
+1299,pasv_saldo_min_cc_fin_mes_smlv,0.9701056579279507,0.0232529138429882,40.39759025305637,Variable,pasv_saldo_min_cc_fin_mes_smlv,inf,inf,Excluir
+1300,pasv_saldo_min_ca_fin_mes_smlv,0.2662363419999279,0.0014905617087461176,8.749931910321394,Variable,pasv_saldo_min_ca_fin_mes_smlv,0.1709340438618049,0.1709340438618049,Incluir
+1301,pasv_saldo_min_cdt_fin_mes_smlv,0.9779308355270275,4.857192832888146,72.45361760912722,Variable,pasv_saldo_min_cdt_fin_mes_smlv,0.11623939618680112,0.11623939618680112,Excluir
+1302,pasv_saldo_max_fin_mes_smlv,0.2393350402077098,0.0019544544484106094,12.417686516140268,Variable,pasv_saldo_max_fin_mes_smlv,0.18996217178307975,0.18996217178307975,Incluir
+1303,pasv_saldo_max_cc_fin_mes_smlv,0.9701056579279507,0.0232529138429882,41.02479899917404,Variable,pasv_saldo_max_cc_fin_mes_smlv,inf,inf,Excluir
+1304,pasv_saldo_max_ca_fin_mes_smlv,0.2662363419999279,0.0018220345941872879,9.725890958513052,Variable,pasv_saldo_max_ca_fin_mes_smlv,0.19154765037169888,0.19154765037169888,Incluir
+1305,pasv_saldo_max_cdt_fin_mes_smlv,0.9779308355270275,6.037801467427268,84.52922054398175,Variable,pasv_saldo_max_cdt_fin_mes_smlv,0.1425266121114478,0.1425266121114478,Excluir
+1306,fecha,0.2393350402077098,,,,,,,Incluir
+1307,pasv_saldo_total_1mes_atras,0.2393350402077098,0.002152089803843906,14.056017670229775,Variable,pasv_saldo_total_1mes_atras,0.21747545120789483,0.21747545120789483,Incluir
+1308,pasv_saldo_cc_1mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cc_1mes_atras,0.06677813924107666,0.06677813924107666,Excluir
+1309,pasv_saldo_ca_1mes_atras,0.2393350402077098,0.0010380949045785857,10.139104879062101,Variable,pasv_saldo_ca_1mes_atras,0.18872465634626234,0.18872465634626234,Incluir
+1310,pasv_saldo_cdt_1mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cdt_1mes_atras,0.0,0.0,Excluir
+1311,pasv_saldo_total_3mes_atras,0.2393350402077098,0.004666950845855735,13.466895759370267,Variable,pasv_saldo_total_3mes_atras,0.2446024340561259,0.2446024340561259,Incluir
+1312,pasv_saldo_cc_3mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cc_3mes_atras,0.06760102363365819,0.06760102363365819,Excluir
+1313,pasv_saldo_ca_3mes_atras,0.2393350402077098,0.002463478143963728,9.831070618101048,Variable,pasv_saldo_ca_3mes_atras,0.21660706426514809,0.21660706426514809,Incluir
+1314,pasv_saldo_cdt_3mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cdt_3mes_atras,0.0,0.0,Excluir
+1315,pasv_saldo_total_6mes_atras,0.2393350402077098,0.006553214201920836,12.964690401732836,Variable,pasv_saldo_total_6mes_atras,0.22513558288691038,0.22513558288691038,Incluir
+1316,pasv_saldo_cc_6mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cc_6mes_atras,0.0652055366037114,0.0652055366037114,Excluir
+1317,pasv_saldo_ca_6mes_atras,0.2393350402077098,0.004062691361773292,9.583516023349851,Variable,pasv_saldo_ca_6mes_atras,0.2122888235041597,0.2122888235041597,Incluir
+1318,pasv_saldo_cdt_6mes_atras,0.2393350402077098,0.0,0.0,No variable,pasv_saldo_cdt_6mes_atras,0.0,0.0,Excluir
+1319,fecha_ult_tx,0.9983412065919007,,,,fecha_ult_tx,inf,inf,Excluir
+1320,dias_desde_ult_tx,0.9983412065919007,0.5,22.0,Variable,dias_desde_ult_tx,inf,inf,Excluir
+1321,mode_dia,0.9983412065919007,,,,mode_dia,1.4449911844076488,1.4449911844076488,Excluir
+1322,num_tx_mes_ant,0.9983412065919007,1.0,8.0,Variable,num_tx_mes_ant,inf,inf,Excluir
+1323,mode_descripcion_tx,0.9983412065919007,,,,mode_descripcion_tx,3.7454100617828106,3.7454100617828106,Excluir
+1324,prom_mov_mes_ant,0.9983412065919007,33233.333333333336,1082593.75,Variable,prom_mov_mes_ant,inf,inf,Excluir
+1325,mode_pais_tx,0.9997475749161588,,,,mode_pais_tx,0.19634801397303325,0.19634801397303325,Excluir
+1326,num_cuot_mes_ant,1.0,,,No variable,,,,Excluir
+1327,fecha_ult_tx_expr,0.998701813854531,,,,fecha_ult_tx_expr,inf,inf,Excluir
+1328,dias_desde_ult_tx_expr,0.998701813854531,2.0,21.0,Variable,dias_desde_ult_tx_expr,inf,inf,Excluir
+1329,mode_dia_expr,0.998701813854531,,,,mode_dia_expr,1.699903105741175,1.699903105741175,Excluir
+1330,num_tx_mes_ant_expr,0.998701813854531,1.0,8.0,Variable,num_tx_mes_ant_expr,inf,inf,Excluir
+1331,mode_descripcion_expr_tx_expr,0.998701813854531,,,,mode_descripcion_expr_tx_expr,3.483976745721218,3.483976745721218,Excluir
+1332,prom_mov_mes_ant_expr,0.998701813854531,35373.875,481156.5,Variable,prom_mov_mes_ant_expr,inf,inf,Excluir
+1333,mode_pais_tx_expr,1.0,,,No variable,,,,Excluir
+1334,num_cuot_mes_ant_expr,1.0,,,No variable,,,,Excluir
+1335,fecha_ult_tx_trad,0.9996754534636327,,,,fecha_ult_tx_trad,inf,inf,Excluir
+1336,dias_desde_ult_tx_trad,0.9996754534636327,0.8,26.400000000000002,Variable,dias_desde_ult_tx_trad,inf,inf,Excluir
+1337,mode_dia_trad,0.9996754534636327,,,,mode_dia_trad,1.1698379752704355,1.1698379752704355,Excluir
+1338,num_tx_mes_ant_trad,0.9996754534636327,1.0,9.600000000000001,Variable,num_tx_mes_ant_trad,inf,inf,Excluir
+1339,mode_descripcion_trad_tx_trad,0.9996754534636327,,,,mode_descripcion_trad_tx_trad,1.1698379752704355,1.1698379752704355,Excluir
+1340,prom_mov_mes_ant_trad,0.9996754534636327,23563.36,1677500.0,Variable,prom_mov_mes_ant_trad,inf,inf,Excluir
+1341,mode_pais_tx_trad,0.9997475749161588,,,,mode_pais_tx_trad,0.19634801397303325,0.19634801397303325,Excluir
+1342,num_cuot_mes_ant_trad,1.0,,,No variable,,,,Excluir
+1343,fecha_ult_tx_la14,0.999963939273737,,,,,,,Excluir
+1344,dias_desde_ult_tx_la14,0.999963939273737,0.0,0.0,No variable,,,,Excluir
+1345,mode_dia_la14,0.999963939273737,,,,mode_dia_la14,0.0,0.0,Excluir
+1346,num_tx_mes_ant_la14,0.999963939273737,6.0,6.0,No variable,num_tx_mes_ant_la14,,,Excluir
+1347,mode_descripcion_la14_tx_la14,0.999963939273737,,,,mode_descripcion_la14_tx_la14,0.0,0.0,Excluir
+1348,prom_mov_mes_ant_la14,0.999963939273737,168060.16666666666,168060.16666666666,No variable,prom_mov_mes_ant_la14,,,Excluir
+1349,mode_pais_tx_la14,1.0,,,No variable,,,,Excluir
+1350,num_cuot_mes_ant_la14,1.0,,,No variable,,,,Excluir
+1351,num_tx_ult_1mes,0.9983412065919007,0.0,5.5,Variable,num_tx_ult_1mes,inf,inf,Excluir
+1352,num_tx_ult_2meses,0.9983412065919007,0.0,11.270833333333332,Variable,num_tx_ult_2meses,inf,inf,Excluir
+1353,num_tx_ult_3meses,0.9983412065919007,0.0,12.15,Variable,num_tx_ult_3meses,inf,inf,Excluir
+1354,num_tx_ult_4meses,0.9983412065919007,0.0,15.125,Variable,num_tx_ult_4meses,inf,inf,Excluir
+1355,num_tx_ult_6meses,0.9983412065919007,0.0,18.857142857142858,Variable,num_tx_ult_6meses,inf,inf,Excluir
+1356,prom_tx_ult_1mes,0.9983412065919007,0.0,5.5,Variable,prom_tx_ult_1mes,inf,inf,Excluir
+1357,prom_tx_ult_2meses,0.9983412065919007,0.0,5.635416666666666,Variable,prom_tx_ult_2meses,inf,inf,Excluir
+1358,prom_tx_ult_3meses,0.9983412065919007,0.0,4.05,Variable,prom_tx_ult_3meses,inf,inf,Excluir
+1359,prom_tx_ult_4meses,0.9983412065919007,0.0,3.78125,Variable,prom_tx_ult_4meses,inf,inf,Excluir
+1360,prom_tx_ult_6meses,0.9983412065919007,0.0,3.1428571428571432,Variable,prom_tx_ult_6meses,inf,inf,Excluir
+1361,valor_mov_ult_1mes,0.9988099960333201,61120.00000000001,1172940.4222222222,Variable,valor_mov_ult_1mes,inf,inf,Excluir
+1362,valor_mov_ult_2meses,0.998701813854531,128805.5,2345493.1041428572,Variable,valor_mov_ult_2meses,inf,inf,Excluir
+1363,valor_mov_ult_3meses,0.998593631675742,255575.532,2813180.3952000006,Variable,valor_mov_ult_3meses,inf,inf,Excluir
+1364,valor_mov_ult_4meses,0.998593631675742,295606.6666666667,2997599.8552000034,Variable,valor_mov_ult_4meses,inf,inf,Excluir
+1365,valor_mov_ult_6meses,0.998593631675742,295606.6666666667,3672511.231428572,Variable,valor_mov_ult_6meses,inf,inf,Excluir
+1366,prom_mov_ult_1mes,0.9988099960333201,32650.000000000004,427311.4713333333,Variable,prom_mov_ult_1mes,inf,inf,Excluir
+1367,prom_mov_ult_2meses,0.998701813854531,43403.25546633126,433014.332516699,Variable,prom_mov_ult_2meses,inf,inf,Excluir
+1368,prom_mov_ult_3meses,0.998593631675742,53373.97142857143,756480.8000000005,Variable,prom_mov_ult_3meses,inf,inf,Excluir
+1369,prom_mov_ult_4meses,0.998593631675742,56882.65090909091,797920.0000000003,Variable,prom_mov_ult_4meses,inf,inf,Excluir
+1370,prom_mov_ult_6meses,0.998593631675742,54861.73485714285,723454.0,Variable,prom_mov_ult_6meses,inf,inf,Excluir
+1371,prom_cuot_ult_1mes,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_1mes,,,Excluir
+1372,prom_cuot_ult_2meses,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_2meses,,,Excluir
+1373,prom_cuot_ult_3meses,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_3meses,,,Excluir
+1374,prom_cuot_ult_4meses,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_4meses,,,Excluir
+1375,prom_cuot_ult_6meses,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_6meses,,,Excluir
+1376,num_tx_ult_1mes_trad,0.9996754534636327,0.0,5.248571428571429,Variable,num_tx_ult_1mes_trad,inf,inf,Excluir
+1377,num_tx_ult_2meses_trad,0.9996754534636327,0.8,8.427142857142858,Variable,num_tx_ult_2meses_trad,inf,inf,Excluir
+1378,num_tx_ult_3meses_trad,0.9996754534636327,2.4000000000000004,8.77,Variable,num_tx_ult_3meses_trad,inf,inf,Excluir
+1379,num_tx_ult_4meses_trad,0.9996754534636327,3.2,12.079999999999998,Variable,num_tx_ult_4meses_trad,inf,inf,Excluir
+1380,num_tx_ult_6meses_trad,0.9996754534636327,3.2,13.280000000000001,Variable,num_tx_ult_6meses_trad,inf,inf,Excluir
+1381,prom_tx_ult_1mes_trad,0.9996754534636327,0.0,5.248571428571429,Variable,prom_tx_ult_1mes_trad,inf,inf,Excluir
+1382,prom_tx_ult_2meses_trad,0.9996754534636327,0.4,4.213571428571429,Variable,prom_tx_ult_2meses_trad,inf,inf,Excluir
+1383,prom_tx_ult_3meses_trad,0.9996754534636327,0.8,2.923333333333334,Variable,prom_tx_ult_3meses_trad,inf,inf,Excluir
+1384,prom_tx_ult_4meses_trad,0.9996754534636327,0.8,3.0199999999999996,Variable,prom_tx_ult_4meses_trad,inf,inf,Excluir
+1385,prom_tx_ult_6meses_trad,0.9996754534636327,0.5333333333333333,2.2133333333333334,Variable,prom_tx_ult_6meses_trad,inf,inf,Excluir
+1386,valor_mov_ult_1mes_trad,0.9997475749161588,319140.0,1776000.000000001,Variable,valor_mov_ult_1mes_trad,inf,inf,Excluir
+1387,valor_mov_ult_2meses_trad,0.9997115141898958,494430.0,4048068.1099999994,Variable,valor_mov_ult_2meses_trad,inf,inf,Excluir
+1388,valor_mov_ult_3meses_trad,0.9997115141898958,727527.0,4715568.109999999,Variable,valor_mov_ult_3meses_trad,inf,inf,Excluir
+1389,valor_mov_ult_4meses_trad,0.9997115141898958,727527.0,10684940.0,Variable,valor_mov_ult_4meses_trad,inf,inf,Excluir
+1390,valor_mov_ult_6meses_trad,0.9997115141898958,919827.0,14984189.999999998,Variable,valor_mov_ult_6meses_trad,inf,inf,Excluir
+1391,prom_mov_ult_1mes_trad,0.9997475749161588,154384.3592204082,888000.0000000005,Variable,prom_mov_ult_1mes_trad,inf,inf,Excluir
+1392,prom_mov_ult_2meses_trad,0.9997115141898958,165909.48333333334,1025529.9158567116,Variable,prom_mov_ult_2meses_trad,inf,inf,Excluir
+1393,prom_mov_ult_3meses_trad,0.9997115141898958,158841.075,1379725.0,Variable,prom_mov_ult_3meses_trad,inf,inf,Excluir
+1394,prom_mov_ult_4meses_trad,0.9997115141898958,158841.075,1282679.9999999995,Variable,prom_mov_ult_4meses_trad,inf,inf,Excluir
+1395,prom_mov_ult_6meses_trad,0.9997115141898958,140043.4642857143,1251533.4022556387,Variable,prom_mov_ult_6meses_trad,inf,inf,Excluir
+1396,prom_cuot_ult_1mes_trad,1.0,,,No variable,,,,Excluir
+1397,prom_cuot_ult_2meses_trad,1.0,,,No variable,,,,Excluir
+1398,prom_cuot_ult_3meses_trad,1.0,,,No variable,,,,Excluir
+1399,prom_cuot_ult_4meses_trad,1.0,,,No variable,,,,Excluir
+1400,prom_cuot_ult_6meses_trad,1.0,,,No variable,,,,Excluir
+1401,num_tx_ult_1mes_expr,0.998701813854531,0.0,5.5,Variable,num_tx_ult_1mes_expr,inf,inf,Excluir
+1402,num_tx_ult_2meses_expr,0.998701813854531,0.0,11.270833333333332,Variable,num_tx_ult_2meses_expr,inf,inf,Excluir
+1403,num_tx_ult_3meses_expr,0.998701813854531,0.0,13.775,Variable,num_tx_ult_3meses_expr,inf,inf,Excluir
+1404,num_tx_ult_4meses_expr,0.998701813854531,0.0,16.625,Variable,num_tx_ult_4meses_expr,inf,inf,Excluir
+1405,num_tx_ult_6meses_expr,0.998701813854531,0.0,21.857142857142858,Variable,num_tx_ult_6meses_expr,inf,inf,Excluir
+1406,prom_tx_ult_1mes_expr,0.998701813854531,0.0,5.5,Variable,prom_tx_ult_1mes_expr,inf,inf,Excluir
+1407,prom_tx_ult_2meses_expr,0.998701813854531,0.0,5.635416666666666,Variable,prom_tx_ult_2meses_expr,inf,inf,Excluir
+1408,prom_tx_ult_3meses_expr,0.998701813854531,0.0,4.591666666666667,Variable,prom_tx_ult_3meses_expr,inf,inf,Excluir
+1409,prom_tx_ult_4meses_expr,0.998701813854531,0.0,4.15625,Variable,prom_tx_ult_4meses_expr,inf,inf,Excluir
+1410,prom_tx_ult_6meses_expr,0.998701813854531,0.0,3.6428571428571432,Variable,prom_tx_ult_6meses_expr,inf,inf,Excluir
+1411,valor_mov_ult_1mes_expr,0.9990984818434243,51535.0,1158407.0944444444,Variable,valor_mov_ult_1mes_expr,inf,inf,Excluir
+1412,valor_mov_ult_2meses_expr,0.9990263603908983,117242.6,1824982.2857142861,Variable,valor_mov_ult_2meses_expr,inf,inf,Excluir
+1413,valor_mov_ult_3meses_expr,0.9989181782121092,187749.669,2199615.3000000007,Variable,valor_mov_ult_3meses_expr,inf,inf,Excluir
+1414,valor_mov_ult_4meses_expr,0.9989181782121092,288100.0,2435502.1500000004,Variable,valor_mov_ult_4meses_expr,inf,inf,Excluir
+1415,valor_mov_ult_6meses_expr,0.9989181782121092,288520.67500000005,3249190.6,Variable,valor_mov_ult_6meses_expr,inf,inf,Excluir
+1416,prom_mov_ult_1mes_expr,0.9990984818434243,27059.550000000003,288880.00000000006,Variable,prom_mov_ult_1mes_expr,inf,inf,Excluir
+1417,prom_mov_ult_2meses_expr,0.9990263603908983,34336.64444444445,322191.14090909105,Variable,prom_mov_ult_2meses_expr,inf,inf,Excluir
+1418,prom_mov_ult_3meses_expr,0.9989181782121092,52234.489188504354,717042.1,Variable,prom_mov_ult_3meses_expr,inf,inf,Excluir
+1419,prom_mov_ult_4meses_expr,0.9989181782121092,50617.54685084201,738540.9000000003,Variable,prom_mov_ult_4meses_expr,inf,inf,Excluir
+1420,prom_mov_ult_6meses_expr,0.9989181782121092,52941.76061707578,720050.3333333334,Variable,prom_mov_ult_6meses_expr,inf,inf,Excluir
+1421,prom_cuot_ult_1mes_expr,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_1mes_expr,,,Excluir
+1422,prom_cuot_ult_2meses_expr,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_2meses_expr,,,Excluir
+1423,prom_cuot_ult_3meses_expr,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_3meses_expr,,,Excluir
+1424,prom_cuot_ult_4meses_expr,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_4meses_expr,,,Excluir
+1425,prom_cuot_ult_6meses_expr,0.999963939273737,12.0,12.0,No variable,prom_cuot_ult_6meses_expr,,,Excluir
+1426,num_tx_ult_1mes_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,num_tx_ult_1mes_14,,,Excluir
+1427,num_tx_ult_2meses_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,num_tx_ult_2meses_14,,,Excluir
+1428,num_tx_ult_3meses_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,num_tx_ult_3meses_14,,,Excluir
+1429,num_tx_ult_4meses_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,num_tx_ult_4meses_14,,,Excluir
+1430,num_tx_ult_6meses_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,num_tx_ult_6meses_14,,,Excluir
+1431,prom_tx_ult_1mes_14,0.999963939273737,2.3333333333333335,2.3333333333333335,No variable,prom_tx_ult_1mes_14,,,Excluir
+1432,prom_tx_ult_2meses_14,0.999963939273737,1.1666666666666667,1.1666666666666667,No variable,prom_tx_ult_2meses_14,,,Excluir
+1433,prom_tx_ult_3meses_14,0.999963939273737,0.7777777777777778,0.7777777777777778,No variable,prom_tx_ult_3meses_14,,,Excluir
+1434,prom_tx_ult_4meses_14,0.999963939273737,0.5833333333333334,0.5833333333333334,No variable,prom_tx_ult_4meses_14,,,Excluir
+1435,prom_tx_ult_6meses_14,0.999963939273737,0.3888888888888889,0.3888888888888889,No variable,prom_tx_ult_6meses_14,,,Excluir
+1436,valor_mov_ult_1mes_14,0.999963939273737,808959.0,808959.0,No variable,valor_mov_ult_1mes_14,,,Excluir
+1437,valor_mov_ult_2meses_14,0.999963939273737,808959.0,808959.0,No variable,valor_mov_ult_2meses_14,,,Excluir
+1438,valor_mov_ult_3meses_14,0.999963939273737,808959.0,808959.0,No variable,valor_mov_ult_3meses_14,,,Excluir
+1439,valor_mov_ult_4meses_14,0.999963939273737,808959.0,808959.0,No variable,valor_mov_ult_4meses_14,,,Excluir
+1440,valor_mov_ult_6meses_14,0.999963939273737,808959.0,808959.0,No variable,valor_mov_ult_6meses_14,,,Excluir
+1441,prom_mov_ult_1mes_14,0.999963939273737,416557.35666666663,416557.35666666663,No variable,prom_mov_ult_1mes_14,,,Excluir
+1442,prom_mov_ult_2meses_14,0.999963939273737,416557.35666666663,416557.35666666663,No variable,prom_mov_ult_2meses_14,,,Excluir
+1443,prom_mov_ult_3meses_14,0.999963939273737,416557.35666666663,416557.35666666663,No variable,prom_mov_ult_3meses_14,,,Excluir
+1444,prom_mov_ult_4meses_14,0.999963939273737,416557.35666666663,416557.35666666663,No variable,prom_mov_ult_4meses_14,,,Excluir
+1445,prom_mov_ult_6meses_14,0.999963939273737,416557.35666666663,416557.35666666663,No variable,prom_mov_ult_6meses_14,,,Excluir
+1446,prom_cuot_ult_1mes_14,1.0,,,No variable,,,,Excluir
+1447,prom_cuot_ult_2meses_14,1.0,,,No variable,,,,Excluir
+1448,prom_cuot_ult_3meses_14,1.0,,,No variable,,,,Excluir
+1449,prom_cuot_ult_4meses_14,1.0,,,No variable,,,,Excluir
+1450,prom_cuot_ult_6meses_14,1.0,,,No variable,,,,Excluir
+1451,num_tx_ult_1mes_pasv,0.2727272727272727,1.5,47.250943396226404,Variable,num_tx_ult_1mes_pasv,1.0689144907717936,1.0689144907717936,Excluir
+1452,num_tx_ult_2meses_pasv,0.2727272727272727,4.0,90.83066169617894,Variable,num_tx_ult_2meses_pasv,inf,inf,Excluir
+1453,num_tx_ult_3meses_pasv,0.2727272727272727,6.150526315789475,129.37176470588236,Variable,num_tx_ult_3meses_pasv,inf,inf,Excluir
+1454,num_tx_ult_4meses_pasv,0.2727272727272727,8.0,165.89999999999995,Variable,num_tx_ult_4meses_pasv,inf,inf,Excluir
+1455,num_tx_ult_6meses_pasv,0.2727272727272727,9.0,236.13295454545454,Variable,num_tx_ult_6meses_pasv,inf,inf,Excluir
+1456,prom_tx_ult_1meses_pasv,0.2727272727272727,1.5,47.250943396226404,Variable,prom_tx_ult_1meses_pasv,1.0689144907717936,1.0689144907717936,Excluir
+1457,prom_tx_ult_2meses_pasv,0.2727272727272727,2.0,45.41533084808947,Variable,prom_tx_ult_2meses_pasv,inf,inf,Excluir
+1458,prom_tx_ult_3meses_pasv,0.2727272727272727,2.050175438596492,43.12392156862744,Variable,prom_tx_ult_3meses_pasv,inf,inf,Excluir
+1459,prom_tx_ult_4meses_pasv,0.2727272727272727,2.0,41.47499999999999,Variable,prom_tx_ult_4meses_pasv,inf,inf,Excluir
+1460,prom_tx_ult_6meses_pasv,0.2727272727272727,1.5,39.35549242424243,Variable,prom_tx_ult_6meses_pasv,inf,inf,Excluir
+1461,valor_mov_ult_1mes_pasv,1.0,,,No variable,,,,Excluir
+1462,valor_mov_ult_2meses_pasv,1.0,,,No variable,,,,Excluir
+1463,valor_mov_ult_3meses_pasv,1.0,,,No variable,,,,Excluir
+1464,valor_mov_ult_4meses_pasv,1.0,,,No variable,,,,Excluir
+1465,valor_mov_ult_6meses_pasv,1.0,,,No variable,,,,Excluir
+1466,prom_mov_ult_1mes_pasv,1.0,,,No variable,,,,Excluir
+1467,prom_mov_ult_2meses_pasv,1.0,,,No variable,,,,Excluir
+1468,prom_mov_ult_3meses_pasv,1.0,,,No variable,,,,Excluir
+1469,prom_mov_ult_4meses_pasv,1.0,,,No variable,,,,Excluir
+1470,prom_mov_ult_6meses_pasv,1.0,,,No variable,,,,Excluir
+1471,mode_dia_pasv,0.2727272727272727,,,,mode_dia_pasv,0.4813081592540971,0.4813081592540971,Excluir
+1472,estado_cta_actual_pasv,0.2727272727272727,,,,estado_cta_actual_pasv,0.12108250932243522,0.12108250932243522,Incluir
+1473,tipo_transaccion,0.2727272727272727,,,,tipo_transaccion,0.1797366848371787,0.1797366848371787,Incluir
+1474,sum_tx_linea_pasv,0.32833291262486025,1.0,21.0,Variable,sum_tx_linea_pasv,0.2700720222716206,0.2700720222716206,Excluir
+1475,sum_tx_nolinea_pasv,0.3240777469258231,1.0,32.0,Variable,sum_tx_nolinea_pasv,0.4294361821404668,0.4294361821404668,Excluir
+1476,fecha_ult_tx_pasv,0.2727272727272727,,,,fecha_ult_tx_pasv,2.49607469988885,2.49607469988885,Excluir
+1477,dias_desde_ult_tx_pasv,0.2727272727272727,0.0,24.0,Variable,dias_desde_ult_tx_pasv,2.5492915381933403,2.5492915381933403,Excluir
+1478,num_tx_ult_1mes_cte,0.9756590097724568,0.0,27.46045454545455,Variable,num_tx_ult_1mes_cte,0.3520982872911663,0.3520982872911663,Excluir
+1479,num_tx_ult_2meses_cte,0.9756590097724568,1.0,52.33986013986014,Variable,num_tx_ult_2meses_cte,0.6973358229385453,0.6973358229385453,Excluir
+1480,num_tx_ult_3meses_cte,0.9756590097724568,2.0,79.74232558139535,Variable,num_tx_ult_3meses_cte,1.006945553914162,1.006945553914162,Excluir
+1481,num_tx_ult_4meses_cte,0.9756590097724568,2.3428571428571434,100.6926630434783,Variable,num_tx_ult_4meses_cte,1.2779834877839735,1.2779834877839735,Excluir
+1482,num_tx_ult_6meses_cte,0.9756590097724568,2.6100000000000003,130.54761904761907,Variable,num_tx_ult_6meses_cte,inf,inf,Excluir
+1483,prom_tx_ult_1meses_cte,0.9756590097724568,0.0,27.46045454545455,Variable,prom_tx_ult_1meses_cte,0.3520982872911663,0.3520982872911663,Excluir
+1484,prom_tx_ult_2meses_cte,0.9756590097724568,0.5,26.16993006993007,Variable,prom_tx_ult_2meses_cte,0.6973358229385453,0.6973358229385453,Excluir
+1485,prom_tx_ult_3meses_cte,0.9756590097724568,0.6666666666666666,26.580775193798452,Variable,prom_tx_ult_3meses_cte,1.006945553914162,1.006945553914162,Excluir
+1486,prom_tx_ult_4meses_cte,0.9756590097724568,0.5857142857142859,25.173165760869576,Variable,prom_tx_ult_4meses_cte,1.2779834877839735,1.2779834877839735,Excluir
+1487,prom_tx_ult_6meses_cte,0.9756590097724568,0.435,21.757936507936513,Variable,prom_tx_ult_6meses_cte,inf,inf,Excluir
+1488,valor_mov_ult_1mes_cte,1.0,,,No variable,,,,Excluir
+1489,valor_mov_ult_2meses_cte,1.0,,,No variable,,,,Excluir
+1490,valor_mov_ult_3meses_cte,1.0,,,No variable,,,,Excluir
+1491,valor_mov_ult_4meses_cte,1.0,,,No variable,,,,Excluir
+1492,valor_mov_ult_6meses_cte,1.0,,,No variable,,,,Excluir
+1493,prom_mov_ult_1mes_cte,1.0,,,No variable,,,,Excluir
+1494,prom_mov_ult_2meses_cte,1.0,,,No variable,,,,Excluir
+1495,prom_mov_ult_3meses_cte,1.0,,,No variable,,,,Excluir
+1496,prom_mov_ult_4meses_cte,1.0,,,No variable,,,,Excluir
+1497,prom_mov_ult_6meses_cte,1.0,,,No variable,,,,Excluir
+1498,mode_dia_cte,0.9756590097724568,,,,mode_dia_cte,0.3971813869132007,0.3971813869132007,Excluir
+1499,estado_cta_actual_cte,0.9756590097724568,,,,estado_cta_actual_cte,0.21162930896633977,0.21162930896633977,Excluir
+1500,tipo_transaccion_cte,0.9756590097724568,,,,tipo_transaccion_cte,0.023150334382486818,0.023150334382486818,Excluir
+1501,sum_tx_linea_cte,0.9769571959179257,1.0,24.0,Variable,sum_tx_linea_cte,inf,inf,Excluir
+1502,sum_tx_nolinea_cte,0.9908405755291911,1.0,8.0,Variable,sum_tx_nolinea_cte,inf,inf,Excluir
+1503,fecha_ult_tx_cte,0.9756590097724568,,,,fecha_ult_tx_cte,3.873693817360115,3.873693817360115,Excluir
+1504,dias_desde_ult_tx_cte,0.9756590097724568,0.0,25.0,Variable,dias_desde_ult_tx_cte,inf,inf,Excluir
+1505,num_tx_ult_1mes_cdt,0.9772456817280301,0.0,3.0,Variable,num_tx_ult_1mes_cdt,inf,inf,Excluir
+1506,num_tx_ult_2meses_cdt,0.9772456817280301,0.75,7.0,Variable,num_tx_ult_2meses_cdt,inf,inf,Excluir
+1507,num_tx_ult_3meses_cdt,0.9772456817280301,0.75,9.0,Variable,num_tx_ult_3meses_cdt,inf,inf,Excluir
+1508,num_tx_ult_4meses_cdt,0.9772456817280301,0.75,12.0,Variable,num_tx_ult_4meses_cdt,inf,inf,Excluir
+1509,num_tx_ult_6meses_cdt,0.9772456817280301,0.75,17.8,Variable,num_tx_ult_6meses_cdt,inf,inf,Excluir
+1510,prom_tx_ult_1meses_cdt,0.9772456817280301,0.0,3.0,Variable,prom_tx_ult_1meses_cdt,inf,inf,Excluir
+1511,prom_tx_ult_2meses_cdt,0.9772456817280301,0.375,3.5,Variable,prom_tx_ult_2meses_cdt,inf,inf,Excluir
+1512,prom_tx_ult_3meses_cdt,0.9772456817280301,0.25,3.0,Variable,prom_tx_ult_3meses_cdt,inf,inf,Excluir
+1513,prom_tx_ult_4meses_cdt,0.9772456817280301,0.1875,3.0,Variable,prom_tx_ult_4meses_cdt,inf,inf,Excluir
+1514,prom_tx_ult_6meses_cdt,0.9772456817280301,0.125,2.9666666666666663,Variable,prom_tx_ult_6meses_cdt,inf,inf,Excluir
+1515,valor_mov_ult_1mes_cdt,1.0,,,No variable,,,,Excluir
+1516,valor_mov_ult_2meses_cdt,1.0,,,No variable,,,,Excluir
+1517,valor_mov_ult_3meses_cdt,1.0,,,No variable,,,,Excluir
+1518,valor_mov_ult_4meses_cdt,1.0,,,No variable,,,,Excluir
+1519,valor_mov_ult_6meses_cdt,1.0,,,No variable,,,,Excluir
+1520,prom_mov_ult_1mes_cdt,1.0,,,No variable,,,,Excluir
+1521,prom_mov_ult_2meses_cdt,1.0,,,No variable,,,,Excluir
+1522,prom_mov_ult_3meses_cdt,1.0,,,No variable,,,,Excluir
+1523,prom_mov_ult_4meses_cdt,1.0,,,No variable,,,,Excluir
+1524,prom_mov_ult_6meses_cdt,1.0,,,No variable,,,,Excluir
+1525,mode_dia_cdt,0.9772456817280301,,,,mode_dia_cdt,2.5988022886636366,2.5988022886636366,Excluir
+1526,estado_cta_actual_cdt,0.9772456817280301,,,,estado_cta_actual_cdt,1.961394457265063,1.961394457265063,Excluir
+1527,tipo_transaccion_cdt,0.9772456817280301,,,,tipo_transaccion_cdt,0.05475292203189539,0.05475292203189539,Excluir
+1528,sum_tx_linea_cdt,0.9966102917312755,1.0,4.0,Variable,sum_tx_linea_cdt,inf,inf,Excluir
+1529,sum_tx_nolinea_cdt,0.977317803180556,1.0,5.0,Variable,sum_tx_nolinea_cdt,0.04251403261100372,0.04251403261100372,Excluir
+1530,fecha_ult_tx_cdt,0.9772456817280301,,,,fecha_ult_tx_cdt,2.6405131280018903,2.6405131280018903,Excluir
+1531,dias_desde_ult_tx_cdt,0.9772456817280301,0.0,0.0,No variable,dias_desde_ult_tx_cdt,0.0,0.0,Excluir
+1532,num_tx_ult_1mes_ahr,0.2947603764739822,1.6666666666666667,47.30500000000002,Variable,num_tx_ult_1mes_ahr,1.1058473262570803,1.1058473262570803,Excluir
+1533,num_tx_ult_2meses_ahr,0.2947603764739822,4.0,90.92166344294006,Variable,num_tx_ult_2meses_ahr,inf,inf,Excluir
+1534,num_tx_ult_3meses_ahr,0.2947603764739822,6.5,129.49361702127663,Variable,num_tx_ult_3meses_ahr,inf,inf,Excluir
+1535,num_tx_ult_4meses_ahr,0.2947603764739822,8.0,166.0640509013786,Variable,num_tx_ult_4meses_ahr,inf,inf,Excluir
+1536,num_tx_ult_6meses_ahr,0.2947603764739822,9.5,236.17296037296046,Variable,num_tx_ult_6meses_ahr,inf,inf,Excluir
+1537,prom_tx_ult_1meses_ahr,0.2947603764739822,1.6666666666666667,47.30500000000002,Variable,prom_tx_ult_1meses_ahr,1.1058473262570803,1.1058473262570803,Excluir
+1538,prom_tx_ult_2meses_ahr,0.2947603764739822,2.0,45.46083172147003,Variable,prom_tx_ult_2meses_ahr,inf,inf,Excluir
+1539,prom_tx_ult_3meses_ahr,0.2947603764739822,2.166666666666667,43.164539007092216,Variable,prom_tx_ult_3meses_ahr,inf,inf,Excluir
+1540,prom_tx_ult_4meses_ahr,0.2947603764739822,2.0,41.51601272534465,Variable,prom_tx_ult_4meses_ahr,inf,inf,Excluir
+1541,prom_tx_ult_6meses_ahr,0.2947603764739822,1.5833333333333335,39.36216006216006,Variable,prom_tx_ult_6meses_ahr,inf,inf,Excluir
+1542,valor_mov_ult_1mes_ahr,1.0,,,No variable,,,,Excluir
+1543,valor_mov_ult_2meses_ahr,1.0,,,No variable,,,,Excluir
+1544,valor_mov_ult_3meses_ahr,1.0,,,No variable,,,,Excluir
+1545,valor_mov_ult_4meses_ahr,1.0,,,No variable,,,,Excluir
+1546,valor_mov_ult_6meses_ahr,1.0,,,No variable,,,,Excluir
+1547,prom_mov_ult_1mes_ahr,1.0,,,No variable,,,,Excluir
+1548,prom_mov_ult_2meses_ahr,1.0,,,No variable,,,,Excluir
+1549,prom_mov_ult_3meses_ahr,1.0,,,No variable,,,,Excluir
+1550,prom_mov_ult_4meses_ahr,1.0,,,No variable,,,,Excluir
+1551,prom_mov_ult_6meses_ahr,1.0,,,No variable,,,,Excluir
+1552,mode_dia_ahr,0.2947603764739822,,,,mode_dia_ahr,0.4832517292152172,0.4832517292152172,Excluir
+1553,estado_cta_actual_ahr,0.2947603764739822,,,,estado_cta_actual_ahr,0.08043885482847496,0.08043885482847496,Incluir
+1554,tipo_transaccion_ahr,0.2947603764739822,,,,tipo_transaccion_ahr,0.21016230253604207,0.21016230253604207,Incluir
+1555,sum_tx_linea_ahr,0.34960874112004614,1.0,21.0,Variable,sum_tx_linea_ahr,0.2744848734611585,0.2744848734611585,Excluir
+1556,sum_tx_nolinea_ahr,0.3358696044138329,1.0,32.0,Variable,sum_tx_nolinea_ahr,0.45436085954392047,0.45436085954392047,Excluir
+1557,fecha_ult_tx_ahr,0.2947603764739822,,,,fecha_ult_tx_ahr,2.52137858184195,2.52137858184195,Excluir
+1558,dias_desde_ult_tx_ahr,0.2947603764739822,0.0,24.0,Variable,dias_desde_ult_tx_ahr,inf,inf,Excluir
+1559,fecha_psi,0.0,,,,,,,Incluir

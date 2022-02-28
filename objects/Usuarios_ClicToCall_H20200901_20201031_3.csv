@@ -1,0 +1,622 @@
+fecha|canal|cedula|tipo_identificacion|grupo_prob|segmento|score|decil|edad|ingreso_aplicacion|pasa_listas_restrictivas|mensaje_listas_restrictivas|pasa_envio_otp|error_envio_otp|pasa_validacion_otp|error_validacion_otp|pasa_motor_operadores|mensaje_motor_operadores|pasa_pantalla_oferta|pasa_complementarios_1|pasa_complementarios_2|pantalla_cond_entrega|tarjeta_generada|total_tarjetas|monto_total
+2020-09-01|autogestion|64702825|1|grupo_prob_baja|seg_perfilado|2.80186995951226e-05|5.0||SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-09-01|oficina|16480931|1|grupo_prob_baja|seg_perfilado|5.8983099734177806e-05|4.0|63.0|SI|Si||Si||Si||||||||||
+2020-09-01|oficina|41540048|1|grupo_prob_baja|seg_preaprobado|0.011912999674677849|1.0|70.0|SI|Si||||Si||VIABLE||||||||
+2020-09-01|oficina|8278599|1|grupo_prob_alta|seg_preaprobado|0.08098579943180084|5.0|73.0|SI|Si||||Si||VIABLE||||||||
+2020-09-02|autogestion|31578570|1|grupo_prob_alta|seg_perfilado|0.00016652600606903434|3.0|39.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-02|autogestion|79877667|1|grupo_prob_alta|seg_perfilado|0.0011984000448137524|1.0|43.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-09-02|oficina|38239028|1|grupo_prob_baja|seg_preaprobado|0.021178999915719032|2.0|62.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-09-03|autogestion|19072339|1|grupo_prob_alta|seg_preaprobado|0.13085199892520905|5.0|71.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-09-03|autogestion|79877667|1|grupo_prob_alta|seg_perfilado|0.0011984000448137524|1.0|43.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-09-03|oficina|41793296|1|grupo_prob_baja|seg_preaprobado|0.01295529957860708|2.0|64.0|SI|Si||||||||||||||
+2020-09-03|oficina|6219199|1|grupo_prob_alta|seg_perfilado|0.0016304099699482322|1.0|66.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-09-03|oficina|80091613|1|grupo_prob_baja|seg_perfilado|5.658579902956262e-05|4.0|39.0|SI|Si||Si||Si||NO VIABLE|Politicas-Ingreso Minimo|||||||
+2020-09-03|oficina|9516377|1|grupo_prob_alta|seg_preaprobado|0.0333344005048275|3.0|73.0|SI|Si||Si||Si||||||||||
+2020-09-04|autogestion|31984523|1|grupo_prob_alta|seg_perfilado|0.03260289877653122|1.0|53.0|SI|Si||Si||Si||||||||||
+2020-09-04|autogestion|77030814|1|grupo_prob_alta|seg_perfilado|0.00039320401265285915|2.0|52.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-09-04|oficina|65631207|1|grupo_prob_alta|seg_perfilado|0.0011522599961608648|1.0|36.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-09-04|oficina|9516377|1|grupo_prob_alta|seg_preaprobado|0.0333344005048275|3.0|73.0|SI|Si||Si||Si||VIABLE||||||||
+2020-09-05|autogestion|71778121|1|grupo_prob_alta|seg_perfilado|0.0014491199981421232|1.0||SI|Si||Si||Si||||||||||
+2020-09-07|oficina|1103113656|1|grupo_prob_baja|seg_preaprobado|0.002528799930587411|1.0|27.0|SI|Si||||Si||||||||||
+2020-09-07|oficina|9517158|1|grupo_prob_alta|seg_preaprobado|0.1285189986228943|5.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2900000.0
+2020-09-08|oficina|9063158|1|grupo_prob_baja|seg_preaprobado|0.006493430119007826|1.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-09|autogestion|19292756|1|grupo_prob_baja|seg_perfilado|4.569840166368522e-05|4.0|66.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Moras Actuales Sector Real|||||||
+2020-09-09|autogestion|29116553|1|grupo_prob_alta|seg_perfilado|0.0001204349973704666|3.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-09|autogestion|51648984|1|grupo_prob_alta|seg_perfilado|0.0003540990001056344|2.0|61.0|SI|Si||Si||Si||||||||||
+2020-09-09|autogestion|74241662|1|grupo_prob_alta|seg_perfilado|0.0010690799681469796|1.0|54.0|SI|Si||No|Service unavailable|||||||||||
+2020-09-09|oficina|18417769|1|grupo_prob_baja|seg_perfilado|1.1811000149464235e-05|5.0|42.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-09|oficina|39635004|1|grupo_prob_alta|seg_perfilado|0.0015978999435901642|1.0|59.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|4700000.0
+2020-09-09|oficina|40176814|1|grupo_prob_alta|seg_preaprobado|0.2323479950428009|5.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-09|oficina|41702150|1|grupo_prob_alta|seg_perfilado|0.0007017939933575691|2.0|62.0|SI|Si||||||||||||||
+2020-09-09|oficina|8665217|1|grupo_prob_alta|seg_preaprobado|0.20229199528694156|5.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-10|atento|14247100|1|grupo_prob_alta|seg_preaprobado|0.1737470030784607|5.0|65.0|SI|Si||Si||||||||||||
+2020-09-10|atento|17138091|1|grupo_prob_alta|seg_preaprobado|0.12623700499534607|5.0|75.0|SI|Si||Si||||||||||||
+2020-09-10|atento|41546206|1|grupo_prob_alta|seg_preaprobado|0.0410338006913662|3.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-10|autogestion|40783998|1|grupo_prob_alta|seg_perfilado|0.00013832800323143601|3.0|43.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Obligación Recuperada ultimos 24 meses|||||||
+2020-09-10|oficina|14216918|1|grupo_prob_baja|seg_preaprobado|||68.0|SI|Si||Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||
+2020-09-11|atento|30685953|1|grupo_prob_alta|seg_preaprobado|0.0948994979262352|5.0|39.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2500000.0
+2020-09-11|atento|38940803|1|grupo_prob_baja|seg_preaprobado|||64.0|SI|Si||Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||
+2020-09-11|atento|39150571|1|grupo_prob_baja|seg_preaprobado|0.015534499660134315|2.0|69.0||||||||||||||SI|1.0|500000.0
+2020-09-11|atento|4321651|1|grupo_prob_alta|seg_preaprobado|0.1187710016965866|5.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-11|atento|74752247|1|grupo_prob_baja|seg_preaprobado|||48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-09-11|autogestion|52014122|1|grupo_prob_baja|seg_perfilado|6.551870319526643e-05|4.0|50.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-09-11|oficina|13337369|1|grupo_prob_baja|seg_preaprobado|0.004998079966753721|1.0|71.0||||||||||||||SI|2.0|17000000.0
+2020-09-11|oficina|17146046|1|grupo_prob_baja|seg_preaprobado|||76.0||||||||||||||SI|1.0|500000.0
+2020-09-11|oficina|40783998|1|grupo_prob_alta|seg_perfilado|0.00013832800323143601|3.0|43.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-09-11|oficina|41461682|1|grupo_prob_baja|seg_preaprobado|0.003186879912391305|1.0|72.0|SI|Si||Si||Si||||||||||
+2020-09-11|oficina|41519722|1|grupo_prob_baja|seg_perfilado|3.8034300814615556e-05|4.0|69.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-11|oficina|7473481|1|grupo_prob_baja|seg_preaprobado|0.020403100177645683|2.0|69.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-12|autogestion|52291146|1|grupo_prob_alta|seg_perfilado|0.00020198599668219688|3.0|47.0|SI|Si||Si||||||||||||
+2020-09-14|atento|14247100|1|grupo_prob_alta|seg_preaprobado|0.1737470030784607|5.0|65.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-14|atento|30685953|1|grupo_prob_alta|seg_preaprobado|0.0948994979262352|5.0|39.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-09-14|atento|35458786|1|grupo_prob_baja|seg_preaprobado|0.007699070032685995|1.0|67.0|SI|Si||No|Service unavailable|||||||||||
+2020-09-14|autogestion|1075251056|1|grupo_prob_baja|seg_preaprobado|0.0038952201139181852|1.0|30.0|SI|Si||Si||Si||||SI||||||
+2020-09-14|autogestion|28559533|1|grupo_prob_baja|seg_perfilado|1.1369899766577873e-05|5.0|37.0|SI|Si||Si||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-09-14|autogestion|40379582|1|grupo_prob_alta|seg_perfilado|0.031483098864555366|1.0||SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-14|oficina|23493183|1|grupo_prob_alta|seg_perfilado|0.0014626700431108475|1.0|56.0|SI|Si||||Si||NO VIABLE|Hábito de pago-Obligación Recuperada ultimos 24 meses|||||||
+2020-09-14|oficina|24480737|1|grupo_prob_baja|seg_preaprobado|0.007301860023289919|1.0|70.0|SI|Si||||Si||||||||||
+2020-09-14|oficina|40379582|1|grupo_prob_alta|seg_perfilado|0.031483098864555366|1.0||SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-14|oficina|75082283|1|grupo_prob_baja|seg_preaprobado|0.016604099422693253|2.0|44.0|SI|Si||Si||Si||||||||||
+2020-09-15|atento|11294276|1|grupo_prob_baja|seg_preaprobado|0.012443000450730324|2.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-15|atento|32402564|1|grupo_prob_baja|seg_preaprobado|0.016535600647330284|2.0|77.0|SI|Si||Si||||||||||||
+2020-09-15|atento|38940803|1|grupo_prob_baja|seg_preaprobado|||64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-15|autogestion|14703253|1|grupo_prob_baja|seg_perfilado|5.35811013833154e-05|4.0||SI|Si||No|15-Failed SIM validation|||||||||||
+2020-09-15|oficina|19211197|1|grupo_prob_baja|seg_preaprobado|0.0038711898960173134|1.0|68.0|SI|Si||Si||Si||||||||||
+2020-09-15|oficina|3606456|1|grupo_prob_alta|seg_preaprobado|0.11613299697637558|5.0|76.0|SI|Si||||Si||||||||||
+2020-09-15|oficina|79101363|1|grupo_prob_alta|seg_perfilado|0.00035094600752927363|2.0|65.0|SI|Si||||Si||NO VIABLE|Capacidad de Pago-Capacidad de Pago, Disponible menor o igual cupo Vs Monto Mínimo|||||||
+2020-09-15|oficina|79524284|1|grupo_prob_baja|seg_perfilado|2.7798399969469756e-05|5.0|50.0|SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-16|atento|1064137|1|grupo_prob_alta|seg_preaprobado|0.031829901039600365|3.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-16|atento|17146046|1|grupo_prob_baja|seg_preaprobado|||76.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-09-16|atento|194364|1|grupo_prob_alta|seg_preaprobado|0.025080900639295575|3.0|66.0|SI|Si||Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||
+2020-09-16|atento|3161621|1|grupo_prob_baja|seg_preaprobado|||67.0|SI|Si||Si||||||||||||
+2020-09-16|atento|6185968|1|grupo_prob_alta|seg_preaprobado|0.1478790044784546|5.0|75.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3200000.0
+2020-09-16|atento|80174161|1|grupo_prob_baja|seg_perfilado|1.3071899957139975e-05|5.0|38.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-16|atento|94286871|1|grupo_prob_baja|seg_preaprobado|0.00585896009579301|1.0|40.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-16|autogestion|6408388|1|grupo_prob_alta|seg_perfilado|8.995390089694409e-05|3.0|35.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-16|autogestion|70081630|1|grupo_prob_baja|seg_preaprobado|0.015676399692893028|2.0|64.0|SI|Si||Si||||||||||||
+2020-09-16|autogestion|79964219|1|grupo_prob_alta|seg_perfilado|0.000306205009110272|2.0|43.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-16|oficina|10159462|1|grupo_prob_alta|seg_preaprobado|0.07000309973955154|4.0|70.0|SI|Si||Si||Si||||||||||
+2020-09-16|oficina|31998213|1|grupo_prob_alta|seg_perfilado|0.0001700449938653037|3.0|51.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Cartera Castigada|||||||
+2020-09-16|oficina|38460813|1|grupo_prob_alta|seg_preaprobado|0.1478230059146881|5.0|40.0|SI|Si||Si||||||||||||
+2020-09-16|oficina|70081630|1|grupo_prob_baja|seg_preaprobado|0.015676399692893028|2.0|64.0|SI|Si||||||||||||||
+2020-09-17|atento|18105399|1|grupo_prob_baja|seg_preaprobado|0.001994739985093475|1.0||SI|Si||Si||Si||||SI|SI|SI||||
+2020-09-17|atento|20622736|1|grupo_prob_baja|seg_preaprobado|0.02021010033786297|2.0|61.0|SI|Si||Si||Si||||SI||||||
+2020-09-17|atento|41307955|1|grupo_prob_baja|seg_preaprobado|0.0099934795871377|1.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-17|atento|91345017|1|grupo_prob_alta|seg_preaprobado|0.039093200117349625|3.0|51.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2900000.0
+2020-09-17|autogestion|17058984|1|grupo_prob_alta|seg_preaprobado|0.03594399988651276|3.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-17|autogestion|43910157|1|grupo_prob_alta|seg_perfilado|0.00021820899564772844|2.0|38.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-17|oficina|12270379|1|grupo_prob_alta|seg_preaprobado|0.22926799952983856|5.0|61.0|SI|Si||||Si||||SI|SI|SI|SI|SI|2.0|4600000.0
+2020-09-17|oficina|17138091|1|grupo_prob_alta|seg_preaprobado|0.12623700499534607|5.0|75.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-09-17|oficina|38242201|1|grupo_prob_alta|seg_preaprobado|0.10139799863100052|5.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-17|oficina|79041894|1|grupo_prob_alta|seg_perfilado|0.0025146000552922487|1.0|58.0|SI|Si||||Si||NO VIABLE|Capacidad de Pago-Endeudamiento|||||||
+2020-09-18|atento|1075251056|1|grupo_prob_baja|seg_preaprobado|0.0038952201139181852|1.0|30.0|SI|Si||Si||||||||||||
+2020-09-18|atento|13879057|1|grupo_prob_alta|seg_preaprobado|0.08333189785480499|5.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5200000.0
+2020-09-18|autogestion|6320717|1|grupo_prob_alta|seg_perfilado|0.005949410144239664|1.0|42.0|SI|Si||Si||Si||NO VIABLE|Politicas-Ingreso Minimo|||||||
+2020-09-18|autogestion|80161497|1|grupo_prob_alta|seg_perfilado|8.299209730466828e-05|3.0|38.0|SI|Si||No|Service unavailable|||||||||||
+2020-09-18|oficina|14202975|1|grupo_prob_alta|seg_preaprobado|0.051765300333499915|4.0|74.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-18|oficina|70081630|1|grupo_prob_baja|seg_preaprobado|0.015676399692893028|2.0|64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-19|autogestion|52493591|1|grupo_prob_baja|seg_perfilado|1.4399700376088733e-05|5.0|44.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-19|autogestion|66918892|1|grupo_prob_alta|seg_perfilado|0.00039241201011464|2.0|46.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-21|atento|4718915|1|grupo_prob_alta|seg_preaprobado|0.033057600259780884|3.0|38.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2800000.0
+2020-09-21|oficina|10159462|1|grupo_prob_alta|seg_preaprobado|0.07000309973955154|4.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-21|oficina|12268161|1|grupo_prob_alta|seg_preaprobado|0.085213303565979|5.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2500000.0
+2020-09-21|oficina|20484800|1|grupo_prob_baja|seg_perfilado|3.857659976347349e-05|4.0|46.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-09-21|oficina|51598228|1|grupo_prob_baja|seg_preaprobado|0.005326489917933941|1.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-21|oficina|65738229|1|grupo_prob_alta|seg_perfilado|0.00047367101069539785|2.0|53.0|SI|Si||Si||||||||||||
+2020-09-21|oficina|66701529|1|grupo_prob_baja|seg_preaprobado|0.0031824801117181782|1.0|57.0|SI|Si||Si||Si||||||||||
+2020-09-22|autogestion|70078093|1|grupo_prob_baja|seg_preaprobado|||63.0|SI|Si||Si||Si||||||||||
+2020-09-22|oficina|17079043|1|grupo_prob_alta|seg_preaprobado|0.14940600097179413|5.0|77.0|SI|Si||||Si||||||||||
+2020-09-22|oficina|24022788|1|grupo_prob_alta|seg_perfilado|0.005827509798109531|1.0|53.0|SI|Si||||Si||VIABLE||||||||
+2020-09-22|oficina|75082283|1|grupo_prob_baja|seg_preaprobado|0.016604099422693253|2.0|44.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4000000.0
+2020-09-22|oficina|79334866|1|grupo_prob_alta|seg_perfilado|0.0006163669750094414|2.0|57.0|SI|Si||Si||||||||||||
+2020-09-23|atento|13879057|1|grupo_prob_alta|seg_preaprobado|0.08333189785480499|5.0|70.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-09-23|atento|6771358|1|grupo_prob_alta|seg_perfilado|0.006904940120875835|1.0|57.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Cartera Castigada|||||||
+2020-09-23|autogestion|35197921|1|grupo_prob_baja|seg_perfilado|3.788090180023573e-05|4.0|39.0|SI|Si||Si||Si||NO VIABLE|Capacidad de Pago-Endeudamiento|||||||
+2020-09-23|autogestion|40379582|1|grupo_prob_alta|seg_perfilado|0.031483098864555366|1.0||SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-09-23|autogestion|80041356|1|grupo_prob_baja|seg_perfilado|3.891680171363987e-05|4.0|37.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-23|oficina|19055196|1|grupo_prob_alta|seg_preaprobado|0.0778748020529747|5.0|72.0|SI|Si||||Si||||||||||
+2020-09-23|oficina|41398811|1|grupo_prob_alta|seg_preaprobado|0.09582389891147614|5.0|73.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-23|oficina|51777259|1|grupo_prob_baja|seg_preaprobado|0.005381130147725344|1.0|56.0|SI|Si||Si||Si||||||||||
+2020-09-23|oficina|8265740|1|grupo_prob_baja|seg_preaprobado|0.007278379984200002|1.0|75.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|2100000.0
+2020-09-24|atento|11798333|1|grupo_prob_alta|seg_preaprobado|0.029599599540233605|3.0|50.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4800000.0
+2020-09-24|autogestion|19316844|1|grupo_prob_baja|seg_perfilado|2.5481500415480696e-05|5.0|63.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-09-24|autogestion|35251629|1|grupo_prob_baja|seg_perfilado|1.5619300029356964e-05|5.0|40.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Cartera Castigada|||||||
+2020-09-24|autogestion|40379582|1|grupo_prob_alta|seg_perfilado|0.031483098864555366|1.0||SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-09-24|autogestion|52703438|1|grupo_prob_alta|seg_perfilado|0.00011071100016124548|3.0|41.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-09-24|autogestion|80147050|1|grupo_prob_alta|seg_perfilado|0.00032742499024607236|2.0|36.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-24|nexa|53072131|1|grupo_prob_alta|seg_perfilado|0.0008424859843216836|1.0|36.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-24|oficina|14296391|1|grupo_prob_baja|seg_perfilado|2.3369400878436867e-05|5.0||SI|Si||Si||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-09-24|oficina|19137509|1|grupo_prob_baja|seg_preaprobado|0.0034272100310772657|1.0|70.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-09-24|oficina|38612068|1|grupo_prob_alta|seg_perfilado|0.1903270035982132|1.0|38.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|2600000.0
+2020-09-24|oficina|40379582|1|grupo_prob_alta|seg_perfilado|0.031483098864555366|1.0||SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-09-24|oficina|41634877|1|grupo_prob_baja|seg_preaprobado|0.007566649932414294|1.0|67.0|SI|Si||||Si||||||||||
+2020-09-24|oficina|43869147|1|grupo_prob_alta|seg_perfilado|8.882219844963402e-05|3.0|41.0|SI|Si||Si||Si||NO VIABLE|Politicas-Ingreso Minimo|||||||
+2020-09-24|oficina|51746240|1|grupo_prob_alta|seg_perfilado|0.0005594869726337492|2.0|56.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-24|oficina|66782020|1|grupo_prob_alta|seg_perfilado|0.00024078899878077206|2.0|43.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Obligación Recuperada ultimos 24 meses|||||||
+2020-09-24|oficina|80091613|1|grupo_prob_baja|seg_perfilado|5.658579902956262e-05|4.0|39.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-09-24|oficina|80217704|1|grupo_prob_baja|seg_preaprobado|0.017362099140882492|2.0|39.0|SI|Si||Si||Si||||||||||
+2020-09-24|oficina|9529105|1|grupo_prob_baja|seg_perfilado|3.0726500881428365e-06|5.0|56.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-25|autogestion|19316844|1|grupo_prob_baja|seg_perfilado|2.5481500415480696e-05|5.0|63.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-09-25|autogestion|29116553|1|grupo_prob_alta|seg_perfilado|0.0001204349973704666|3.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-25|oficina|11333929|1|grupo_prob_baja|seg_perfilado|2.2370299120666463e-05|5.0|67.0|SI|Si||Si||No|Error validating OTP, maximum attempts|||||||||
+2020-09-25|oficina|12270379|1|grupo_prob_alta|seg_preaprobado|0.22926799952983856|5.0|61.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-09-25|oficina|14218296|1|grupo_prob_baja|seg_perfilado|2.4454200683976527e-05|5.0|66.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-09-25|oficina|16073993|1|grupo_prob_baja|seg_perfilado|7.31781983631663e-05|4.0|38.0|SI|Si||||Si||||||||||
+2020-09-25|oficina|16738076|1|grupo_prob_alta|seg_perfilado|0.0005983570008538662|2.0|53.0|SI|Si||||||||||||||
+2020-09-25|oficina|16760199|1|grupo_prob_alta|seg_perfilado|0.0002767149999272079|2.0|53.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-25|oficina|19158018|1|grupo_prob_alta|seg_preaprobado|0.13461799919605255|5.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-25|oficina|19313566|1|grupo_prob_baja|seg_perfilado|9.57868996920297e-06|5.0|63.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-25|oficina|20409785|1|grupo_prob_alta|seg_perfilado|0.000724437995813787|2.0|61.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-09-25|oficina|30740775|1|grupo_prob_alta|seg_preaprobado|0.1150979995727539|5.0|54.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-25|oficina|39726018|1|grupo_prob_baja|seg_perfilado|2.623920045152772e-05|5.0|40.0|SI|Si||||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-09-25|oficina|40783998|1|grupo_prob_alta|seg_perfilado|0.00013832800323143601|3.0|43.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-09-25|oficina|43526340|1|grupo_prob_baja|seg_perfilado|6.833849965914851e-06|5.0|52.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-09-25|oficina|43910157|1|grupo_prob_alta|seg_perfilado|0.00021820899564772844|2.0|38.0|SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-25|oficina|66981295|1|grupo_prob_alta|seg_perfilado|0.0001051419967552647|3.0||SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-09-26|autogestion|20937420|1|grupo_prob_alta|seg_preaprobado|0.0509800985455513|4.0|76.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-09-28|autogestion|11220103|1|grupo_prob_alta|seg_perfilado|0.00017407200357411057|3.0|44.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-28|oficina|2571806|1|grupo_prob_alta|seg_perfilado|0.0003536909935064614|2.0|69.0|SI|Si||Si||Si||NO VIABLE|Capacidad de Pago-Endeudamiento|||||||
+2020-09-28|oficina|3959239|1|grupo_prob_alta|seg_preaprobado|0.034455299377441406|3.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-09-28|oficina|40088894|1|grupo_prob_alta|seg_preaprobado|0.055753499269485474|4.0|39.0|SI|Si||||Si||||||||||
+2020-09-28|oficina|41702744|1|grupo_prob_alta|seg_preaprobado|0.023988600820302963|3.0|65.0|SI|Si||||Si||||||||||
+2020-09-28|oficina|4206814|1|grupo_prob_alta|seg_preaprobado|0.1418599933385849|5.0|66.0|SI|Si||Si||Si||||||||||
+2020-09-28|oficina|65694132|1|grupo_prob_alta|seg_perfilado|0.1165039986371994|1.0|56.0|SI|Si||Si||Si||VIABLE||||||||
+2020-09-28|oficina|80091613|1|grupo_prob_baja|seg_perfilado|5.658579902956262e-05|4.0|39.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-09-29|atento|91345017|1|grupo_prob_alta|seg_preaprobado|0.039093200117349625|3.0|51.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-09-29|autogestion|17138091|1|grupo_prob_alta|seg_preaprobado|0.12623700499534607|5.0|75.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-09-29|autogestion|3046869|1|grupo_prob_baja|seg_perfilado|1.0063199624710249e-05|5.0|73.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Moras Actuales Sector Financiero|||||||
+2020-09-29|autogestion|65700581|1|grupo_prob_alta|seg_perfilado|0.0010370099917054176|1.0|47.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Moras Actuales Sector Real|||||||
+2020-09-29|oficina|14326355|1|grupo_prob_baja|seg_perfilado|3.037870010302868e-05|4.0|38.0|SI|Si||||Si||NO VIABLE|Customer is independent|||||||
+2020-09-29|oficina|17346184|1|grupo_prob_alta|seg_preaprobado|0.03346030041575432|3.0|50.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4600000.0
+2020-09-29|oficina|79642682|1|grupo_prob_alta|seg_perfilado|0.0004055080062244088|2.0|48.0|SI|Si||||Si||VIABLE||SI|SI|SI|SI|SI|1.0|1300000.0
+2020-09-29|oficina|79671328|1|grupo_prob_alta|seg_perfilado|0.0008562990115024148|1.0|47.0|SI|Si||||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-09-29|oficina|80000817|1|grupo_prob_alta|seg_perfilado|0.0001474409946240485|3.0|43.0|SI|Si||||Si||||||||||
+2020-09-30|atento|16751462|1|grupo_prob_baja|seg_perfilado|6.598549953196198e-05|4.0|53.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Obligación Recuperada ultimos 24 meses|||||||
+2020-09-30|autogestion|39388296|1|grupo_prob_baja|seg_perfilado|4.13921989093069e-05|4.0|40.0|SI|Si||Si||||||||||||
+2020-09-30|oficina|10050722|1|grupo_prob_baja|seg_perfilado|1.548510044813156e-05|5.0||SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-09-30|oficina|66958248|1|grupo_prob_baja|seg_perfilado|3.367739918758161e-05|4.0|45.0|SI|Si||Si||||||||||||
+2020-09-30|oficina|70110865|1|grupo_prob_alta|seg_perfilado|0.00012489600339904428|3.0|62.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-01|atento|16751462|1|grupo_prob_baja|seg_perfilado|6.598549953196198e-05|4.0|53.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-01|autogestion|19244200|1|grupo_prob_baja|seg_preaprobado|||67.0|SI|Si||No|Service unavailable|||||||||||
+2020-10-01|oficina|17025481|1|grupo_prob_alta|seg_preaprobado|0.07838880270719527|5.0|80.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-01|oficina|17191116|1|grupo_prob_baja|seg_preaprobado|0.016602100804448128|2.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-01|oficina|38261985|1|grupo_prob_alta|seg_perfilado|0.00030222200439311564|2.0|58.0|SI|Si||||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-01|oficina|79520278|1|grupo_prob_baja|seg_perfilado|4.398420060169883e-05|4.0|51.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-01|oficina|9090173|1|grupo_prob_baja|seg_preaprobado|0.015711400657892227|2.0|68.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|8200000.0
+2020-10-02|atento|194364|1|grupo_prob_alta|seg_preaprobado|0.025080900639295575|3.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-02|autogestion|11230778|1|grupo_prob_baja|seg_perfilado|5.719449836760761e-05|4.0|55.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-02|autogestion|12112727|1|grupo_prob_baja|seg_perfilado|2.1777699657832272e-05|5.0|62.0|SI|Si||Si||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-10-02|oficina|12112727|1|grupo_prob_baja|seg_perfilado|2.1777699657832272e-05|5.0|62.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-02|oficina|13801117|1|grupo_prob_alta|seg_preaprobado|0.07633879780769348|5.0|73.0|SI|Si||Si||Si||||||||||
+2020-10-02|oficina|19256893|1|grupo_prob_baja|seg_preaprobado|0.005762089975178243|1.0|66.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-02|oficina|29116460|1|grupo_prob_alta|seg_perfilado|0.0001591729960637167|3.0|42.0|SI|Si||||Si||NO VIABLE|Customer is independent|||||||
+2020-10-02|oficina|39777014|1|grupo_prob_alta|seg_perfilado|0.00028143401141278446|2.0|53.0|SI|Si||||Si||||||||||
+2020-10-02|oficina|79283882|1|grupo_prob_baja|seg_perfilado|6.867820047773422e-06|5.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-03|autogestion|24583947|1|grupo_prob_baja|seg_perfilado|1.7345599189866338e-05|5.0|40.0|SI|Si||Si||Si||NO VIABLE|Hábito de pago-Cuenta en Cobrador|||||||
+2020-10-03|autogestion|72043741|1|grupo_prob_alta|seg_perfilado|0.001060729962773621|1.0|52.0|SI|Si||Si||Si||||||||||
+2020-10-03|oficina|79411975|1|grupo_prob_alta|seg_perfilado|0.008874500170350075|1.0|53.0|SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-04|autogestion|14703253|1|grupo_prob_baja|seg_perfilado|5.35811013833154e-05|4.0||SI|Si||No|15-Failed SIM validation|||||||||||
+2020-10-04|autogestion|79993803|1|grupo_prob_baja|seg_preaprobado|||41.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|8600000.0
+2020-10-05|atento|17058984|1|grupo_prob_alta|seg_preaprobado|0.03594399988651276|3.0|79.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-05|atento|17138091|1|grupo_prob_alta|seg_preaprobado|0.12623700499534607|5.0|75.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3700000.0
+2020-10-05|atento|20437299|1|grupo_prob_alta|seg_preaprobado|0.0985565036535263|5.0|80.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|9700000.0
+2020-10-05|atento|23270551|1|grupo_prob_alta|seg_preaprobado|0.3774920105934143|5.0|70.0|SI|Si||No|Service unavailable|||||||||||
+2020-10-05|atento|32354221|1|grupo_prob_baja|seg_preaprobado|0.007780360057950021|1.0|38.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3500000.0
+2020-10-05|atento|32406542|1|grupo_prob_alta|seg_preaprobado|0.06681770086288452|4.0|74.0|SI|Si||No|Service unavailable|||||||||||
+2020-10-05|atento|32421107|1|grupo_prob_baja|seg_preaprobado|0.019278699532151226|2.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-10-05|atento|32530251|1|grupo_prob_baja|seg_preaprobado|0.016711400821805|2.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1700000.0
+2020-10-05|atento|3353491|1|grupo_prob_baja|seg_preaprobado|0.0037368799094110727|1.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-05|atento|3959239|1|grupo_prob_alta|seg_preaprobado|0.034455299377441406|3.0|66.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-05|atento|41376572|1|grupo_prob_baja|seg_preaprobado|0.003768299939110875|1.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-05|atento|41540048|1|grupo_prob_baja|seg_preaprobado|0.011912999674677849|1.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-05|atento|41553723|1|grupo_prob_baja|seg_preaprobado|0.002098160097375512|1.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-05|atento|43513978|1|grupo_prob_alta|seg_preaprobado|0.1858569979667664|5.0|55.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1400000.0
+2020-10-05|atento|43537507|1|grupo_prob_alta|seg_preaprobado|0.11502300202846527|5.0|52.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-05|atento|70385760|1|grupo_prob_alta|seg_preaprobado|0.031838398426771164|3.0|40.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4600000.0
+2020-10-05|atento|7473481|1|grupo_prob_baja|seg_preaprobado|0.020403100177645683|2.0|69.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-05|atento|79496865|1|grupo_prob_alta|seg_preaprobado|0.12953099608421326|5.0|52.0|SI|Si||Si||||||||||||
+2020-10-05|atento|8389146|1|grupo_prob_baja|seg_preaprobado|0.009688029997050762|1.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2200000.0
+2020-10-05|autogestion|37226518|1|grupo_prob_baja|seg_preaprobado|0.009308969601988792|1.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1600000.0
+2020-10-05|oficina|18050454|1|grupo_prob_baja|seg_preaprobado|0.006662100087851286|1.0|59.0|SI|Si||Si||Si||||||||||
+2020-10-05|oficina|19137509|1|grupo_prob_baja|seg_preaprobado|0.0034272100310772657|1.0|70.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-05|oficina|31834328|1|grupo_prob_baja|seg_preaprobado|0.012563999742269516|2.0|66.0|SI|Si||||Si||||||||||
+2020-10-05|oficina|33675794|1|grupo_prob_baja|seg_preaprobado|0.002215669956058264|1.0|48.0|SI|Si||Si||Si||||||||||
+2020-10-05|oficina|51837269|1|grupo_prob_baja|seg_perfilado|4.382330189400818e-06|5.0||SI|Si||No|Service unavailable|||||||||||
+2020-10-05|oficina|70070819|1|grupo_prob_alta|seg_perfilado|0.0014154700329527259|1.0|66.0|SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-06|atento|10214423|1|grupo_prob_baja|seg_preaprobado|0.01541650015860796|2.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|10752410|1|grupo_prob_baja|seg_preaprobado|0.004511749837547541|1.0|50.0|SI|Si||Si||||||||||||
+2020-10-06|atento|1088971295|1|grupo_prob_alta|seg_preaprobado|0.061391498893499374|4.0|33.0|SI|Si||Si||||||||||||
+2020-10-06|atento|14998323|1|grupo_prob_baja|seg_preaprobado|0.0121397003531456|1.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|16790251|1|grupo_prob_baja|seg_preaprobado|0.0027409601025283337|1.0|50.0|SI|Si||Si||Si||||SI|SI|SI||||
+2020-10-06|atento|17051783|1|grupo_prob_baja|seg_preaprobado|0.0038436299655586477|1.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|17086504|1|grupo_prob_baja|seg_preaprobado|0.00808847974985838|1.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5400000.0
+2020-10-06|atento|17327890|1|grupo_prob_alta|seg_preaprobado|0.13259099423885345|5.0|58.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|17623081|1|grupo_prob_alta|seg_preaprobado|0.03669239953160286|3.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|17626483|1|grupo_prob_baja|seg_preaprobado|0.007005599793046713|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|18106009|1|grupo_prob_alta|seg_preaprobado|0.05487120151519776|4.0|72.0|SI|Si||Si||||||||||||
+2020-10-06|atento|19131628|1|grupo_prob_baja|seg_preaprobado|||70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|19176690|1|grupo_prob_baja|seg_preaprobado|0.002606630092486739|1.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|19250830|1|grupo_prob_alta|seg_preaprobado|0.07477240264415741|5.0|66.0|SI|Si||Si||||||||||||
+2020-10-06|atento|20427130|1|grupo_prob_baja|seg_preaprobado|||64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|20472831|1|grupo_prob_baja|seg_preaprobado|||59.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|21069559|1|grupo_prob_alta|seg_preaprobado|0.0640358030796051|4.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|2173219|1|grupo_prob_baja|seg_preaprobado|0.002930880058556795|1.0|71.0|SI|Si||Si||||||||||||
+2020-10-06|atento|22373689|1|grupo_prob_alta|seg_preaprobado|0.14536799490451813|5.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|23852875|1|grupo_prob_baja|seg_preaprobado|0.001994739985093475|1.0|75.0|SI|Si||Si||||||||||||
+2020-10-06|atento|24784684|1|grupo_prob_baja|seg_preaprobado|||58.0|SI|Si||Si||||||||||||
+2020-10-06|atento|25592607|1|grupo_prob_alta|seg_preaprobado|0.08112040162086487|5.0|62.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|26309813|1|grupo_prob_alta|seg_preaprobado|0.04455849900841713|4.0|55.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2400000.0
+2020-10-06|atento|27358981|1|grupo_prob_baja|seg_preaprobado|0.0034467100631445646|1.0|67.0|SI|Si||Si||||||||||||
+2020-10-06|atento|28410493|1|grupo_prob_baja|seg_preaprobado|0.006555030122399329|1.0|64.0|SI|Si||Si||Si||||SI||||||
+2020-10-06|atento|28835915|1|grupo_prob_alta|seg_preaprobado|0.0387267991900444|3.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1300000.0
+2020-10-06|atento|30726847|1|grupo_prob_alta|seg_preaprobado|0.03675879910588265|3.0|58.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|3110040|1|grupo_prob_baja|seg_preaprobado|0.006970270071178675|1.0|37.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-06|atento|31258240|1|grupo_prob_alta|seg_preaprobado|0.17243799567222595|5.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|3161621|1|grupo_prob_baja|seg_preaprobado|||67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|32481108|1|grupo_prob_alta|seg_preaprobado|0.03638739883899689|3.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2800000.0
+2020-10-06|atento|32618081|1|grupo_prob_alta|seg_preaprobado|0.024965999647974968|3.0|63.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|3266830|1|grupo_prob_baja|seg_preaprobado|0.0204997006803751|2.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|3291462|1|grupo_prob_baja|seg_preaprobado|0.01750979945063591|2.0|79.0|SI|Si||Si||||||||||||
+2020-10-06|atento|33675794|1|grupo_prob_baja|seg_preaprobado|0.002215669956058264|1.0|48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|34561151|1|grupo_prob_baja|seg_preaprobado|0.007555580232292414|1.0|63.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|34959621|1|grupo_prob_alta|seg_preaprobado|0.15994200110435486|5.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|35373394|1|grupo_prob_alta|seg_preaprobado|0.04291639849543572|4.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|37218997|1|grupo_prob_alta|seg_preaprobado|0.06384020298719406|4.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|3734323|1|grupo_prob_alta|seg_preaprobado|0.2702310085296631|5.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|39150822|1|grupo_prob_baja|seg_preaprobado|0.00846972968429327|1.0|77.0|SI|Si||Si||||||||||||
+2020-10-06|atento|4095258|1|grupo_prob_baja|seg_preaprobado|0.011971499770879744|1.0|72.0|SI|Si||Si||||||||||||
+2020-10-06|atento|41304907|1|grupo_prob_baja|seg_preaprobado|0.009598599746823309|1.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|41441174|1|grupo_prob_baja|seg_preaprobado|0.019329400733113292|2.0|74.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-06|atento|42745857|1|grupo_prob_alta|seg_preaprobado|0.056627001613378525|4.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|43608282|1|grupo_prob_alta|seg_preaprobado|0.03554600104689598|3.0|44.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|4914343|1|grupo_prob_alta|seg_preaprobado|0.09065829962491988|5.0|66.0|SI|Si||Si||No|10010-Last name mismatch (Cifin)|||||||||
+2020-10-06|atento|51650346|1|grupo_prob_baja|seg_preaprobado|||62.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|51896758|1|grupo_prob_baja|seg_preaprobado|0.023506199941039085|2.0|57.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|52100192|1|grupo_prob_baja|seg_preaprobado|0.012401100248098372|2.0|48.0|SI|Si||Si||||||||||||
+2020-10-06|atento|5709639|1|grupo_prob_baja|seg_preaprobado|0.004645459819585085|1.0|78.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|6286717|1|grupo_prob_baja|seg_preaprobado|0.014626200310885906|2.0|74.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|66944229|1|grupo_prob_baja|seg_preaprobado|0.01391329988837242|2.0|44.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5500000.0
+2020-10-06|atento|70081231|1|grupo_prob_alta|seg_preaprobado|0.040739499032497406|3.0|65.0|SI|Si||Si||||||||||||
+2020-10-06|atento|7400461|1|grupo_prob_baja|seg_preaprobado|0.005855320021510124|1.0|80.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|7300000.0
+2020-10-06|atento|79120818|1|grupo_prob_baja|seg_preaprobado|0.014141700230538843|2.0|58.0|SI|Si||Si||Si||||SI|SI|SI||||
+2020-10-06|atento|79296110|1|grupo_prob_baja|seg_preaprobado|0.016616899520158768|2.0|57.0|SI|Si||Si||Si||||||||||
+2020-10-06|atento|79496865|1|grupo_prob_alta|seg_preaprobado|0.12953099608421326|5.0|52.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|8220265|1|grupo_prob_baja|seg_preaprobado|0.003549759974703193|1.0|81.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|8265740|1|grupo_prob_baja|seg_preaprobado|0.007278379984200002|1.0|75.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-06|atento|8318448|1|grupo_prob_alta|seg_preaprobado|0.03570529818534851|3.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|atento|88289631|1|grupo_prob_baja|seg_preaprobado|0.004510949831455946|1.0|45.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-06|atento|91183643|1|grupo_prob_baja|seg_preaprobado|0.005592850036919117|1.0|39.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4700000.0
+2020-10-06|atento|9270568|1|grupo_prob_alta|seg_preaprobado|0.031707700341939926|3.0|48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|6400000.0
+2020-10-06|atento|9399262|1|grupo_prob_alta|seg_preaprobado|0.11682400107383728|5.0|46.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4400000.0
+2020-10-06|atento|9516377|1|grupo_prob_alta|seg_preaprobado|0.0333344005048275|3.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2700000.0
+2020-10-06|autogestion|28410493|1|grupo_prob_baja|seg_preaprobado|0.006555030122399329|1.0|64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-06|autogestion|74339741|1|grupo_prob_baja|seg_perfilado|7.198609819170088e-05|4.0|37.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-06|oficina|11203969|1|grupo_prob_alta|seg_perfilado|0.0006912900134921074|2.0||SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|1800000.0
+2020-10-06|oficina|19187533|1|grupo_prob_baja|seg_preaprobado|0.00410313019528985|1.0|69.0|SI|Si||||Si||||||||||
+2020-10-06|oficina|39725570|1|grupo_prob_alta|seg_perfilado|0.000568958988878876|2.0|44.0|SI|Si||Si||Si||NO VIABLE|Office denied for minimum income|||||||
+2020-10-06|oficina|51837269|1|grupo_prob_baja|seg_perfilado|4.382330189400818e-06|5.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-06|oficina|51993117|1|grupo_prob_alta|seg_perfilado|0.004368320107460022|1.0|53.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-06|oficina|52062417|1|grupo_prob_baja|seg_preaprobado|0.023067500442266464|2.0|48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|10159126|1|grupo_prob_baja|seg_preaprobado|||71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|10347708|1|grupo_prob_alta|seg_preaprobado|0.08676700294017793|5.0|36.0|SI|Si||Si||||||||||||
+2020-10-07|atento|1068926190|1|grupo_prob_baja|seg_preaprobado|0.0028712700586766005|1.0|34.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|1120359299|1|grupo_prob_baja|seg_preaprobado|0.002392610069364309|1.0||SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2400000.0
+2020-10-07|atento|11793036|1|grupo_prob_baja|seg_preaprobado|0.0035221299622207884|1.0|58.0|SI|Si||Si||||||||||||
+2020-10-07|atento|12091421|1|grupo_prob_baja|seg_preaprobado|0.019267700612545013|2.0|80.0|SI|Si||Si||Si||||SI|SI|SI||||
+2020-10-07|atento|12116741|1|grupo_prob_alta|seg_preaprobado|0.23026099801063535|5.0|62.0|SI|Si||Si||||||||||||
+2020-10-07|atento|12576131|1|grupo_prob_alta|seg_preaprobado|0.15521200001239774|5.0|74.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|13337407|1|grupo_prob_baja|seg_preaprobado|||71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|14105082|1|grupo_prob_alta|seg_preaprobado|0.0706448033452034|4.0|52.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-07|atento|14195231|1|grupo_prob_baja|seg_preaprobado|0.0048088100738823405|1.0|77.0|SI|Si||Si||||||||||||
+2020-10-07|atento|14202975|1|grupo_prob_alta|seg_preaprobado|0.051765300333499915|4.0|74.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-07|atento|15047445|1|grupo_prob_alta|seg_preaprobado|0.02890959940850735|3.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2900000.0
+2020-10-07|atento|15911501|1|grupo_prob_alta|seg_preaprobado|0.043018799275159836|4.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1200000.0
+2020-10-07|atento|16209960|1|grupo_prob_baja|seg_preaprobado|0.006840100046247244|1.0|65.0|SI|Si||Si||||||||||||
+2020-10-07|atento|16855434|1|grupo_prob_baja|seg_preaprobado|0.004619449842721224|1.0|65.0|SI|Si||Si||||||||||||
+2020-10-07|atento|17041542|1|grupo_prob_alta|seg_preaprobado|0.027400000020861626|3.0||SI|Si||Si||||||||||||
+2020-10-07|atento|17079043|1|grupo_prob_alta|seg_preaprobado|0.14940600097179413|5.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|17085956|1|grupo_prob_alta|seg_preaprobado|0.03623810037970543|3.0|77.0|SI|Si||Si||||||||||||
+2020-10-07|atento|17086504|1|grupo_prob_baja|seg_preaprobado|0.00808847974985838|1.0|79.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-07|atento|17182885|1|grupo_prob_baja|seg_preaprobado|0.007489589974284172|1.0|74.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-07|atento|17191116|1|grupo_prob_baja|seg_preaprobado|0.016602100804448128|2.0|73.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-07|atento|17800235|1|grupo_prob_alta|seg_preaprobado|0.11724700033664705|5.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4400000.0
+2020-10-07|atento|18106009|1|grupo_prob_alta|seg_preaprobado|0.05487120151519776|4.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|19137777|1|grupo_prob_baja|seg_preaprobado|||69.0|SI|Si||Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||
+2020-10-07|atento|19169748|1|grupo_prob_alta|seg_preaprobado|0.10984600335359572|5.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|19499449|1|grupo_prob_baja|seg_preaprobado|0.01632270030677319|2.0|58.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2700000.0
+2020-10-07|atento|20622736|1|grupo_prob_baja|seg_preaprobado|0.02021010033786297|2.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|20937420|1|grupo_prob_alta|seg_preaprobado|0.0509800985455513|4.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|21231970|1|grupo_prob_alta|seg_preaprobado|0.04579690098762512|4.0|64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-10-07|atento|22364287|1|grupo_prob_baja|seg_preaprobado|0.0037764299195259814|1.0|75.0|SI|Si||Si||||||||||||
+2020-10-07|atento|24291664|1|grupo_prob_baja|seg_preaprobado|0.01996920071542263|2.0|78.0|SI|Si||Si||Si||||SI||||||
+2020-10-07|atento|2570485|1|grupo_prob_alta|seg_preaprobado|0.1078220009803772|5.0|65.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|26577651|1|grupo_prob_baja|seg_preaprobado|0.015185600146651268|2.0|69.0|SI|Si||Si||No|Error validating OTP, maximum attempts|||||||||
+2020-10-07|atento|27074134|1|grupo_prob_baja|seg_preaprobado|0.008281120099127294|1.0|78.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4500000.0
+2020-10-07|atento|27115117|1|grupo_prob_baja|seg_preaprobado|0.011648800224065779|1.0|56.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|27358981|1|grupo_prob_baja|seg_preaprobado|0.0034467100631445646|1.0|67.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|27956733|1|grupo_prob_baja|seg_preaprobado|0.0027623800560832024|1.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|28379122|1|grupo_prob_alta|seg_preaprobado|0.08567850291728972|5.0|69.0|SI|Si||Si||||||||||||
+2020-10-07|atento|29282716|1|grupo_prob_alta|seg_preaprobado|0.034179098904132836|3.0|71.0|SI|Si||Si||No|10006-Mismatched phone number CIFIN|||||||||
+2020-10-07|atento|29501827|1|grupo_prob_alta|seg_preaprobado|0.026704000309109688|3.0|62.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|30020301|1|grupo_prob_baja|seg_preaprobado|0.010253099724650385|1.0|47.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|3002184|1|grupo_prob_baja|seg_preaprobado|0.0067695300094783315|1.0|65.0|SI|Si||Si||||||||||||
+2020-10-07|atento|32345351|1|grupo_prob_baja|seg_preaprobado|0.020801899954676628|2.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|3266895|1|grupo_prob_baja|seg_preaprobado|0.0036483099684119225|1.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|34532597|1|grupo_prob_alta|seg_preaprobado|0.06473000347614287|4.0|62.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|36521212|1|grupo_prob_alta|seg_preaprobado|0.15235400199890134|5.0|75.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|36532353|1|grupo_prob_baja|seg_preaprobado|0.006892660167068243|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|36588204|1|grupo_prob_baja|seg_preaprobado|0.004532239865511657|1.0|48.0|SI|Si||Si||||||||||||
+2020-10-07|atento|37226518|1|grupo_prob_baja|seg_preaprobado|0.009308969601988792|1.0|70.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-07|atento|37229491|1|grupo_prob_alta|seg_preaprobado|0.04809420183300972|4.0|70.0|SI|Si||Si||||||||||||
+2020-10-07|atento|37792185|1|grupo_prob_baja|seg_preaprobado|0.013592099770903587|2.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|38246621|1|grupo_prob_baja|seg_preaprobado|0.004314680118113756|1.0|60.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|9800000.0
+2020-10-07|atento|3876118|1|grupo_prob_alta|seg_preaprobado|0.034375399351119995|3.0||SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|39809340|1|grupo_prob_baja|seg_preaprobado|0.00717981019988656|1.0|44.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4900000.0
+2020-10-07|atento|41398811|1|grupo_prob_alta|seg_preaprobado|0.09582389891147614|5.0|73.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-07|atento|41645732|1|grupo_prob_alta|seg_preaprobado|0.03282979875802994|3.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|43602833|1|grupo_prob_baja|seg_preaprobado|0.00484853982925415|1.0|45.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2200000.0
+2020-10-07|atento|4500114|1|grupo_prob_baja|seg_preaprobado|0.017463000491261482|2.0|80.0|SI|Si||Si||Si||||SI||||||
+2020-10-07|atento|46458353|1|grupo_prob_baja|seg_preaprobado|0.013806000351905823|2.0|35.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-07|atento|49651226|1|grupo_prob_baja|seg_preaprobado|0.017505299299955368|2.0|61.0|SI|Si||Si||||||||||||
+2020-10-07|atento|57436366|1|grupo_prob_alta|seg_preaprobado|0.02631389908492565|3.0|48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4000000.0
+2020-10-07|atento|5743734|1|grupo_prob_baja|seg_preaprobado|0.004951430018991232|1.0||SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|6427213|1|grupo_prob_alta|seg_preaprobado|0.13895200192928314|5.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-07|atento|64558237|1|grupo_prob_alta|seg_preaprobado|0.09299150109291077|5.0|54.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|7900000.0
+2020-10-07|atento|65758114|1|grupo_prob_baja|seg_preaprobado|||48.0|SI|Si||Si||||||||||||
+2020-10-07|atento|6864903|1|grupo_prob_alta|seg_preaprobado|0.12910300493240354|5.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|78024376|1|grupo_prob_baja|seg_preaprobado|0.004199590068310499|1.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2000000.0
+2020-10-07|atento|79120011|1|grupo_prob_alta|seg_preaprobado|0.10673300176858902|5.0|59.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5000000.0
+2020-10-07|atento|79993803|1|grupo_prob_baja|seg_preaprobado|||41.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-07|atento|8226448|1|grupo_prob_alta|seg_preaprobado|0.041700799018144614|4.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-07|atento|8744474|1|grupo_prob_baja|seg_preaprobado|0.015805799514055252|2.0|57.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3400000.0
+2020-10-07|atento|87711944|1|grupo_prob_baja|seg_preaprobado|0.0052314698696136475|1.0|54.0|SI|Si||Si||||||||||||
+2020-10-07|atento|9069854|1|grupo_prob_baja|seg_preaprobado|0.006222129799425602|1.0|74.0|SI|Si||Si||Si||||||||||
+2020-10-07|atento|9075142|1|grupo_prob_baja|seg_preaprobado|0.00880418997257948|1.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|6900000.0
+2020-10-07|autogestion|12116741|1|grupo_prob_alta|seg_preaprobado|0.23026099801063535|5.0|62.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2900000.0
+2020-10-07|autogestion|16833055|1|grupo_prob_alta|seg_perfilado|0.003501609899103641|1.0|46.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-07|oficina|65758114|1|grupo_prob_baja|seg_preaprobado|||48.0|SI|Si||Si||||||||||||
+2020-10-07|oficina|79808823|1|grupo_prob_alta|seg_perfilado|0.00010241300333291291|3.0|43.0|SI|Si||Si||Si||||||||||
+2020-10-08|atento|13337369|1|grupo_prob_baja|seg_preaprobado|0.004998079966753721|1.0|71.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-08|atento|13817838|1|grupo_prob_alta|seg_preaprobado|0.03445740044116974|3.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-08|atento|14105082|1|grupo_prob_alta|seg_preaprobado|0.0706448033452034|4.0|52.0|SI|Si||Si||||||||||||
+2020-10-08|atento|18108362|1|grupo_prob_alta|seg_preaprobado|0.03386630117893219|3.0|61.0|SI|Si||Si||||||||||||
+2020-10-08|atento|18124522|1|grupo_prob_baja|seg_preaprobado|0.004843989852815866|1.0|57.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1900000.0
+2020-10-08|atento|19093234|1|grupo_prob_alta|seg_preaprobado|0.05968790128827095|4.0|71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2000000.0
+2020-10-08|atento|20526705|1|grupo_prob_alta|seg_preaprobado|0.025635300204157833|3.0|63.0|SI|Si||Si||Si||||SI||||||
+2020-10-08|atento|23247398|1|grupo_prob_baja|seg_preaprobado|0.0026087099686264987|1.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-08|atento|30733266|1|grupo_prob_baja|seg_preaprobado|0.007443900220096111|1.0|58.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|7400000.0
+2020-10-08|atento|32291421|1|grupo_prob_baja|seg_preaprobado|0.013762500137090685|2.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-08|atento|3265840|1|grupo_prob_baja|seg_preaprobado|0.009910780005156994|1.0|79.0|SI|Si||Si||||||||||||
+2020-10-08|atento|3294365|1|grupo_prob_alta|seg_preaprobado|0.0874297022819519|5.0|74.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1100000.0
+2020-10-08|atento|33199212|1|grupo_prob_alta|seg_preaprobado|0.12045100331306458|5.0|55.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4100000.0
+2020-10-08|atento|40795590|1|grupo_prob_baja|seg_preaprobado|0.006269860081374645|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2800000.0
+2020-10-08|atento|41918156|1|grupo_prob_alta|seg_preaprobado|0.0781266987323761|5.0|72.0|SI|Si||Si||No|10006-Mismatched phone number CIFIN|||||||||
+2020-10-08|atento|5127946|1|grupo_prob_baja|seg_preaprobado|0.006176370196044445|1.0|71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5200000.0
+2020-10-08|atento|5219847|1|grupo_prob_baja|seg_preaprobado|0.005391510203480721|1.0|79.0|SI|Si||Si||||||||||||
+2020-10-08|atento|65758114|1|grupo_prob_baja|seg_preaprobado|||48.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4800000.0
+2020-10-08|atento|66910254|1|grupo_prob_alta|seg_preaprobado|0.026981299743056297|3.0|50.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-08|atento|79420079|1|grupo_prob_baja|seg_preaprobado|0.0035861099604517217|1.0|53.0|SI|Si||Si||||||||||||
+2020-10-08|atento|8665217|1|grupo_prob_alta|seg_preaprobado|0.20229199528694156|5.0|66.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-08|atento|91209576|1|grupo_prob_alta|seg_preaprobado|0.07525009661912918|5.0|60.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4700000.0
+2020-10-08|autogestion|26450797|1|grupo_prob_baja|seg_perfilado|7.955959881655872e-05|4.0|62.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-08|autogestion|28799568|1|grupo_prob_baja|seg_perfilado|6.765889702364802e-05|4.0|36.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-10-08|autogestion|32205732|1|grupo_prob_baja|seg_perfilado|4.910050120088272e-05|4.0|38.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|1200000.0
+2020-10-08|autogestion|3294365|1|grupo_prob_alta|seg_preaprobado|0.0874297022819519|5.0|74.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-08|oficina|14939132|1|grupo_prob_baja|seg_perfilado|4.5294800656847664e-06|5.0|74.0|SI|Si||||Si||NO VIABLE|Políticas-Edad mínima o máxima|||||||
+2020-10-08|oficina|8408710|1|grupo_prob_alta|seg_perfilado|0.000219895999180153|2.0|58.0|SI|Si||||||||||||||
+2020-10-09|atento|10530015|1|grupo_prob_alta|seg_preaprobado|0.03943730145692825|3.0|65.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-09|atento|11785404|1|grupo_prob_alta|seg_preaprobado|0.02726729959249496|3.0|75.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|7300000.0
+2020-10-09|atento|19119075|1|grupo_prob_baja|seg_preaprobado||||SI|Si||Si||Si||NO VIABLE|Políticas-Edad mínima o máxima|||||||
+2020-10-09|atento|34998909|1|grupo_prob_alta|seg_preaprobado|0.15320099890232086|5.0|51.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-10-09|atento|3734323|1|grupo_prob_alta|seg_preaprobado|0.2702310085296631|5.0|67.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-09|atento|37807958|1|grupo_prob_alta|seg_preaprobado|0.04402570053935051|4.0|71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-09|atento|41422586|1|grupo_prob_alta|seg_preaprobado|0.18614499270915985|5.0|73.0|SI|Si||Si||||||||||||
+2020-10-09|atento|5199824|1|grupo_prob_alta|seg_preaprobado|0.027912700548768044|3.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-09|atento|5219847|1|grupo_prob_baja|seg_preaprobado|0.005391510203480721|1.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-09|atento|93364040|1|grupo_prob_alta|seg_preaprobado|0.04963120073080063|4.0|55.0|SI|Si||Si||||||||||||
+2020-10-09|autogestion|28799568|1|grupo_prob_baja|seg_perfilado|6.765889702364802e-05|4.0|36.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-10-09|autogestion|51725192|1|grupo_prob_baja|seg_perfilado|2.351490002183709e-05|5.0|56.0|SI|Si||No|Service unavailable|||||||||||
+2020-10-09|autogestion|79420079|1|grupo_prob_baja|seg_preaprobado|0.0035861099604517217|1.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1100000.0
+2020-10-09|oficina|16073993|1|grupo_prob_baja|seg_perfilado|7.31781983631663e-05|4.0|38.0|SI|Si||Si||Si||||||||||
+2020-10-09|oficina|37925799|1|grupo_prob_alta|seg_preaprobado|0.12906299531459808|5.0|58.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3400000.0
+2020-10-10|atento|17174941|1|grupo_prob_baja|seg_preaprobado|0.02360519953072071|2.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|17300000.0
+2020-10-10|atento|29989385|1|grupo_prob_baja|seg_preaprobado|0.004887890070676804|1.0|80.0|SI|Si||Si||||||||||||
+2020-10-10|atento|41628054|1|grupo_prob_baja|seg_preaprobado|0.006041210144758225|1.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3300000.0
+2020-10-10|atento|6077875|1|grupo_prob_baja|seg_preaprobado|0.009705930016934872|1.0|80.0|SI|Si||Si||||||||||||
+2020-10-12|autogestion|16833055|1|grupo_prob_alta|seg_perfilado|0.003501609899103641|1.0|46.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-13|atento|35458786|1|grupo_prob_baja|seg_preaprobado|0.007699070032685995|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-13|atento|40365346|1|grupo_prob_alta|seg_preaprobado|0.044342700392007835|4.0|71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-13|autogestion|28799568|1|grupo_prob_baja|seg_perfilado|6.765889702364802e-05|4.0|36.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-10-13|autogestion|35600860|1|grupo_prob_alta|seg_perfilado|0.0008583290036767721|1.0|45.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-13|autogestion|41774002|1|grupo_prob_baja|seg_perfilado|8.051009899645578e-06|5.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-13|oficina|41774002|1|grupo_prob_baja|seg_perfilado|8.051009899645578e-06|5.0||SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-14|atento|11803219|1|grupo_prob_baja|seg_preaprobado|0.015639999881386757|2.0|45.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2900000.0
+2020-10-14|atento|18108362|1|grupo_prob_alta|seg_preaprobado|0.03386630117893219|3.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4700000.0
+2020-10-14|atento|19158018|1|grupo_prob_alta|seg_preaprobado|0.13461799919605255|5.0|69.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-14|atento|19206742|1|grupo_prob_alta|seg_preaprobado|0.1113400012254715|5.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-14|atento|19244200|1|grupo_prob_baja|seg_preaprobado|||67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4500000.0
+2020-10-14|atento|39632334|1|grupo_prob_baja|seg_preaprobado|0.015897799283266068|2.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-14|atento|41707062|1|grupo_prob_baja|seg_preaprobado|0.011002699844539164|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-14|atento|60321711|1|grupo_prob_alta|seg_preaprobado|0.045017700642347336|4.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-14|autogestion|40783998|1|grupo_prob_alta|seg_perfilado|0.00013832800323143601|3.0|43.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-15|atento|19080515|1|grupo_prob_alta|seg_preaprobado|0.12066400051116945|5.0|72.0|SI|Si||Si||||||||||||
+2020-10-15|atento|41398701|1|grupo_prob_alta|seg_preaprobado|0.03780600056052208|3.0|73.0|SI|Si||Si||No|10006-Mismatched phone number CIFIN|||||||||
+2020-10-15|atento|49651226|1|grupo_prob_baja|seg_preaprobado|0.017505299299955368|2.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3900000.0
+2020-10-15|atento|9090173|1|grupo_prob_baja|seg_preaprobado|0.015711400657892227|2.0|68.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-15|autogestion|29116553|1|grupo_prob_alta|seg_perfilado|0.0001204349973704666|3.0||SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-15|autogestion|41776194|1|grupo_prob_alta|seg_perfilado|0.04704279825091362|1.0|63.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-15|nexa|13231722|1|grupo_prob_baja|seg_preaprobado|0.0017572699580341578|1.0|72.0|SI|Si||Si||||||||||||
+2020-10-15|oficina|14201749|1|grupo_prob_alta|seg_preaprobado|0.030052600428462032|3.0|73.0|SI|Si||Si||||||||||||
+2020-10-15|oficina|40043121|1|grupo_prob_baja|seg_perfilado|2.799809954012744e-05|5.0|43.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|10000000.0
+2020-10-15|oficina|41701571|1|grupo_prob_baja|seg_perfilado|6.168940308270976e-05|4.0|63.0|SI|No|Viabilidad - Hábito de Pago Interno|||||||||||||
+2020-10-16|atento|10159462|1|grupo_prob_alta|seg_preaprobado|0.07000309973955154|4.0|70.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-16|atento|10347708|1|grupo_prob_alta|seg_preaprobado|0.08676700294017793|5.0|36.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-10-16|atento|12268161|1|grupo_prob_alta|seg_preaprobado|0.085213303565979|5.0|70.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-16|atento|19092235|1|grupo_prob_baja|seg_preaprobado|0.012949800118803978|2.0|71.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-16|atento|19119899|1|grupo_prob_alta|seg_preaprobado|0.03393629938364029|3.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-16|atento|19158279|1|grupo_prob_baja|seg_preaprobado|0.006590680219233036|1.0|71.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-16|atento|24307336|1|grupo_prob_baja|seg_preaprobado|0.018627500161528587|2.0|70.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-16|atento|2678473|1|grupo_prob_baja|seg_preaprobado|||74.0|SI|Si||Si||||||||||||
+2020-10-16|atento|3045360|1|grupo_prob_alta|seg_preaprobado|0.09889210015535356|5.0|75.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-16|atento|38867083|1|grupo_prob_alta|seg_preaprobado|0.1326349973678589|5.0|54.0|SI|Si||Si||Si||||SI||||||
+2020-10-16|atento|41572913|1|grupo_prob_baja|seg_preaprobado|0.0114206001162529|1.0|68.0|SI|Si||Si||||||||||||
+2020-10-16|atento|51739130|1|grupo_prob_baja|seg_preaprobado|||58.0|SI|Si||Si||No|-1093-Code Replay Attempt|||||||||
+2020-10-16|atento|6465276|1|grupo_prob_alta|seg_preaprobado|0.05800430104136468|4.0|54.0|SI|Si||Si||||||||||||
+2020-10-16|atento|79539205|1|grupo_prob_baja|seg_preaprobado|0.00575444009155035|1.0|50.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5400000.0
+2020-10-16|atento|8631725|1|grupo_prob_baja|seg_preaprobado|0.01036280021071434|1.0|63.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3200000.0
+2020-10-16|autogestion|65783576|1|grupo_prob_baja|seg_perfilado|4.6225399273680516e-05|4.0||SI|No|Viabilidad - Hábito Pago Interno|||||||||||||
+2020-10-16|oficina|14207898|1|grupo_prob_baja|seg_preaprobado|0.00974029954522848|1.0|72.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-16|oficina|19158279|1|grupo_prob_baja|seg_preaprobado|0.006590680219233036|1.0|71.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-16|oficina|19458903|1|grupo_prob_alta|seg_perfilado|0.00032755499705672264|2.0|59.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|2200000.0
+2020-10-16|oficina|20499543|1|grupo_prob_alta|seg_perfilado|9.110329847317188e-05|3.0|56.0|SI|Si||||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-10-16|oficina|73077927|1|grupo_prob_baja|seg_perfilado|3.2781001209514216e-05|4.0|66.0|SI|Si||||Si||NO VIABLE|Políticas-Edad mínima o máxima|||||||
+2020-10-16|oficina|79041894|1|grupo_prob_alta|seg_perfilado|0.0025146000552922487|1.0|58.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-17|atento|12365023|1|grupo_prob_baja|seg_preaprobado|0.01783219911158085|2.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-17|atento|19119075|1|grupo_prob_baja|seg_preaprobado||||SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-17|atento|22991098|1|grupo_prob_baja|seg_preaprobado|0.0051287398673594|1.0|78.0|SI|Si||Si||||||||||||
+2020-10-17|atento|2754272|1|grupo_prob_alta|seg_preaprobado|0.06872309744358063|4.0|73.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-10-17|atento|28779768|1|grupo_prob_alta|seg_preaprobado|0.05012860149145126|4.0|78.0|SI|Si||Si||||||||||||
+2020-10-17|atento|30704835|1|grupo_prob_alta|seg_preaprobado|0.1520960032939911|5.0|68.0|SI|Si||Si||||||||||||
+2020-10-17|atento|34998909|1|grupo_prob_alta|seg_preaprobado|0.15320099890232086|5.0|51.0|SI|Si||Si||||||||||||
+2020-10-17|atento|37252521|1|grupo_prob_alta|seg_preaprobado|0.04664440080523491|4.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-17|atento|42492037|1|grupo_prob_baja|seg_preaprobado|0.017545299604535103|2.0|65.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-17|atento|5483446|1|grupo_prob_alta|seg_preaprobado|0.1760610044002533|5.0|63.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-10-17|atento|6237840|1|grupo_prob_baja|seg_preaprobado|0.018069000914692882|2.0|77.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|6700000.0
+2020-10-17|atento|6444138|1|grupo_prob_baja|seg_preaprobado|0.005037790164351463|1.0|63.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-17|atento|91242201|1|grupo_prob_alta|seg_preaprobado|0.06416179984807968|4.0|56.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2700000.0
+2020-10-17|autogestion|43759511|1|grupo_prob_baja|seg_perfilado|2.429949927318376e-05|5.0|43.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-19|atento|1088971295|1|grupo_prob_alta|seg_preaprobado|0.061391498893499374|4.0|33.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2700000.0
+2020-10-19|atento|12116741|1|grupo_prob_alta|seg_preaprobado|0.23026099801063535|5.0|62.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-19|atento|12270379|1|grupo_prob_alta|seg_preaprobado|0.22926799952983856|5.0|61.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-19|atento|12550090|1|grupo_prob_baja|seg_preaprobado|0.02109329961240292|2.0|60.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-10-19|atento|14216918|1|grupo_prob_baja|seg_preaprobado|||68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|17056933|1|grupo_prob_alta|seg_preaprobado|0.04296670109033585|4.0|79.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-19|atento|17060226|1|grupo_prob_alta|seg_preaprobado|0.02549160085618496|3.0||SI|Si||Si||||||||||||
+2020-10-19|atento|17110811|1|grupo_prob_alta|seg_preaprobado|0.3422189950942993|5.0|77.0|SI|Si||Si||||||||||||
+2020-10-19|atento|17182885|1|grupo_prob_baja|seg_preaprobado|0.007489589974284172|1.0|74.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-19|atento|19196689|1|grupo_prob_alta|seg_preaprobado|0.30341601371765137|5.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|6100000.0
+2020-10-19|atento|21201137|1|grupo_prob_baja|seg_preaprobado|0.012804299592971802|2.0|65.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-19|atento|261732|1|grupo_prob_baja|seg_preaprobado|0.012465099804103373|2.0|63.0|SI|Si||Si||||||||||||
+2020-10-19|atento|26825082|1|grupo_prob_alta|seg_preaprobado|0.07143770158290863|4.0|68.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-10-19|atento|2754272|1|grupo_prob_alta|seg_preaprobado|0.06872309744358063|4.0|73.0|SI|Si||Si||Si||||SI||||||
+2020-10-19|atento|28237269|1|grupo_prob_alta|seg_preaprobado|0.15295100212097168|5.0|72.0|SI|Si||Si||||||||||||
+2020-10-19|atento|29282716|1|grupo_prob_alta|seg_preaprobado|0.034179098904132836|3.0|71.0|SI|Si||Si||||||||||||
+2020-10-19|atento|30273156|1|grupo_prob_baja|seg_preaprobado|0.004048139788210392|1.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2300000.0
+2020-10-19|atento|31426080|1|grupo_prob_baja|seg_preaprobado|0.00504948990419507|1.0|42.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|3244836|1|grupo_prob_baja|seg_preaprobado|0.003980860114097595|1.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|33447298|1|grupo_prob_baja|seg_preaprobado|0.00877512991428375|1.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2300000.0
+2020-10-19|atento|37800836|1|grupo_prob_baja|seg_preaprobado|0.007902399636805058|1.0|75.0|SI|Si||Si||||||||||||
+2020-10-19|atento|37813590|1|grupo_prob_baja|seg_preaprobado|0.021646099165081974|2.0|69.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|10000000.0
+2020-10-19|atento|4111631|1|grupo_prob_alta|seg_preaprobado|0.04450710117816925|4.0|76.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5200000.0
+2020-10-19|atento|41707094|1|grupo_prob_baja|seg_preaprobado|0.005421740002930164|1.0|64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|45554236|1|grupo_prob_baja|seg_preaprobado|0.010897199623286724|1.0|38.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-19|atento|4837709|1|grupo_prob_alta|seg_preaprobado|0.0263350997120142|3.0|49.0|SI|Si||Si||||||||||||
+2020-10-19|atento|5565980|1|grupo_prob_baja|seg_preaprobado|0.017666099593043327|2.0|74.0|SI|Si||Si||||||||||||
+2020-10-19|atento|70097696|1|grupo_prob_baja|seg_preaprobado|0.0022765500470995907|1.0|64.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|79117217|1|grupo_prob_alta|seg_preaprobado|0.03171730041503906|3.0|66.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-19|atento|79137550|1|grupo_prob_baja|seg_preaprobado|0.004841589834541082|1.0||SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-19|atento|80217704|1|grupo_prob_baja|seg_preaprobado|0.017362099140882492|2.0|39.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|10000000.0
+2020-10-19|atento|8337445|1|grupo_prob_baja|seg_preaprobado|0.004854369908571243|1.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|2200000.0
+2020-10-19|atento|8665217|1|grupo_prob_alta|seg_preaprobado|0.20229199528694156|5.0|66.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-19|autogestion|2754272|1|grupo_prob_alta|seg_preaprobado|0.06872309744358063|4.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|10300000.0
+2020-10-19|nexa|80217704|1|grupo_prob_baja|seg_preaprobado|0.017362099140882492|2.0|39.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-19|oficina|2754272|1|grupo_prob_alta|seg_preaprobado|0.06872309744358063|4.0|73.0|SI|Si||Si||No|15-Failed SIM validation|||||||||
+2020-10-19|oficina|71781940|1|grupo_prob_alta|seg_perfilado|0.00013850300456397235|3.0||SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-20|atento|10347708|1|grupo_prob_alta|seg_preaprobado|0.08676700294017793|5.0|36.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-20|atento|14195231|1|grupo_prob_baja|seg_preaprobado|0.0048088100738823405|1.0|77.0|SI|Si||Si||||||||||||
+2020-10-20|atento|17322076|1|grupo_prob_alta|seg_preaprobado|0.04926500096917152|4.0|59.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-20|atento|28536770|1|grupo_prob_baja|seg_preaprobado|0.004299649968743324|1.0|74.0|SI|Si||Si||||||||||||
+2020-10-20|atento|38242201|1|grupo_prob_alta|seg_preaprobado|0.10139799863100052|5.0|66.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-20|atento|45554236|1|grupo_prob_baja|seg_preaprobado|0.010897199623286724|1.0|38.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-20|atento|52092074|1|grupo_prob_alta|seg_preaprobado|0.23674699664115906|5.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-20|atento|5483446|1|grupo_prob_alta|seg_preaprobado|0.1760610044002533|5.0|63.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1500000.0
+2020-10-20|atento|63550955|1|grupo_prob_baja|seg_preaprobado|||36.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4600000.0
+2020-10-20|atento|70047832|1|grupo_prob_alta|seg_preaprobado|0.10541100054979324|5.0|67.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-20|autogestion|28686097|1|grupo_prob_alta|seg_perfilado|0.0002004309935728088|3.0|52.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-20|oficina|35458786|1|grupo_prob_baja|seg_preaprobado|0.007699070032685995|1.0|67.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-20|oficina|4287086|1|grupo_prob_alta|seg_preaprobado|0.04071740061044693|3.0|69.0|SI|Si||Si||Si||||||||||
+2020-10-21|atento|1078179102|1|grupo_prob_baja|seg_preaprobado|||33.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3000000.0
+2020-10-21|atento|20622675|1|grupo_prob_baja|seg_preaprobado|0.012638100422918795|2.0|61.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|4700000.0
+2020-10-21|atento|23852875|1|grupo_prob_baja|seg_preaprobado|0.001994739985093475|1.0|75.0|SI|Si||Si||||||||||||
+2020-10-21|atento|4837709|1|grupo_prob_alta|seg_preaprobado|0.0263350997120142|3.0|49.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|14500000.0
+2020-10-21|atento|7473481|1|grupo_prob_baja|seg_preaprobado|0.020403100177645683|2.0|69.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-21|autogestion|16833055|1|grupo_prob_alta|seg_perfilado|0.003501609899103641|1.0|46.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-21|autogestion|9869033|1|grupo_prob_alta|seg_perfilado|0.010212399996817112|1.0|37.0|SI|No|Viabilidad - Hábito Pago Interno|||||||||||||
+2020-10-21|oficina|19091055|1|grupo_prob_baja|seg_preaprobado|0.018563399091362957|2.0|71.0|SI|Si||||Si||||||||||
+2020-10-21|oficina|386181|1|grupo_prob_alta|seg_perfilado|0.01615460030734539|1.0|58.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-10-21|oficina|40088894|1|grupo_prob_alta|seg_preaprobado|0.055753499269485474|4.0|39.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-21|oficina|5199824|1|grupo_prob_alta|seg_preaprobado|0.027912700548768044|3.0|77.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-22|atento|28545023|1|grupo_prob_alta|seg_preaprobado|0.03964940086007118|3.0|73.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|5200000.0
+2020-10-22|oficina|19328474|1|grupo_prob_baja|seg_preaprobado|0.0017694300040602684|1.0|65.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|700000.0
+2020-10-22|oficina|31862454|1|grupo_prob_alta|seg_perfilado|0.00017891799507196993|3.0|60.0|SI|Si||Si||Si||NO VIABLE|Políticas-Ingreso Mínimo|||||||
+2020-10-22|oficina|32416229|1|grupo_prob_alta|seg_preaprobado|0.08534140139818193|5.0|76.0|SI|Si||||Si||||||||||
+2020-10-22|oficina|3556017|1|grupo_prob_baja|seg_preaprobado|0.00668767001479864|1.0|57.0|SI|Si||Si||Si||||||||||
+2020-10-22|oficina|37800725|1|grupo_prob_baja|seg_preaprobado|0.007762639783322811|1.0|71.0|SI|Si||||||||||||||
+2020-10-22|oficina|79396939|1|grupo_prob_alta|seg_perfilado|0.003911709878593683|1.0|54.0|SI|Si||||Si||NO VIABLE|Customer is independent|||||||
+2020-10-23|atento|13817838|1|grupo_prob_alta|seg_preaprobado|0.03445740044116974|3.0|69.0|SI|No|Customer has an approval in the same Campaign|||||||||||||
+2020-10-23|atento|21177604|1|grupo_prob_baja|seg_preaprobado|0.020282700657844543|2.0|53.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|2.0|6800000.0
+2020-10-23|autogestion|14677052|1|grupo_prob_baja|seg_perfilado|1.1458900189609269e-05|5.0|36.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-23|oficina|14229941|1|grupo_prob_alta|seg_perfilado|0.0010775099508464336|1.0|64.0|SI|Si||||Si||NO VIABLE|Políticas-Edad mínima o máxima|||||||
+2020-10-23|oficina|14232798|1|grupo_prob_baja|seg_preaprobado|0.01845099963247776|2.0|62.0|SI|Si||||Si||||||||||
+2020-10-23|oficina|15446082|1|grupo_prob_baja|seg_perfilado|1.7338099496555515e-05|5.0||SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-23|oficina|26289902|1|grupo_prob_baja|seg_preaprobado|0.007279539946466684|1.0|79.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|1800000.0
+2020-10-23|oficina|32779700|1|grupo_prob_baja|seg_preaprobado|0.008885789662599564|1.0|46.0|SI|Si||||Si||||SI|SI|SI|SI|SI|1.0|3900000.0
+2020-10-23|oficina|53095325|1|grupo_prob_baja|seg_preaprobado|0.004648630041629076|1.0|35.0|SI|Si||Si||Si||||||||||
+2020-10-23|oficina|7686878|1|grupo_prob_alta|seg_perfilado|0.00014723200001753867|3.0|50.0|SI|Si||||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-23|oficina|79349233|1|grupo_prob_baja|seg_perfilado|4.861779871134786e-06|5.0|56.0|SI|Si||||Si||NO VIABLE|Customer is independent|||||||
+2020-10-24|autogestion|60291449|1|grupo_prob_alta|seg_preaprobado|0.10409100353717804|5.0|59.0|SI|Si||Si||Si||||SI|SI|SI|SI|SI|1.0|3100000.0
+2020-10-24|oficina|20796591|1|grupo_prob_alta|seg_perfilado|8.701650222064927e-05|3.0|52.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-25|autogestion|40783998|1|grupo_prob_alta|seg_perfilado|0.00013832800323143601|3.0|43.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-25|autogestion|79538231|1|grupo_prob_alta|seg_perfilado|9.265560220228508e-05|3.0|51.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-26|atento|34998909|1|grupo_prob_alta|seg_preaprobado|0.15320099890232086|5.0|51.0|SI|No|Customer has an applications in process|||||||||||||
+2020-10-26|autogestion|19408663|1|grupo_prob_baja|seg_perfilado|2.6181500288657847e-05|5.0|62.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-26|autogestion|23493183|1|grupo_prob_alta|seg_perfilado|0.0014626700431108475|1.0|56.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-26|autogestion|7011478|1|grupo_prob_baja|seg_perfilado|1.0092199772770982e-05|5.0|37.0|SI|Si||Si||||||||||||
+2020-10-26|oficina|19370815|1|grupo_prob_baja|seg_perfilado|3.276050119893625e-05|4.0|63.0|SI|Si||Si||Si||NO VIABLE|Customer is independent|||||||
+2020-10-26|oficina|41444283|1|grupo_prob_baja|seg_preaprobado|0.012564600445330143|2.0|73.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-26|oficina|41618144|1|grupo_prob_baja|seg_perfilado|6.659440259682016e-05|4.0|67.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-27|autogestion|53011858|1|grupo_prob_alta|seg_perfilado|0.00011871400056406856|3.0|36.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-27|oficina|23268268|1|grupo_prob_alta|seg_preaprobado|0.08526240289211273|5.0|72.0|SI|No|Viabilidad - Habito de Pago Interno|||||||||||||
+2020-10-27|oficina|80076881|1|grupo_prob_baja|seg_perfilado|2.8693599233520214e-05|5.0|37.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-28|atento|22365304|1|grupo_prob_baja|seg_preaprobado|0.00797364953905344|1.0|75.0|SI|Si||Si||No|-1093-Validation Failed|||||||||
+2020-10-28|atento|24291664|1|grupo_prob_baja|seg_preaprobado|0.01996920071542263|2.0|78.0|SI|No|Viabilidad - Hábito Pago Interno|||||||||||||
+2020-10-28|atento|34523669|1|grupo_prob_baja|seg_preaprobado|0.012048100121319294|1.0|71.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-28|atento|453342|1|grupo_prob_baja|seg_preaprobado|0.008191330358386041|1.0|80.0|SI|No|Customer reported in aml-risk|||||||||||||
+2020-10-28|oficina|19253094|1|grupo_prob_baja|seg_preaprobado|||68.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-28|oficina|6100826|1|grupo_prob_baja|seg_perfilado|7.605709834024309e-05|4.0|41.0|SI|Si||Si||Si||VIABLE||||||||
+2020-10-28|oficina|6465276|1|grupo_prob_alta|seg_preaprobado|0.05800430104136468|4.0|54.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-28|oficina|70785118|1|grupo_prob_alta|seg_perfilado|0.0017801900394260888|1.0|45.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-29|atento|176109|1|grupo_prob_baja|seg_preaprobado|0.004218929912894964|1.0|80.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-29|atento|19158279|1|grupo_prob_baja|seg_preaprobado|0.006590680219233036|1.0|71.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-29|atento|19358938|1|grupo_prob_alta|seg_preaprobado|0.060406900942325585|4.0|63.0|SI|Si||Si||||||||||||
+2020-10-29|atento|24240281|1|grupo_prob_baja|seg_preaprobado|0.009421859867870808|1.0|72.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-29|atento|2754272|1|grupo_prob_alta|seg_preaprobado|0.06872309744358063|4.0|73.0|SI|No|The customer already have an approved application, during the last 45 days|||||||||||||
+2020-10-29|atento|3047312|1|grupo_prob_alta|seg_preaprobado|0.025678299367427826|3.0|76.0|SI|Si||Si||||||||||||
+2020-10-29|atento|34959410|1|grupo_prob_baja|seg_preaprobado|0.0035443799570202827|1.0|71.0|SI|Si||Si||||||||||||
+2020-10-29|atento|6237845|1|grupo_prob_alta|seg_preaprobado|0.08627930283546448|5.0|77.0|SI|Si||Si||No|-1093-Code Replay Attempt|||||||||
+2020-10-29|atento|8265740|1|grupo_prob_baja|seg_preaprobado|0.007278379984200002|1.0|75.0|SI|No|The customer already have an approved application, during the last 45 days|||||||||||||
+2020-10-29|atento|91297473|1|grupo_prob_baja|seg_preaprobado|0.007851719856262207|1.0|47.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-29|autogestion|24684898|1|grupo_prob_alta|seg_preaprobado|0.09926480054855348|5.0|69.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-29|autogestion|63465456|1|grupo_prob_alta|seg_perfilado|0.0004470710118766874|2.0|46.0|SI|Si||Si||Si||NO VIABLE|Formal Company doesnt exist|||||||
+2020-10-29|autogestion|79387283|1|grupo_prob_baja|seg_perfilado|5.589030115515925e-05|4.0|54.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-29|oficina|24684898|1|grupo_prob_alta|seg_preaprobado|0.09926480054855348|5.0|69.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-29|oficina|32416229|1|grupo_prob_alta|seg_preaprobado|0.08534140139818193|5.0|76.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-30|atento|13243986|1|grupo_prob_baja|seg_preaprobado|||69.0|SI|Si||Si||Si||NO VIABLE|Políticas-Edad mínima o máxima|||||||
+2020-10-30|atento|17150195|1|grupo_prob_alta|seg_preaprobado|0.12900400161743164|5.0|74.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-30|atento|176109|1|grupo_prob_baja|seg_preaprobado|0.004218929912894964|1.0|80.0|SI|Si||No|1120-No existe informacion para los criterios seleccionados.|||||||||||
+2020-10-30|atento|19158018|1|grupo_prob_alta|seg_preaprobado|0.13461799919605255|5.0|69.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-30|atento|19358938|1|grupo_prob_alta|seg_preaprobado|0.060406900942325585|4.0|63.0|SI|Si||Si||Si||VIABLE||SI|SI|SI|SI|SI|1.0|500000.0
+2020-10-30|atento|24684898|1|grupo_prob_alta|seg_preaprobado|0.09926480054855348|5.0|69.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-30|atento|28866002|1|grupo_prob_baja|seg_preaprobado|||52.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-30|atento|34998909|1|grupo_prob_alta|seg_preaprobado|0.15320099890232086|5.0|51.0|SI|Si||Si||Si||NO VIABLE|Company found in risk list|||||||
+2020-10-30|atento|37226518|1|grupo_prob_baja|seg_preaprobado|0.009308969601988792|1.0|70.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-30|atento|40795590|1|grupo_prob_baja|seg_preaprobado|0.006269860081374645|1.0|67.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-30|atento|42487695|1|grupo_prob_baja|seg_preaprobado|0.011104700155556202|1.0|71.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-30|atento|42970610|1|grupo_prob_alta|seg_preaprobado|0.04758569970726967|4.0|62.0|SI|Si||Si||||||||||||
+2020-10-30|atento|43513978|1|grupo_prob_alta|seg_preaprobado|0.1858569979667664|5.0|55.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-30|atento|79420079|1|grupo_prob_baja|seg_preaprobado|0.0035861099604517217|1.0|53.0|SI|No|Customer has an active credit card|||||||||||||
+2020-10-30|atento|9069854|1|grupo_prob_baja|seg_preaprobado|0.006222129799425602|1.0|74.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
+2020-10-30|oficina|26329018|1|grupo_prob_baja|seg_preaprobado|0.0080775897949934|1.0|53.0|SI|No|Viabilidad - Solicitudes en tramite|||||||||||||
+2020-10-30|oficina|32850289|1|grupo_prob_alta|seg_perfilado|0.0002252080012112856|2.0|44.0|SI|Si||No|10006-Mismatched phone number CIFIN|||||||||||
+2020-10-31|atento|17150195|1|grupo_prob_alta|seg_preaprobado|0.12900400161743164|5.0|74.0|SI|No|Customer is not viable from engine evaluation|||||||||||||
+2020-10-31|atento|9069854|1|grupo_prob_baja|seg_preaprobado|0.006222129799425602|1.0|74.0|SI|Si||Si||Si||NO VIABLE|Customer didnt report salaries in the last six months|||||||
